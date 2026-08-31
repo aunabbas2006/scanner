@@ -6,10 +6,20 @@
     "label:\"bounty\" is:issue is:open archived:false"
   ],
   "watch_repos": [
-    "documenso/documenso",
-    "twentyhq/twenty",
+    "gyroflow/gyroflow",
+    "prisma/orm",
+    "outerbase/starbasedb",
+    "PHPOffice/PHPWord",
+    "arakoodev/EdgeChains",
     "highlight/highlight",
-    "activepieces/activepieces"
+    "coollabsio/coolify",
+    "getdozer/dozer",
+    "zio/zio-http",
+    "d2lang/d2",
+    "permitio/opal",
+    "scratchdata/scratchdata",
+    "revertinc/revert",
+    "tscircuit/jlcsearch"
   ],
   "min_amount": 25,
   "max_age_days": 45,
