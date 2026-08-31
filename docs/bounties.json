@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-31T09:46:32.272655+00:00",
- "new_count": 15,
+ "updated": "2026-08-31T13:41:29.568282+00:00",
+ "new_count": 4,
  "bounties": [
   {
    "url": "https://github.com/getdozer/dozer/issues/1631",
@@ -9,6 +9,7 @@
    "stars": 0,
    "watched": true,
    "amount": 21000.0,
+   "status": "open",
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
@@ -24,6 +25,7 @@
    "stars": 300,
    "watched": false,
    "amount": 2000.0,
+   "status": "open",
    "labels": [
     "enhancement",
     "team:viewer",
@@ -36,12 +38,139 @@
    "first_seen": "2026-08-31T09:46:32.272655+00:00"
   },
   {
+   "url": "https://github.com/gyroflow/gyroflow/issues/45",
+   "title": "Optical only stabilization",
+   "repo": "gyroflow/gyroflow",
+   "stars": 0,
+   "watched": true,
+   "amount": 500.0,
+   "status": "open",
+   "labels": [
+    "enhancement",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 34,
+   "created_at": "2022-02-03T23:15:53Z",
+   "assigned": false,
+   "first_seen": "2026-08-31T09:46:32.272655+00:00"
+  },
+  {
+   "url": "https://github.com/gyroflow/gyroflow/issues/150",
+   "title": "Support lensfun database",
+   "repo": "gyroflow/gyroflow",
+   "stars": 0,
+   "watched": true,
+   "amount": 200.0,
+   "status": "open",
+   "labels": [
+    "enhancement",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 34,
+   "created_at": "2022-02-09T16:07:24Z",
+   "assigned": false,
+   "first_seen": "2026-08-31T13:41:29.568282+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 0,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 10,
+   "created_at": "2024-04-29T11:50:14Z",
+   "assigned": true,
+   "first_seen": "2026-08-31T13:41:29.568282+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/372",
+   "title": "[REVER-48] Workday Integration",
+   "repo": "revertinc/revert",
+   "stars": 0,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "none",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 11,
+   "created_at": "2023-11-20T07:09:27Z",
+   "assigned": true,
+   "first_seen": "2026-08-31T13:41:29.568282+00:00"
+  },
+  {
+   "url": "https://github.com/tscircuit/jlcsearch/issues/92",
+   "title": "Add `is_extended_promotional ` column to components (from data source)",
+   "repo": "tscircuit/jlcsearch",
+   "stars": 0,
+   "watched": true,
+   "amount": 75.0,
+   "status": "open",
+   "labels": [
+    "\ud83d\udc8e Bounty",
+    "$1"
+   ],
+   "comments": 134,
+   "created_at": "2025-10-07T18:30:54Z",
+   "assigned": false,
+   "first_seen": "2026-08-31T13:41:29.568282+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
+   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 0,
+   "watched": true,
+   "amount": 30.0,
+   "status": "open",
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 63,
+   "created_at": "2023-11-26T19:15:36Z",
+   "assigned": false,
+   "first_seen": "2026-08-31T09:46:32.272655+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 0,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 46,
+   "created_at": "2023-11-30T10:03:48Z",
+   "assigned": false,
+   "first_seen": "2026-08-31T09:46:32.272655+00:00"
+  },
+  {
    "url": "https://github.com/getdozer/dozer/issues/1659",
    "title": "Support for `IN` clause in streaming SQL",
    "repo": "getdozer/dozer",
    "stars": 0,
    "watched": true,
    "amount": 600.0,
+   "status": "claimed",
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
@@ -57,6 +186,7 @@
    "stars": 0,
    "watched": true,
    "amount": 600.0,
+   "status": "claimed",
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
@@ -72,6 +202,7 @@
    "stars": 0,
    "watched": true,
    "amount": 500.0,
+   "status": "claimed",
    "labels": [
     "enhancement",
     "\ud83d\udc8e Bounty"
@@ -82,83 +213,13 @@
    "first_seen": "2026-08-31T09:46:32.272655+00:00"
   },
   {
-   "url": "https://github.com/gyroflow/gyroflow/issues/45",
-   "title": "Optical only stabilization",
-   "repo": "gyroflow/gyroflow",
-   "stars": 0,
-   "watched": true,
-   "amount": 500.0,
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 34,
-   "created_at": "2022-02-03T23:15:53Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/outerbase/starbasedb/issues/71",
-   "title": "Improve test coverage with Vitest",
-   "repo": "outerbase/starbasedb",
-   "stars": 0,
-   "watched": true,
-   "amount": 250.0,
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty",
-    "\ud83d\udcb0 Rewarded"
-   ],
-   "comments": 92,
-   "created_at": "2025-01-23T20:00:07Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/highlight/highlight/issues/5082",
-   "title": "Support Elixir among our SDKs",
-   "repo": "highlight/highlight",
-   "stars": 0,
-   "watched": true,
-   "amount": 250.0,
-   "labels": [
-    "help wanted",
-    "external bug / request",
-    "sdk",
-    "\ud83d\udc8e Bounty",
-    "\ud83d\udcb0 Rewarded"
-   ],
-   "comments": 32,
-   "created_at": "2023-04-21T22:38:27Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/highlight/highlight/issues/4225",
-   "title": "Support PHP (Laravel+Symphony) among our SDKs",
-   "repo": "highlight/highlight",
-   "stars": 0,
-   "watched": true,
-   "amount": 250.0,
-   "labels": [
-    "help wanted",
-    "external bug / request",
-    "sdk",
-    "\ud83d\udc8e Bounty",
-    "\ud83d\udcb0 Rewarded"
-   ],
-   "comments": 16,
-   "created_at": "2023-02-10T23:40:33Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
    "stars": 0,
    "watched": true,
    "amount": 250.0,
+   "status": "claimed",
    "labels": [
     "documentation",
     "\ud83d\udc8e Bounty"
@@ -175,6 +236,7 @@
    "stars": 0,
    "watched": true,
    "amount": 50.0,
+   "status": "claimed",
    "labels": [
     "Change Request",
     "\ud83d\udc8e Bounty"
@@ -191,58 +253,13 @@
    "stars": 0,
    "watched": true,
    "amount": 50.0,
+   "status": "claimed",
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
    "comments": 65,
    "created_at": "2023-12-03T09:33:28Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/highlight/highlight/issues/9607",
-   "title": "Enhance log filtering by record attributes",
-   "repo": "highlight/highlight",
-   "stars": 0,
-   "watched": true,
-   "amount": 40.0,
-   "labels": [
-    "\ud83d\udc8e Bounty",
-    "\ud83d\udcb0 Rewarded"
-   ],
-   "comments": 41,
-   "created_at": "2024-11-07T02:50:54Z",
-   "assigned": true,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
-   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 0,
-   "watched": true,
-   "amount": 30.0,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 63,
-   "created_at": "2023-11-26T19:15:36Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 0,
-   "watched": true,
-   "amount": 25.0,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 46,
-   "created_at": "2023-11-30T10:03:48Z",
    "assigned": false,
    "first_seen": "2026-08-31T09:46:32.272655+00:00"
   }
