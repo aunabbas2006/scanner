@@ -82,7 +82,7 @@ const render = () => {
           ${b.attempts ? `· <span class="warn">${b.attempts} attempting</span>` : ''}
           ${b.has_pr ? '· <span class="warn">PR submitted</span>' : ''}
           ${b.assigned ? '· <span class="warn">assigned</span>' : ''}</span>
-        <span class="why">${(b.why||[]).join(' · ')}</span>
+        <span class="why">50 (base) · ${(b.why||[]).join(' · ')} = <b>${b.score}</b></span>
       </span>
       ${fresh ? '<span class="tag">NEW</span>' : ''}
     </a>`;
