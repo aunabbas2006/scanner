@@ -18,6 +18,7 @@ input{width:100%;padding:9px 12px;margin-bottom:14px;background:var(--card);colo
 a.row{display:flex;gap:14px;align-items:baseline;padding:12px 14px;margin-bottom:7px;background:var(--card);
   border:1px solid var(--line);border-radius:8px;text-decoration:none;color:inherit}
 a.row:hover{border-color:var(--accent)}
+a.row.claimed{opacity:.55}
 .amt{font-weight:650;color:var(--accent);font-variant-numeric:tabular-nums;min-width:64px}
 .mid{flex:1;min-width:0}
 .title{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -57,11 +58,12 @@ const render = () => {
     !q || (b.repo+' '+b.title+' '+b.labels.join(' ')).toLowerCase().includes(q));
   document.getElementById('list').innerHTML = show.map(b => {
     const fresh = (Date.now() - new Date(b.first_seen)) < 6*36e5;
-    return `<a class="row" href="${b.url}" target="_blank" rel="noopener">
+    return `<a class="row${b.status === 'claimed' ? ' claimed' : ''}" href="${b.url}" target="_blank" rel="noopener">
       <span class="amt">${fmt(b.amount)}</span>
       <span class="mid">
         <span class="title">${b.title.replace(/</g,'&lt;')}</span>
         <span class="meta">${b.repo} · ${ago(b.created_at)} old · ${b.comments} comments
+          ${b.status === 'claimed' ? '· <span class="warn">someone attempting</span>' : ''}
           ${b.assigned ? '· <span class="warn">assigned</span>' : ''}</span>
       </span>
       ${fresh ? '<span class="tag">NEW</span>' : ''}

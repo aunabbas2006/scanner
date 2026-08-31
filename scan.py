@@ -56,16 +56,36 @@ def stars(repo):
     return _stars[repo]
 
 
-def amount_from_comments(issue):
-    """Algora/Polar bots post the amount as a comment, not in the issue body."""
+def classify_comments(comments):
+    """Pure classifier: Algora leaves the bounty label on forever, even after payout —
+    the bot's comment thread is the only real signal of whether it's still claimable.
+    Returns (amount, status): status is 'awarded' > 'claimed' > 'open'."""
+    amount, status = None, "open"
+    for c in comments:
+        body = c.get("body", "")
+        if amount is None:
+            amount = parse_amount(body) or amount
+        if "algora" not in c.get("user", {}).get("login", "").lower():
+            continue
+        low = body.lower()
+        if "has been awarded" in low:
+            status = "awarded"
+        elif "already attempting" in low and status == "open":
+            status = "claimed"
+    return amount, status
+
+
+def bounty_status(issue):
+    """Fetch the full comment thread and classify it. Award comments land late in
+    long threads, so page to the end rather than trusting just the first page."""
+    n_pages = max(1, -(-issue.get("comments", 0) // 100))
     try:
-        for c in get(issue["comments_url"] + "?per_page=20"):
-            amt = parse_amount(c.get("body", ""))
-            if amt:
-                return amt
+        comments = []
+        for page in range(1, n_pages + 1):
+            comments += get(f"{issue['comments_url']}?per_page=100&page={page}")
+        return classify_comments(comments)
     except Exception:
-        pass
-    return None
+        return None, "open"
 
 
 def search(query):
@@ -102,9 +122,12 @@ def collect(cfg):
             if url in found or (repo not in watched and stars(repo) < cfg.get("min_stars", 300)):
                 continue
             amount = parse_amount(" ".join([it["title"], it.get("body") or ""]))
-            if amount is None:
-                amount = amount_from_comments(it)
-            if amount is None or amount < cfg.get("min_amount", 0):
+            status = "open"
+            if amount is None or it.get("comments", 0) > 0:
+                # need the thread anyway to check for a hidden "awarded" comment
+                c_amount, status = bounty_status(it)
+                amount = amount or c_amount
+            if amount is None or amount < cfg.get("min_amount", 0) or status == "awarded":
                 continue
             found[url] = {
                 "url": url,
@@ -113,6 +136,7 @@ def collect(cfg):
                 "stars": _stars.get(repo, 0),
                 "watched": repo in watched,
                 "amount": amount,
+                "status": status,
                 "labels": [l["name"] for l in it.get("labels", [])],
                 "comments": it.get("comments", 0),
                 "created_at": it["created_at"],
@@ -153,7 +177,7 @@ def main():
             b["first_seen"] = now
             new.append(b)
 
-    bounties = sorted(found.values(), key=lambda b: -b["amount"])
+    bounties = sorted(found.values(), key=lambda b: (b["status"] != "open", -b["amount"]))
     os.makedirs("docs", exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump({"updated": now, "new_count": len(new), "bounties": bounties}, f, indent=1)
