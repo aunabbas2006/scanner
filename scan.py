@@ -1,5 +1,5 @@
 """Scan GitHub for open bounty issues, write docs/bounties.json, ping ntfy on new ones."""
-import json, os, re, sys, urllib.request, urllib.parse, urllib.error
+import json, os, re, sys, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timezone, timedelta
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -89,19 +89,30 @@ def bounty_status(issue):
 
 
 def search(query):
+    """GitHub's search API allows 30 req/min. With ~50 watched repos we WILL hit that,
+    and a silent 403 means silently missing bounties — so back off and retry instead."""
     url = f"{API}?q={urllib.parse.quote(query)}&sort=created&order=desc&per_page=50"
-    try:
-        return get(url).get("items", [])
-    except urllib.error.HTTPError as e:
-        print(f"  ! {e.code} on {query!r}", file=sys.stderr)
-        return []
+    for attempt in range(4):
+        try:
+            return get(url).get("items", [])
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 429) and attempt < 3:
+                wait = 20 * (attempt + 1)
+                print(f"  . rate limited, waiting {wait}s", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            print(f"  ! {e.code} on {query!r}", file=sys.stderr)
+            return []
+    return []
 
 
 def collect(cfg):
     queries = list(cfg["queries"])
     queries += [f'repo:{r} is:issue is:open label:"{GEM}"' for r in cfg.get("watch_repos", [])]
     watched = set(cfg.get("watch_repos", []))
-    cutoff = datetime.now(timezone.utc) - timedelta(days=cfg.get("max_age_days", 45))
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=cfg.get("max_age_days", 45))
+    watch_cutoff = now - timedelta(days=cfg.get("watch_max_age_days", 400))
     found = {}
     for q in queries:
         items = search(q)
@@ -111,13 +122,13 @@ def collect(cfg):
                 continue
             url = it["html_url"]
             repo = "/".join(url.split("/")[3:5])
-            if repo not in watched:
-                # created_at is the issue's birthdate, not the bounty's — a stale issue
-                # can get a bounty slapped on today. updated_at is closer to "still live",
-                # and watched repos skip this check entirely since you already vetted them.
-                updated = datetime.fromisoformat(it["updated_at"].replace("Z", "+00:00"))
-                if updated < cutoff:
-                    continue
+            # created_at is the issue's birthdate, not the bounty's — a stale issue can
+            # get a bounty slapped on today, so updated_at is the freshness signal.
+            # A years-old thread with zero recent activity is usually genuinely
+            # abandoned or too hard for anyone to have finished — skip it either way.
+            updated = datetime.fromisoformat(it["updated_at"].replace("Z", "+00:00"))
+            if updated < (watch_cutoff if repo in watched else cutoff):
+                continue
             # watched repos bypass the star gate; you vouched for them already
             if url in found or (repo not in watched and stars(repo) < cfg.get("min_stars", 300)):
                 continue
@@ -127,7 +138,9 @@ def collect(cfg):
                 # need the thread anyway to check for a hidden "awarded" comment
                 c_amount, status = bounty_status(it)
                 amount = amount or c_amount
-            if amount is None or amount < cfg.get("min_amount", 0) or status == "awarded":
+            if amount is None or not (cfg.get("min_amount", 0) <= amount <= cfg.get("max_amount", 1e9)):
+                continue
+            if status == "awarded":
                 continue
             found[url] = {
                 "url": url,
