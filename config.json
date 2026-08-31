@@ -1,0 +1,17 @@
+{
+  "queries": [
+    "label:\"\ud83d\udc8e Bounty\" is:issue is:open",
+    "label:bounty is:issue is:open",
+    "label:\"\ud83d\udcb0 Reward\" is:issue is:open",
+    "label:\"bounty\" is:issue is:open archived:false"
+  ],
+  "watch_repos": [
+    "documenso/documenso",
+    "twentyhq/twenty",
+    "highlight/highlight",
+    "activepieces/activepieces"
+  ],
+  "min_amount": 25,
+  "max_age_days": 45,
+  "min_stars": 300
+}
