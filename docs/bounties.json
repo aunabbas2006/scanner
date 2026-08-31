@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T17:12:44.549303+00:00",
+ "updated": "2026-08-31T21:55:19.803778+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -39,7 +39,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9428,
+   "stars": 9431,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -109,16 +109,16 @@
     "\ud83d\udc8e Bounty",
     "$1"
    ],
-   "comments": 134,
+   "comments": 133,
    "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-08-30T14:39:52Z",
+   "updated_at": "2026-08-31T20:15:35Z",
    "assigned": false,
    "score": 35,
    "why": [
     "-30 84 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $75",
-    "-12 134 comments"
+    "-12 133 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -212,7 +212,7 @@
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24148,
+   "stars": 24152,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -232,7 +232,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24148 stars"
+    "-10 24152 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -240,7 +240,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57716,
+   "stars": 57720,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -262,7 +262,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57716 stars"
+    "-10 57720 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57716,
+   "stars": 57720,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57716 stars"
+    "-10 57720 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,11 +299,11 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31868,
+   "stars": 31870,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 56,
+   "attempts": 55,
    "has_pr": true,
    "labels": [
     "enhancement",
@@ -317,10 +317,10 @@
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 56 attempt(s)",
+    "-30 55 attempt(s)",
     "+12 $250",
     "-12 131 comments",
-    "-10 31868 stars"
+    "-10 31870 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
