@@ -1,88 +1,414 @@
 {
- "updated": "2026-08-31T13:50:33.854688+00:00",
- "new_count": 1,
+ "updated": "2026-08-31T13:54:38.791784+00:00",
+ "new_count": 14,
  "bounties": [
   {
-   "url": "https://github.com/tscircuit/core/issues/1",
-   "title": "Fix footprint parser for 0402 pads",
-   "repo": "tscircuit/core",
-   "stars": 1400,
+   "url": "https://github.com/revertinc/revert/issues/372",
+   "title": "[REVER-48] Workday Integration",
+   "repo": "revertinc/revert",
+   "stars": 1012,
    "watched": true,
-   "amount": 100,
+   "amount": 100.0,
    "status": "open",
-   "attempts": 0,
+   "attempts": 2,
    "has_pr": false,
    "labels": [
-    "good first issue"
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "none",
+    "ATS",
+    "\ud83d\udc8e Bounty"
    ],
-   "comments": 1,
-   "created_at": "2026-08-28T13:50:33.854688Z",
-   "updated_at": "2026-08-30T13:50:33.854688Z",
-   "assigned": false,
-   "score": 100,
+   "comments": 11,
+   "created_at": "2023-11-20T07:09:27Z",
+   "updated_at": "2026-07-18T02:05:36Z",
+   "assigned": true,
+   "score": 43,
    "why": [
-    "+15 1d since activity",
+    "-15 assigned",
+    "-18 2 attempt(s)",
     "+12 $100",
-    "+10 1 comments",
-    "+10 1400 stars",
-    "+8 beginner-friendly label"
+    "+4 11 comments",
+    "+10 1012 stars"
    ],
-   "first_seen": "2026-08-31T13:50:33.854688Z"
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
-   "url": "https://github.com/permitio/opal/issues/2",
-   "title": "Add retry to webhook client",
-   "repo": "permitio/opal",
-   "stars": 5504,
+   "url": "https://github.com/gyroflow/gyroflow/issues/150",
+   "title": "Support lensfun database",
+   "repo": "gyroflow/gyroflow",
+   "stars": 9426,
    "watched": true,
-   "amount": 250,
+   "amount": 200.0,
    "status": "open",
-   "attempts": 1,
+   "attempts": 5,
    "has_pr": false,
-   "labels": [],
-   "comments": 8,
-   "created_at": "2026-08-01T13:50:33.854688Z",
-   "updated_at": "2026-08-19T13:50:33.854688Z",
+   "labels": [
+    "enhancement",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 34,
+   "created_at": "2022-02-09T16:07:24Z",
+   "updated_at": "2026-08-31T01:04:00Z",
    "assigned": false,
-   "score": 65,
+   "score": 42,
    "why": [
-    "-9 1 attempt(s)",
+    "-30 5 attempt(s)",
+    "+15 0d since activity",
+    "+12 $200",
+    "-5 34 comments"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 1012,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 3,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 10,
+   "created_at": "2024-04-29T11:50:14Z",
+   "updated_at": "2026-08-08T16:31:27Z",
+   "assigned": true,
+   "score": 42,
+   "why": [
+    "-15 assigned",
+    "-27 3 attempt(s)",
+    "+8 22d since activity",
+    "+12 $100",
+    "+4 10 comments",
+    "+10 1012 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/tscircuit/jlcsearch/issues/92",
+   "title": "Add `is_extended_promotional ` column to components (from data source)",
+   "repo": "tscircuit/jlcsearch",
+   "stars": 31,
+   "watched": true,
+   "amount": 75.0,
+   "status": "open",
+   "attempts": 84,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty",
+    "$1"
+   ],
+   "comments": 134,
+   "created_at": "2025-10-07T18:30:54Z",
+   "updated_at": "2026-08-30T14:39:52Z",
+   "assigned": false,
+   "score": 35,
+   "why": [
+    "-30 84 attempt(s)",
+    "+15 0d since activity",
+    "+12 $75",
+    "-12 134 comments"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 427,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "attempts": 16,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 46,
+   "created_at": "2023-11-30T10:03:48Z",
+   "updated_at": "2026-08-08T03:28:23Z",
+   "assigned": false,
+   "score": 30,
+   "why": [
+    "-30 16 attempt(s)",
+    "+8 23d since activity",
+    "+4 $25",
+    "-12 46 comments",
+    "+10 427 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/getdozer/dozer/issues/1690",
+   "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
+   "repo": "getdozer/dozer",
+   "stars": 1580,
+   "watched": true,
+   "amount": 250.0,
+   "status": "claimed",
+   "attempts": 6,
+   "has_pr": false,
+   "labels": [
+    "documentation",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 26,
+   "created_at": "2023-06-28T14:11:53Z",
+   "updated_at": "2026-08-19T11:36:59Z",
+   "assigned": false,
+   "score": 28,
+   "why": [
+    "-25 someone attempting",
+    "-30 6 attempt(s)",
     "+8 12d since activity",
     "+12 $250",
-    "+4 8 comments"
+    "-5 26 comments",
+    "+10 1580 stars",
+    "+8 beginner-friendly label"
    ],
-   "first_seen": "2026-08-31T13:50:33.854688Z"
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
-   "url": "https://github.com/prisma/orm/issues/3",
-   "title": "Support composite keys in introspection",
-   "repo": "prisma/orm",
-   "stars": 47575,
+   "url": "https://github.com/arakoodev/EdgeChains/issues/290",
+   "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 427,
    "watched": true,
-   "amount": 300,
+   "amount": 50.0,
+   "status": "claimed",
+   "attempts": 31,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty",
+    "$50"
+   ],
+   "comments": 65,
+   "created_at": "2023-12-03T09:33:28Z",
+   "updated_at": "2026-08-27T10:26:43Z",
+   "assigned": false,
+   "score": 20,
+   "why": [
+    "-25 someone attempting",
+    "-30 31 attempt(s)",
+    "+15 4d since activity",
+    "+12 $50",
+    "-12 65 comments",
+    "+10 427 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/activepieces/activepieces/issues/8072",
+   "title": "[MCP] Gmail",
+   "repo": "activepieces/activepieces",
+   "stars": 24146,
+   "watched": true,
+   "amount": 200.0,
+   "status": "open",
+   "attempts": 15,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty",
+    "$200",
+    "\ud83e\udde9 area/third-party-pieces"
+   ],
+   "comments": 28,
+   "created_at": "2025-06-16T06:04:25Z",
+   "updated_at": "2026-07-22T07:12:26Z",
+   "assigned": false,
+   "score": 17,
+   "why": [
+    "-30 15 attempt(s)",
+    "+12 $200",
+    "-5 28 comments",
+    "-10 24146 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/go-gitea/gitea/issues/1872",
+   "title": "Subgroups in Gitea",
+   "repo": "go-gitea/gitea",
+   "stars": 57711,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 4,
+   "has_pr": false,
+   "labels": [
+    "type/proposal",
+    "\ud83d\udc8e Bounty",
+    "$250",
+    "$50",
+    "$500"
+   ],
+   "comments": 129,
+   "created_at": "2017-06-04T12:33:24Z",
+   "updated_at": "2026-06-16T20:15:12Z",
+   "assigned": false,
+   "score": 10,
+   "why": [
+    "-30 4 attempt(s)",
+    "+12 $100",
+    "-12 129 comments",
+    "-10 57711 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/go-gitea/gitea/issues/4898",
+   "title": "Add inline comments on commits",
+   "repo": "go-gitea/gitea",
+   "stars": 57711,
+   "watched": true,
+   "amount": 300.0,
+   "status": "open",
+   "attempts": 10,
+   "has_pr": true,
+   "labels": [
+    "type/feature",
+    "issue/confirmed",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 121,
+   "created_at": "2018-09-09T12:57:17Z",
+   "updated_at": "2026-07-05T19:07:00Z",
+   "assigned": false,
+   "score": 1,
+   "why": [
+    "-35 PR already submitted",
+    "-30 10 attempt(s)",
+    "+6 $300",
+    "-12 121 comments",
+    "-10 57711 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
+   "title": "Jira Service Management Connector",
+   "repo": "onyx-dot-app/onyx",
+   "stars": 31863,
+   "watched": true,
+   "amount": 250.0,
+   "status": "open",
+   "attempts": 56,
+   "has_pr": true,
+   "labels": [
+    "enhancement",
+    "maintainer approved",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 131,
+   "created_at": "2024-08-30T23:46:34Z",
+   "updated_at": "2026-07-18T03:53:20Z",
+   "assigned": false,
+   "score": 1,
+   "why": [
+    "-35 PR already submitted",
+    "-30 56 attempt(s)",
+    "+12 $250",
+    "-12 131 comments",
+    "-10 31863 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/PHPOffice/PHPWord/issues/69",
+   "title": "Implement WPS Writer",
+   "repo": "PHPOffice/PHPWord",
+   "stars": 7585,
+   "watched": true,
+   "amount": 50.0,
    "status": "claimed",
    "attempts": 4,
    "has_pr": true,
    "labels": [
-    "feature request"
+    "Change Request",
+    "\ud83d\udc8e Bounty"
    ],
-   "comments": 73,
-   "created_at": "2025-01-08T13:50:33.854688Z",
-   "updated_at": "2026-02-12T13:50:33.854688Z",
-   "assigned": true,
+   "comments": 12,
+   "created_at": "2014-02-27T13:56:18Z",
+   "updated_at": "2026-08-27T17:07:18Z",
+   "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-15 assigned",
     "-30 4 attempt(s)",
-    "-15 200d since activity",
-    "+6 $300",
-    "-12 73 comments",
-    "-10 47575 stars",
-    "-6 large-scope label"
+    "+15 3d since activity",
+    "+12 $50",
+    "+4 12 comments"
    ],
-   "first_seen": "2026-08-31T13:50:33.854688Z"
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/tryabby/abby/issues/68",
+   "title": "Vue Integration",
+   "repo": "tryabby/abby",
+   "stars": 167,
+   "watched": true,
+   "amount": 40.0,
+   "status": "claimed",
+   "attempts": 6,
+   "has_pr": true,
+   "labels": [
+    "enhancement",
+    "hacktoberfest",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 27,
+   "created_at": "2023-10-02T13:16:21Z",
+   "updated_at": "2026-07-03T22:24:02Z",
+   "assigned": false,
+   "score": 1,
+   "why": [
+    "-35 PR already submitted",
+    "-25 someone attempting",
+    "-30 6 attempt(s)",
+    "+4 $40",
+    "-5 27 comments"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
+   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 427,
+   "watched": true,
+   "amount": 30.0,
+   "status": "open",
+   "attempts": 32,
+   "has_pr": true,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 63,
+   "created_at": "2023-11-26T19:15:36Z",
+   "updated_at": "2026-08-19T09:27:20Z",
+   "assigned": false,
+   "score": 1,
+   "why": [
+    "-35 PR already submitted",
+    "-30 32 attempt(s)",
+    "+8 12d since activity",
+    "+4 $30",
+    "-12 63 comments",
+    "+10 427 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
  ]
 }
