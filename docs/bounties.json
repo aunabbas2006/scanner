@@ -1,21 +1,5 @@
 {
- "updated": "2026-08-31T09:06:22.311748+00:00",
- "new_count": 1,
- "bounties": [
-  {
-   "url": "https://github.com/example/repo/issues/1",
-   "title": "Sample - replace on first real run",
-   "repo": "example/repo",
-   "stars": 1200,
-   "watched": true,
-   "amount": 250,
-   "labels": [
-    "bounty"
-   ],
-   "comments": 3,
-   "created_at": "2026-08-31T09:06:22.311748+00:00",
-   "first_seen": "2026-08-31T09:06:22.311748+00:00",
-   "assigned": false
-  }
- ]
+ "updated": "2026-08-31T09:35:12.703622+00:00",
+ "new_count": 0,
+ "bounties": []
 }
