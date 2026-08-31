@@ -89,11 +89,15 @@ def collect(cfg):
         for it in items:
             if it.get("pull_request"):
                 continue
-            created = datetime.fromisoformat(it["created_at"].replace("Z", "+00:00"))
-            if created < cutoff:
-                continue
             url = it["html_url"]
             repo = "/".join(url.split("/")[3:5])
+            if repo not in watched:
+                # created_at is the issue's birthdate, not the bounty's — a stale issue
+                # can get a bounty slapped on today. updated_at is closer to "still live",
+                # and watched repos skip this check entirely since you already vetted them.
+                updated = datetime.fromisoformat(it["updated_at"].replace("Z", "+00:00"))
+                if updated < cutoff:
+                    continue
             # watched repos bypass the star gate; you vouched for them already
             if url in found or (repo not in watched and stars(repo) < cfg.get("min_stars", 300)):
                 continue
