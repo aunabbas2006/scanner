@@ -30,6 +30,10 @@ a.row.claimed{opacity:.55}
 .tag{color:var(--new);font-weight:600;font-size:11px;letter-spacing:.04em}
 .warn{color:var(--dim);font-size:11px}
 footer{color:var(--dim);font-size:12px;margin-top:20px}
+.grand-total{text-align:center;padding:28px 14px;margin-top:8px;border-top:1px solid var(--line)}
+.gt-label{display:block;color:var(--dim);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-bottom:6px}
+.gt-amt{display:block;font-size:48px;font-weight:750;letter-spacing:-.02em;color:var(--accent);font-variant-numeric:tabular-nums}
+@media(max-width:480px){.gt-amt{font-size:36px}}
 </style>
 
 <header>
@@ -46,6 +50,12 @@ footer{color:var(--dim);font-size:12px;margin-top:20px}
 
 <input id="q" placeholder="filter by repo, title, or label…  (score = should you start it)">
 <div id="list"></div>
+
+<div class="grand-total">
+  <span class="gt-label" id="gt-label">total shown</span>
+  <span class="gt-amt" id="gt-amt">$0</span>
+</div>
+
 <footer>Updated every ~15 min by GitHub Actions. Comment and get assigned before you write code.</footer>
 
 <script>
@@ -77,6 +87,11 @@ const render = () => {
       ${fresh ? '<span class="tag">NEW</span>' : ''}
     </a>`;
   }).join('') || '<p class="sub">Nothing matches.</p>';
+
+  const total = show.reduce((s, b) => s + b.amount, 0);
+  document.getElementById('gt-amt').textContent = fmt(total);
+  document.getElementById('gt-label').textContent =
+    q ? `total shown (${show.length} filtered)` : `total shown (${show.length} bounties)`;
 };
 
 fetch('bounties.json?' + Date.now()).then(r => r.json()).then(d => {
