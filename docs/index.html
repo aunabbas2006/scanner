@@ -64,8 +64,7 @@ const render = () => {
     const fresh = (Date.now() - new Date(b.first_seen)) < 6*36e5;
     const cls = b.score >= 70 ? 's-hi' : b.score >= 45 ? 's-mid' : 's-lo';
     return `<a class="row${b.score < 45 ? ' claimed' : ''}" href="${b.url}" target="_blank" rel="noopener">
-      <span class="score ${cls}" title="${(b.why||[]).join('
-')}">${b.score}</span>
+      <span class="score ${cls}" title="${(b.why||[]).join(String.fromCharCode(10))}">${b.score}</span>
       <span class="amt">${fmt(b.amount)}</span>
       <span class="mid">
         <span class="title">${b.title.replace(/</g,'&lt;')}</span>
