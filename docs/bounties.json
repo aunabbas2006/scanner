@@ -1,267 +1,88 @@
 {
- "updated": "2026-08-31T13:41:29.568282+00:00",
- "new_count": 4,
+ "updated": "2026-08-31T13:50:33.854688+00:00",
+ "new_count": 1,
  "bounties": [
   {
-   "url": "https://github.com/getdozer/dozer/issues/1631",
-   "title": "Create an Introductory Video for Dozer",
-   "repo": "getdozer/dozer",
-   "stars": 0,
+   "url": "https://github.com/tscircuit/core/issues/1",
+   "title": "Fix footprint parser for 0402 pads",
+   "repo": "tscircuit/core",
+   "stars": 1400,
    "watched": true,
-   "amount": 21000.0,
+   "amount": 100,
    "status": "open",
+   "attempts": 0,
+   "has_pr": false,
    "labels": [
-    "\ud83d\udc8e Bounty"
+    "good first issue"
    ],
-   "comments": 18,
-   "created_at": "2023-06-07T09:16:21Z",
+   "comments": 1,
+   "created_at": "2026-08-28T13:50:33.854688Z",
+   "updated_at": "2026-08-30T13:50:33.854688Z",
    "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
+   "score": 100,
+   "why": [
+    "+15 1d since activity",
+    "+12 $100",
+    "+10 1 comments",
+    "+10 1400 stars",
+    "+8 beginner-friendly label"
+   ],
+   "first_seen": "2026-08-31T13:50:33.854688Z"
   },
   {
-   "url": "https://github.com/secondlife/viewer/issues/1149",
-   "title": "Linux Support",
-   "repo": "secondlife/viewer",
-   "stars": 300,
-   "watched": false,
-   "amount": 2000.0,
+   "url": "https://github.com/permitio/opal/issues/2",
+   "title": "Add retry to webhook client",
+   "repo": "permitio/opal",
+   "stars": 5504,
+   "watched": true,
+   "amount": 250,
    "status": "open",
-   "labels": [
-    "enhancement",
-    "team:viewer",
-    "linux",
-    "\ud83d\udcb0 Reward"
+   "attempts": 1,
+   "has_pr": false,
+   "labels": [],
+   "comments": 8,
+   "created_at": "2026-08-01T13:50:33.854688Z",
+   "updated_at": "2026-08-19T13:50:33.854688Z",
+   "assigned": false,
+   "score": 65,
+   "why": [
+    "-9 1 attempt(s)",
+    "+8 12d since activity",
+    "+12 $250",
+    "+4 8 comments"
    ],
-   "comments": 21,
-   "created_at": "2024-04-06T20:00:27Z",
+   "first_seen": "2026-08-31T13:50:33.854688Z"
+  },
+  {
+   "url": "https://github.com/prisma/orm/issues/3",
+   "title": "Support composite keys in introspection",
+   "repo": "prisma/orm",
+   "stars": 47575,
+   "watched": true,
+   "amount": 300,
+   "status": "claimed",
+   "attempts": 4,
+   "has_pr": true,
+   "labels": [
+    "feature request"
+   ],
+   "comments": 73,
+   "created_at": "2025-01-08T13:50:33.854688Z",
+   "updated_at": "2026-02-12T13:50:33.854688Z",
    "assigned": true,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/45",
-   "title": "Optical only stabilization",
-   "repo": "gyroflow/gyroflow",
-   "stars": 0,
-   "watched": true,
-   "amount": 500.0,
-   "status": "open",
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
+   "score": 1,
+   "why": [
+    "-35 PR already submitted",
+    "-25 someone attempting",
+    "-15 assigned",
+    "-30 4 attempt(s)",
+    "-15 200d since activity",
+    "+6 $300",
+    "-12 73 comments",
+    "-10 47575 stars",
+    "-6 large-scope label"
    ],
-   "comments": 34,
-   "created_at": "2022-02-03T23:15:53Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/150",
-   "title": "Support lensfun database",
-   "repo": "gyroflow/gyroflow",
-   "stars": 0,
-   "watched": true,
-   "amount": 200.0,
-   "status": "open",
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 34,
-   "created_at": "2022-02-09T16:07:24Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T13:41:29.568282+00:00"
-  },
-  {
-   "url": "https://github.com/revertinc/revert/issues/551",
-   "title": "[REVER-51] Workable Integration",
-   "repo": "revertinc/revert",
-   "stars": 0,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 10,
-   "created_at": "2024-04-29T11:50:14Z",
-   "assigned": true,
-   "first_seen": "2026-08-31T13:41:29.568282+00:00"
-  },
-  {
-   "url": "https://github.com/revertinc/revert/issues/372",
-   "title": "[REVER-48] Workday Integration",
-   "repo": "revertinc/revert",
-   "stars": 0,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "none",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 11,
-   "created_at": "2023-11-20T07:09:27Z",
-   "assigned": true,
-   "first_seen": "2026-08-31T13:41:29.568282+00:00"
-  },
-  {
-   "url": "https://github.com/tscircuit/jlcsearch/issues/92",
-   "title": "Add `is_extended_promotional ` column to components (from data source)",
-   "repo": "tscircuit/jlcsearch",
-   "stars": 0,
-   "watched": true,
-   "amount": 75.0,
-   "status": "open",
-   "labels": [
-    "\ud83d\udc8e Bounty",
-    "$1"
-   ],
-   "comments": 134,
-   "created_at": "2025-10-07T18:30:54Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T13:41:29.568282+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
-   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 0,
-   "watched": true,
-   "amount": 30.0,
-   "status": "open",
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 63,
-   "created_at": "2023-11-26T19:15:36Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 0,
-   "watched": true,
-   "amount": 25.0,
-   "status": "open",
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 46,
-   "created_at": "2023-11-30T10:03:48Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/getdozer/dozer/issues/1659",
-   "title": "Support for `IN` clause in streaming SQL",
-   "repo": "getdozer/dozer",
-   "stars": 0,
-   "watched": true,
-   "amount": 600.0,
-   "status": "claimed",
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 26,
-   "created_at": "2023-06-20T17:18:05Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/getdozer/dozer/issues/1653",
-   "title": "WASM UDF support",
-   "repo": "getdozer/dozer",
-   "stars": 0,
-   "watched": true,
-   "amount": 600.0,
-   "status": "claimed",
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 13,
-   "created_at": "2023-06-19T14:34:21Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/742",
-   "title": "Refactor lens profile handling",
-   "repo": "gyroflow/gyroflow",
-   "stars": 0,
-   "watched": true,
-   "amount": 500.0,
-   "status": "claimed",
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 51,
-   "created_at": "2023-10-12T13:49:04Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/getdozer/dozer/issues/1690",
-   "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
-   "repo": "getdozer/dozer",
-   "stars": 0,
-   "watched": true,
-   "amount": 250.0,
-   "status": "claimed",
-   "labels": [
-    "documentation",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 26,
-   "created_at": "2023-06-28T14:11:53Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/PHPOffice/PHPWord/issues/69",
-   "title": "Implement WPS Writer",
-   "repo": "PHPOffice/PHPWord",
-   "stars": 0,
-   "watched": true,
-   "amount": 50.0,
-   "status": "claimed",
-   "labels": [
-    "Change Request",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 12,
-   "created_at": "2014-02-27T13:56:18Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/290",
-   "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 0,
-   "watched": true,
-   "amount": 50.0,
-   "status": "claimed",
-   "labels": [
-    "\ud83d\udc8e Bounty",
-    "$50"
-   ],
-   "comments": 65,
-   "created_at": "2023-12-03T09:33:28Z",
-   "assigned": false,
-   "first_seen": "2026-08-31T09:46:32.272655+00:00"
+   "first_seen": "2026-08-31T13:50:33.854688Z"
   }
  ]
 }

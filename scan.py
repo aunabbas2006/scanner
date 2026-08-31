@@ -57,22 +57,86 @@ def stars(repo):
 
 
 def classify_comments(comments):
-    """Pure classifier: Algora leaves the bounty label on forever, even after payout —
-    the bot's comment thread is the only real signal of whether it's still claimable.
-    Returns (amount, status): status is 'awarded' > 'claimed' > 'open'."""
-    amount, status = None, "open"
+    """Pure classifier over an issue's comment thread. Algora leaves the bounty label on
+    forever, even after payout, so the thread is the only real signal — and it also
+    carries the competition data (who's attempting, whether a PR already landed).
+    Returns dict: amount, status ('awarded'>'claimed'>'open'), attempts, has_pr."""
+    amount, status, attempts, has_pr = None, "open", set(), False
     for c in comments:
         body = c.get("body", "")
+        login = c.get("user", {}).get("login", "")
         if amount is None:
             amount = parse_amount(body) or amount
-        if "algora" not in c.get("user", {}).get("login", "").lower():
-            continue
         low = body.lower()
+        # a human typing /attempt is staking a claim on the bounty
+        if low.strip().startswith("/attempt") and login:
+            attempts.add(login.lower())
+        if "algora" not in login.lower():
+            continue
         if "has been awarded" in low:
             status = "awarded"
         elif "already attempting" in low and status == "open":
             status = "claimed"
-    return amount, status
+        if "submitted a" in low and "pull request" in low:
+            has_pr = True
+    return {"amount": amount, "status": status,
+            "attempts": len(attempts), "has_pr": has_pr}
+
+
+def score(b, now=None):
+    """Should you start this one? 1-100, plus the reasons that moved it.
+
+    Optimises for expected-value-per-hour, not bounty size: an uncontested $75 issue
+    in a mid-size repo beats a $300 one with four people already attempting. Weights
+    are judgement calls, not measured — retune them once you have real outcomes.
+    ponytail: deterministic scoring, no LLM. Revisit only if it misranks in practice."""
+    now = now or datetime.now(timezone.utc)
+    pts, why = 50, []
+
+    def add(n, label):
+        nonlocal pts
+        pts += n
+        if n:
+            why.append(("+" if n > 0 else "") + f"{n} {label}")
+
+    # --- competition: the main thing that kills a bounty ---
+    if b.get("has_pr"):
+        add(-35, "PR already submitted")
+    if b.get("status") == "claimed":
+        add(-25, "someone attempting")
+    if b.get("assigned"):
+        add(-15, "assigned")
+    n_att = b.get("attempts", 0)
+    if n_att:
+        add(max(-30, -9 * n_att), f"{n_att} attempt(s)")
+
+    # --- freshness: stale bounties are stale for a reason ---
+    days = (now - datetime.fromisoformat(
+        (b.get("updated_at") or b["created_at"]).replace("Z", "+00:00"))).days
+    add(15 if days < 7 else 8 if days < 30 else 0 if days < 90
+        else -8 if days < 180 else -15,
+        f"{days}d since activity")
+
+    # --- amount: a sweet spot, not "bigger is better" ---
+    amt = b.get("amount", 0)
+    add(12 if 50 <= amt <= 250 else 6 if amt > 250 else 4, f"${amt:.0f}")
+
+    # --- crowding: long threads mean contention or ambiguity ---
+    n = b.get("comments", 0)
+    add(10 if n < 5 else 4 if n < 15 else -5 if n < 40 else -12, f"{n} comments")
+
+    # --- repo size: huge repos have a higher merge bar and slower review ---
+    st = b.get("stars", 0)
+    add(10 if 200 <= st < 5000 else 0 if st < 20000 else -10, f"{st} stars")
+
+    # --- scope hints from labels ---
+    lab = " ".join(b.get("labels", [])).lower()
+    if any(k in lab for k in ("good first issue", "documentation", "docs", "help wanted")):
+        add(8, "beginner-friendly label")
+    if any(k in lab for k in ("epic", "feature request", "rfc")):
+        add(-6, "large-scope label")
+
+    return max(1, min(100, pts)), why
 
 
 def bounty_status(issue):
@@ -85,7 +149,7 @@ def bounty_status(issue):
             comments += get(f"{issue['comments_url']}?per_page=100&page={page}")
         return classify_comments(comments)
     except Exception:
-        return None, "open"
+        return {"amount": None, "status": "open", "attempts": 0, "has_pr": False}
 
 
 def search(query):
@@ -130,31 +194,39 @@ def collect(cfg):
             if updated < (watch_cutoff if repo in watched else cutoff):
                 continue
             # watched repos bypass the star gate; you vouched for them already
-            if url in found or (repo not in watched and stars(repo) < cfg.get("min_stars", 300)):
+            if url in found:
+                continue
+            n_stars = stars(repo)   # always fetch: the scorer weighs repo size
+            if repo not in watched and n_stars < cfg.get("min_stars", 300):
                 continue
             amount = parse_amount(" ".join([it["title"], it.get("body") or ""]))
-            status = "open"
+            sig = {"status": "open", "attempts": 0, "has_pr": False}
             if amount is None or it.get("comments", 0) > 0:
                 # need the thread anyway to check for a hidden "awarded" comment
-                c_amount, status = bounty_status(it)
-                amount = amount or c_amount
+                sig = bounty_status(it)
+                amount = amount or sig["amount"]
             if amount is None or not (cfg.get("min_amount", 0) <= amount <= cfg.get("max_amount", 1e9)):
                 continue
-            if status == "awarded":
+            if sig["status"] == "awarded":
                 continue
-            found[url] = {
+            b = {
                 "url": url,
                 "title": it["title"],
                 "repo": repo,
                 "stars": _stars.get(repo, 0),
                 "watched": repo in watched,
                 "amount": amount,
-                "status": status,
+                "status": sig["status"],
+                "attempts": sig["attempts"],
+                "has_pr": sig["has_pr"],
                 "labels": [l["name"] for l in it.get("labels", [])],
                 "comments": it.get("comments", 0),
                 "created_at": it["created_at"],
+                "updated_at": it["updated_at"],
                 "assigned": bool(it.get("assignee")),
             }
+            b["score"], b["why"] = score(b, now)
+            found[url] = b
     return found
 
 
@@ -190,7 +262,7 @@ def main():
             b["first_seen"] = now
             new.append(b)
 
-    bounties = sorted(found.values(), key=lambda b: (b["status"] != "open", -b["amount"]))
+    bounties = sorted(found.values(), key=lambda b: -b["score"])
     os.makedirs("docs", exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump({"updated": now, "new_count": len(new), "bounties": bounties}, f, indent=1)

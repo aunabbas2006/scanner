@@ -19,7 +19,11 @@ a.row{display:flex;gap:14px;align-items:baseline;padding:12px 14px;margin-bottom
   border:1px solid var(--line);border-radius:8px;text-decoration:none;color:inherit}
 a.row:hover{border-color:var(--accent)}
 a.row.claimed{opacity:.55}
-.amt{font-weight:650;color:var(--accent);font-variant-numeric:tabular-nums;min-width:64px}
+.amt{font-weight:650;color:var(--accent);font-variant-numeric:tabular-nums;min-width:58px}
+.score{font-weight:700;font-size:17px;font-variant-numeric:tabular-nums;min-width:34px;text-align:right}
+.s-hi{color:var(--accent)} .s-mid{color:#b45309} .s-lo{color:var(--dim)}
+@media(prefers-color-scheme:dark){.s-mid{color:#fbbf24}}
+.why{color:var(--dim);font-size:11px;display:block;margin-top:2px}
 .mid{flex:1;min-width:0}
 .title{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .meta{color:var(--dim);font-size:12px}
@@ -37,10 +41,10 @@ footer{color:var(--dim);font-size:12px;margin-top:20px}
   <div class="stat"><b id="s-open">–</b><span>open</span></div>
   <div class="stat"><b id="s-new">–</b><span>new</span></div>
   <div class="stat"><b id="s-total">–</b><span>total value</span></div>
-  <div class="stat"><b id="s-free">–</b><span>unassigned</span></div>
+  <div class="stat"><b id="s-worth">–</b><span>worth starting</span></div>
 </div>
 
-<input id="q" placeholder="filter by repo, title, or label…">
+<input id="q" placeholder="filter by repo, title, or label…  (score = should you start it)">
 <div id="list"></div>
 <footer>Updated every ~15 min by GitHub Actions. Comment and get assigned before you write code.</footer>
 
@@ -58,13 +62,18 @@ const render = () => {
     !q || (b.repo+' '+b.title+' '+b.labels.join(' ')).toLowerCase().includes(q));
   document.getElementById('list').innerHTML = show.map(b => {
     const fresh = (Date.now() - new Date(b.first_seen)) < 6*36e5;
-    return `<a class="row${b.status === 'claimed' ? ' claimed' : ''}" href="${b.url}" target="_blank" rel="noopener">
+    const cls = b.score >= 70 ? 's-hi' : b.score >= 45 ? 's-mid' : 's-lo';
+    return `<a class="row${b.score < 45 ? ' claimed' : ''}" href="${b.url}" target="_blank" rel="noopener">
+      <span class="score ${cls}" title="${(b.why||[]).join('
+')}">${b.score}</span>
       <span class="amt">${fmt(b.amount)}</span>
       <span class="mid">
         <span class="title">${b.title.replace(/</g,'&lt;')}</span>
-        <span class="meta">${b.repo} · ${ago(b.created_at)} old · ${b.comments} comments
-          ${b.status === 'claimed' ? '· <span class="warn">someone attempting</span>' : ''}
+        <span class="meta">${b.repo} · ${ago(b.updated_at || b.created_at)} since activity · ${b.comments} comments
+          ${b.attempts ? `· <span class="warn">${b.attempts} attempting</span>` : ''}
+          ${b.has_pr ? '· <span class="warn">PR submitted</span>' : ''}
           ${b.assigned ? '· <span class="warn">assigned</span>' : ''}</span>
+        <span class="why">${(b.why||[]).join(' · ')}</span>
       </span>
       ${fresh ? '<span class="tag">NEW</span>' : ''}
     </a>`;
@@ -77,7 +86,7 @@ fetch('bounties.json?' + Date.now()).then(r => r.json()).then(d => {
   document.getElementById('s-open').textContent  = all.length;
   document.getElementById('s-new').textContent   = d.new_count;
   document.getElementById('s-total').textContent = fmt(all.reduce((s,b) => s+b.amount, 0));
-  document.getElementById('s-free').textContent  = all.filter(b => !b.assigned).length;
+  document.getElementById('s-worth').textContent = all.filter(b => b.score >= 70).length;
   render();
 }).catch(() => document.getElementById('updated').textContent = 'no data yet — run the workflow once');
 
