@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T21:21:36.280840+00:00",
+ "updated": "2026-09-01T23:27:57.254432+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -212,7 +212,7 @@
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24167,
+   "stars": 24168,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -232,7 +232,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24167 stars"
+    "-10 24168 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -240,7 +240,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57755,
+   "stars": 57757,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -262,7 +262,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57755 stars"
+    "-10 57757 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57755,
+   "stars": 57757,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57755 stars"
+    "-10 57757 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
