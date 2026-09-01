@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T15:21:42.967206+00:00",
+ "updated": "2026-09-01T18:42:28.580058+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -88,7 +88,7 @@
    "why": [
     "-15 assigned",
     "-27 3 attempt(s)",
-    "+8 23d since activity",
+    "+8 24d since activity",
     "+12 $100",
     "+4 10 comments",
     "+10 1012 stars"
@@ -212,7 +212,7 @@
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24162,
+   "stars": 24166,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -232,7 +232,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24162 stars"
+    "-10 24166 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -240,7 +240,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57744,
+   "stars": 57753,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -262,7 +262,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57744 stars"
+    "-10 57753 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57744,
+   "stars": 57753,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57744 stars"
+    "-10 57753 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,7 +299,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31878,
+   "stars": 31881,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -320,7 +320,7 @@
     "-30 55 attempt(s)",
     "+12 $250",
     "-12 131 comments",
-    "-10 31878 stars"
+    "-10 31881 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -347,7 +347,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 4 attempt(s)",
-    "+15 4d since activity",
+    "+15 5d since activity",
     "+12 $50",
     "+4 12 comments"
    ],
