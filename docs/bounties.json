@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T10:05:21.900080+00:00",
+ "updated": "2026-09-05T13:28:36.523301+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -171,7 +171,7 @@
    "why": [
     "-25 someone attempting",
     "-30 6 attempt(s)",
-    "+8 16d since activity",
+    "+8 17d since activity",
     "+12 $250",
     "-5 26 comments",
     "+10 1578 stars",
@@ -183,7 +183,7 @@
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24266,
+   "stars": 24270,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -203,7 +203,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24266 stars"
+    "-10 24270 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -229,7 +229,7 @@
    "why": [
     "-25 someone attempting",
     "-30 31 attempt(s)",
-    "+8 8d since activity",
+    "+8 9d since activity",
     "+12 $50",
     "-12 65 comments",
     "+10 427 stars"
@@ -240,7 +240,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57834,
+   "stars": 57836,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -262,7 +262,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57834 stars"
+    "-10 57836 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57834,
+   "stars": 57836,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57834 stars"
+    "-10 57836 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
