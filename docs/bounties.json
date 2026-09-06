@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T07:07:51.819485+00:00",
+ "updated": "2026-09-06T11:39:49.277476+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -39,7 +39,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9459,
+   "stars": 9460,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -109,16 +109,16 @@
     "\ud83d\udc8e Bounty",
     "$1"
    ],
-   "comments": 141,
+   "comments": 142,
    "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-09-06T03:39:46Z",
+   "updated_at": "2026-09-06T10:51:28Z",
    "assigned": false,
    "score": 35,
    "why": [
     "-30 87 attempt(s)",
     "+15 0d since activity",
     "+12 $75",
-    "-12 141 comments"
+    "-12 142 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -171,7 +171,7 @@
    "why": [
     "-25 someone attempting",
     "-30 6 attempt(s)",
-    "+8 17d since activity",
+    "+8 18d since activity",
     "+12 $250",
     "-5 26 comments",
     "+10 1578 stars",
@@ -183,7 +183,7 @@
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24289,
+   "stars": 24293,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -203,7 +203,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24289 stars"
+    "-10 24293 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -229,7 +229,7 @@
    "why": [
     "-25 someone attempting",
     "-30 31 attempt(s)",
-    "+8 9d since activity",
+    "+8 10d since activity",
     "+12 $50",
     "-12 65 comments",
     "+10 427 stars"
@@ -240,7 +240,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57841,
+   "stars": 57842,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -262,7 +262,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57841 stars"
+    "-10 57842 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57841,
+   "stars": 57842,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57841 stars"
+    "-10 57842 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,7 +299,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31942,
+   "stars": 31943,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -320,7 +320,7 @@
     "-30 55 attempt(s)",
     "+12 $250",
     "-12 131 comments",
-    "-10 31942 stars"
+    "-10 31943 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -403,7 +403,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 32 attempt(s)",
-    "+8 17d since activity",
+    "+8 18d since activity",
     "+4 $30",
     "-12 63 comments",
     "+10 427 stars"
