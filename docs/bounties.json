@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T00:40:56.555949+00:00",
+ "updated": "2026-09-07T05:14:25.179227+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -32,33 +32,6 @@
     "+12 $100",
     "+4 11 comments",
     "+10 1012 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/150",
-   "title": "Support lensfun database",
-   "repo": "gyroflow/gyroflow",
-   "stars": 9464,
-   "watched": true,
-   "amount": 200.0,
-   "status": "open",
-   "attempts": 5,
-   "has_pr": false,
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 34,
-   "created_at": "2022-02-09T16:07:24Z",
-   "updated_at": "2026-08-31T01:04:00Z",
-   "assigned": false,
-   "score": 42,
-   "why": [
-    "-30 5 attempt(s)",
-    "+15 6d since activity",
-    "+12 $200",
-    "-5 34 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -123,29 +96,29 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "url": "https://github.com/gyroflow/gyroflow/issues/150",
+   "title": "Support lensfun database",
+   "repo": "gyroflow/gyroflow",
+   "stars": 9464,
    "watched": true,
-   "amount": 25.0,
+   "amount": 200.0,
    "status": "open",
-   "attempts": 16,
+   "attempts": 5,
    "has_pr": false,
    "labels": [
+    "enhancement",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 46,
-   "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-08-08T03:28:23Z",
+   "comments": 34,
+   "created_at": "2022-02-09T16:07:24Z",
+   "updated_at": "2026-08-31T01:04:00Z",
    "assigned": false,
-   "score": 30,
+   "score": 35,
    "why": [
-    "-30 16 attempt(s)",
-    "+8 29d since activity",
-    "+4 $25",
-    "-12 46 comments",
-    "+10 427 stars"
+    "-30 5 attempt(s)",
+    "+8 7d since activity",
+    "+12 $200",
+    "-5 34 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -180,10 +153,36 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 427,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "attempts": 16,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 46,
+   "created_at": "2023-11-30T10:03:48Z",
+   "updated_at": "2026-08-08T03:28:23Z",
+   "assigned": false,
+   "score": 22,
+   "why": [
+    "-30 16 attempt(s)",
+    "+4 $25",
+    "-12 46 comments",
+    "+10 427 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24298,
+   "stars": 24302,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -203,7 +202,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24298 stars"
+    "-10 24302 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -240,7 +239,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57849,
+   "stars": 57855,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -262,7 +261,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57849 stars"
+    "-10 57855 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +269,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57849,
+   "stars": 57855,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +290,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57849 stars"
+    "-10 57855 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,7 +298,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31948,
+   "stars": 31952,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -320,7 +319,7 @@
     "-30 55 attempt(s)",
     "+12 $250",
     "-12 131 comments",
-    "-10 31948 stars"
+    "-10 31952 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
