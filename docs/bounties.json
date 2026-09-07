@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T15:58:58.107193+00:00",
+ "updated": "2026-09-07T19:36:10.836832+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -31,39 +31,6 @@
     "-18 2 attempt(s)",
     "+12 $100",
     "+4 11 comments",
-    "+10 1012 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/revertinc/revert/issues/551",
-   "title": "[REVER-51] Workable Integration",
-   "repo": "revertinc/revert",
-   "stars": 1012,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 3,
-   "has_pr": false,
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 10,
-   "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-08-08T16:31:27Z",
-   "assigned": true,
-   "score": 42,
-   "why": [
-    "-15 assigned",
-    "-27 3 attempt(s)",
-    "+8 29d since activity",
-    "+12 $100",
-    "+4 10 comments",
     "+10 1012 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -119,6 +86,38 @@
     "+8 7d since activity",
     "+12 $200",
     "-5 34 comments"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 1012,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 3,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 10,
+   "created_at": "2024-04-29T11:50:14Z",
+   "updated_at": "2026-08-08T16:31:27Z",
+   "assigned": true,
+   "score": 34,
+   "why": [
+    "-15 assigned",
+    "-27 3 attempt(s)",
+    "+12 $100",
+    "+4 10 comments",
+    "+10 1012 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -211,7 +210,7 @@
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24314,
+   "stars": 24318,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -231,7 +230,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24314 stars"
+    "-10 24318 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -239,7 +238,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57864,
+   "stars": 57866,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -261,7 +260,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57864 stars"
+    "-10 57866 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -269,7 +268,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57864,
+   "stars": 57866,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -290,7 +289,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57864 stars"
+    "-10 57866 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -298,7 +297,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31960,
+   "stars": 31963,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -319,7 +318,7 @@
     "-30 55 attempt(s)",
     "+12 $250",
     "-12 131 comments",
-    "-10 31960 stars"
+    "-10 31963 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -331,24 +330,24 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 4,
+   "attempts": 5,
    "has_pr": true,
    "labels": [
     "Change Request",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 12,
+   "comments": 13,
    "created_at": "2014-02-27T13:56:18Z",
-   "updated_at": "2026-08-27T17:07:18Z",
+   "updated_at": "2026-09-07T16:50:08Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 4 attempt(s)",
-    "+8 10d since activity",
+    "-30 5 attempt(s)",
+    "+15 0d since activity",
     "+12 $50",
-    "+4 12 comments"
+    "+4 13 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
