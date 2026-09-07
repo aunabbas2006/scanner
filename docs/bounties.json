@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T10:19:51.189113+00:00",
+ "updated": "2026-09-07T15:58:58.107193+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -89,7 +89,7 @@
    "score": 35,
    "why": [
     "-30 87 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $75",
     "-12 142 comments"
    ],
@@ -99,7 +99,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9464,
+   "stars": 9465,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -144,7 +144,7 @@
    "why": [
     "-25 someone attempting",
     "-30 6 attempt(s)",
-    "+8 18d since activity",
+    "+8 19d since activity",
     "+12 $250",
     "-5 26 comments",
     "+10 1578 stars",
@@ -179,10 +179,39 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/290",
+   "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 427,
+   "watched": true,
+   "amount": 50.0,
+   "status": "claimed",
+   "attempts": 32,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty",
+    "$50"
+   ],
+   "comments": 66,
+   "created_at": "2023-12-03T09:33:28Z",
+   "updated_at": "2026-09-07T15:31:29Z",
+   "assigned": false,
+   "score": 20,
+   "why": [
+    "-25 someone attempting",
+    "-30 32 attempt(s)",
+    "+15 0d since activity",
+    "+12 $50",
+    "-12 66 comments",
+    "+10 427 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
    "url": "https://github.com/activepieces/activepieces/issues/8072",
    "title": "[MCP] Gmail",
    "repo": "activepieces/activepieces",
-   "stars": 24309,
+   "stars": 24314,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -202,36 +231,7 @@
     "-30 15 attempt(s)",
     "+12 $200",
     "-5 28 comments",
-    "-10 24309 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/290",
-   "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 427,
-   "watched": true,
-   "amount": 50.0,
-   "status": "claimed",
-   "attempts": 31,
-   "has_pr": false,
-   "labels": [
-    "\ud83d\udc8e Bounty",
-    "$50"
-   ],
-   "comments": 65,
-   "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-08-27T10:26:43Z",
-   "assigned": false,
-   "score": 13,
-   "why": [
-    "-25 someone attempting",
-    "-30 31 attempt(s)",
-    "+8 10d since activity",
-    "+12 $50",
-    "-12 65 comments",
-    "+10 427 stars"
+    "-10 24314 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -239,7 +239,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57857,
+   "stars": 57864,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -261,7 +261,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57857 stars"
+    "-10 57864 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -269,7 +269,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57857,
+   "stars": 57864,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -290,7 +290,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57857 stars"
+    "-10 57864 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -298,7 +298,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31955,
+   "stars": 31960,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -319,7 +319,7 @@
     "-30 55 attempt(s)",
     "+12 $250",
     "-12 131 comments",
-    "-10 31955 stars"
+    "-10 31960 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
