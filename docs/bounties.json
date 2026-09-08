@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T17:42:49.188374+00:00",
+ "updated": "2026-09-08T20:19:23.980520+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 2,
+   "attempts": 3,
    "has_pr": false,
    "labels": [
     "integration",
@@ -21,17 +21,45 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 11,
+   "comments": 12,
    "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-07-18T02:05:36Z",
+   "updated_at": "2026-09-08T20:16:59Z",
    "assigned": true,
-   "score": 43,
+   "score": 49,
    "why": [
     "-15 assigned",
-    "-18 2 attempt(s)",
+    "-27 3 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "+4 11 comments",
+    "+4 12 comments",
     "+10 1012 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/gyroflow/gyroflow/issues/150",
+   "title": "Support lensfun database",
+   "repo": "gyroflow/gyroflow",
+   "stars": 9472,
+   "watched": true,
+   "amount": 200.0,
+   "status": "open",
+   "attempts": 6,
+   "has_pr": false,
+   "labels": [
+    "enhancement",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 35,
+   "created_at": "2022-02-09T16:07:24Z",
+   "updated_at": "2026-09-08T18:14:27Z",
+   "assigned": false,
+   "score": 42,
+   "why": [
+    "-30 6 attempt(s)",
+    "+15 0d since activity",
+    "+12 $200",
+    "-5 35 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -76,43 +104,16 @@
     "\ud83d\udc8e Bounty",
     "$1"
    ],
-   "comments": 146,
+   "comments": 148,
    "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-09-08T04:08:14Z",
+   "updated_at": "2026-09-08T18:59:11Z",
    "assigned": false,
    "score": 35,
    "why": [
     "-30 88 attempt(s)",
     "+15 0d since activity",
     "+12 $75",
-    "-12 146 comments"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/150",
-   "title": "Support lensfun database",
-   "repo": "gyroflow/gyroflow",
-   "stars": 9471,
-   "watched": true,
-   "amount": 200.0,
-   "status": "open",
-   "attempts": 5,
-   "has_pr": false,
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 34,
-   "created_at": "2022-02-09T16:07:24Z",
-   "updated_at": "2026-08-31T01:04:00Z",
-   "assigned": false,
-   "score": 35,
-   "why": [
-    "-30 5 attempt(s)",
-    "+8 8d since activity",
-    "+12 $200",
-    "-5 34 comments"
+    "-12 148 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -302,24 +303,24 @@
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 57,
+   "attempts": 58,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 129,
+   "comments": 131,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-09-08T04:40:47Z",
+   "updated_at": "2026-09-08T18:22:32Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 57 attempt(s)",
+    "-30 58 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 129 comments",
+    "-12 131 comments",
     "-10 31982 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -332,24 +333,24 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 8,
+   "attempts": 9,
    "has_pr": true,
    "labels": [
     "Change Request",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 16,
+   "comments": 17,
    "created_at": "2014-02-27T13:56:18Z",
-   "updated_at": "2026-09-08T10:45:07Z",
+   "updated_at": "2026-09-08T20:16:57Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 8 attempt(s)",
+    "-30 9 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-5 16 comments"
+    "-5 17 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
