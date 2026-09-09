@@ -1,12 +1,46 @@
 {
- "updated": "2026-09-09T14:37:04.902221+00:00",
- "new_count": 0,
+ "updated": "2026-09-09T18:00:32.627750+00:00",
+ "new_count": 2,
  "bounties": [
+  {
+   "url": "https://github.com/revertinc/revert/issues/372",
+   "title": "[REVER-48] Workday Integration",
+   "repo": "revertinc/revert",
+   "stars": 1012,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 3,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "none",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 12,
+   "created_at": "2023-11-20T07:09:27Z",
+   "updated_at": "2026-09-08T20:16:59Z",
+   "assigned": true,
+   "score": 49,
+   "why": [
+    "-15 assigned",
+    "-27 3 attempt(s)",
+    "+15 0d since activity",
+    "+12 $100",
+    "+4 12 comments",
+    "+10 1012 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
+  },
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9473,
+   "stars": 9475,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -64,22 +98,22 @@
    "watched": true,
    "amount": 75.0,
    "status": "open",
-   "attempts": 88,
+   "attempts": 89,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$1"
    ],
-   "comments": 148,
+   "comments": 149,
    "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-09-08T18:59:11Z",
+   "updated_at": "2026-09-09T17:16:26Z",
    "assigned": false,
    "score": 35,
    "why": [
-    "-30 88 attempt(s)",
+    "-30 89 attempt(s)",
     "+15 0d since activity",
     "+12 $75",
-    "-12 148 comments"
+    "-12 149 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -114,6 +148,38 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 1012,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 3,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 10,
+   "created_at": "2024-04-29T11:50:14Z",
+   "updated_at": "2026-08-08T16:31:27Z",
+   "assigned": true,
+   "score": 34,
+   "why": [
+    "-15 assigned",
+    "-27 3 attempt(s)",
+    "+12 $100",
+    "+4 10 comments",
+    "+10 1012 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
+  },
+  {
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
@@ -146,7 +212,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57907,
+   "stars": 57912,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -168,7 +234,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57907 stars"
+    "-10 57912 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -180,22 +246,22 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 35,
+   "attempts": 36,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 68,
+   "comments": 71,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-09-09T14:23:20Z",
+   "updated_at": "2026-09-09T14:57:54Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 35 attempt(s)",
+    "-30 36 attempt(s)",
     "+15 0d since activity",
     "+4 $30",
-    "-12 68 comments",
+    "-12 71 comments",
     "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -204,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57907,
+   "stars": 57912,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -225,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57907 stars"
+    "-10 57912 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -233,7 +299,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31995,
+   "stars": 31998,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -255,7 +321,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 131 comments",
-    "-10 31995 stars"
+    "-10 31998 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
