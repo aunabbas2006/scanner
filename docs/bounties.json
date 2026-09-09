@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T05:37:29.693397+00:00",
+ "updated": "2026-09-09T10:08:28.877900+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -67,7 +67,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "stars": 428,
    "watched": true,
    "amount": 25.0,
    "status": "open",
@@ -86,7 +86,7 @@
     "+15 1d since activity",
     "+4 $25",
     "-12 47 comments",
-    "+10 427 stars"
+    "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -183,7 +183,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "stars": 428,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -204,7 +204,7 @@
     "+15 0d since activity",
     "+12 $50",
     "-12 69 comments",
-    "+10 427 stars"
+    "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -212,7 +212,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57893,
+   "stars": 57902,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -234,7 +234,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57893 stars"
+    "-10 57902 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -242,7 +242,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "stars": 428,
    "watched": true,
    "amount": 30.0,
    "status": "open",
@@ -262,7 +262,7 @@
     "+15 1d since activity",
     "+4 $30",
     "-12 66 comments",
-    "+10 427 stars"
+    "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57893,
+   "stars": 57902,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57893 stars"
+    "-10 57902 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,7 +299,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 31987,
+   "stars": 31992,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -321,7 +321,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 131 comments",
-    "-10 31987 stars"
+    "-10 31992 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
