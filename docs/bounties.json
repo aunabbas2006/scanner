@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T00:38:58.247843+00:00",
+ "updated": "2026-09-10T05:17:54.279872+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -40,7 +40,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9477,
+   "stars": 9479,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -83,7 +83,7 @@
    "score": 37,
    "why": [
     "-30 17 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+4 $25",
     "-12 47 comments",
     "+10 428 stars"
@@ -104,16 +104,16 @@
     "\ud83d\udc8e Bounty",
     "$1"
    ],
-   "comments": 149,
+   "comments": 150,
    "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-09-09T17:16:26Z",
+   "updated_at": "2026-09-10T05:12:44Z",
    "assigned": false,
    "score": 35,
    "why": [
     "-30 89 attempt(s)",
     "+15 0d since activity",
     "+12 $75",
-    "-12 149 comments"
+    "-12 150 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -212,7 +212,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57916,
+   "stars": 57920,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -234,7 +234,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57916 stars"
+    "-10 57920 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57916,
+   "stars": 57920,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57916 stars"
+    "-10 57920 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,7 +299,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32003,
+   "stars": 32006,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -321,7 +321,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 132 comments",
-    "-10 32003 stars"
+    "-10 32006 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -329,7 +329,7 @@
    "url": "https://github.com/PHPOffice/PHPWord/issues/69",
    "title": "Implement WPS Writer",
    "repo": "PHPOffice/PHPWord",
-   "stars": 7586,
+   "stars": 7587,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
