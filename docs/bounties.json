@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T13:59:53.747367+00:00",
+ "updated": "2026-09-10T17:31:28.821542+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -212,7 +212,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57932,
+   "stars": 57933,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -234,7 +234,7 @@
     "-30 4 attempt(s)",
     "+12 $100",
     "-12 129 comments",
-    "-10 57932 stars"
+    "-10 57933 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -259,7 +259,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 36 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+4 $30",
     "-12 71 comments",
     "+10 428 stars"
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57932,
+   "stars": 57933,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -291,7 +291,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57932 stars"
+    "-10 57933 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -299,7 +299,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32012,
+   "stars": 32013,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -321,7 +321,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 134 comments",
-    "-10 32012 stars"
+    "-10 32013 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -329,7 +329,7 @@
    "url": "https://github.com/PHPOffice/PHPWord/issues/69",
    "title": "Implement WPS Writer",
    "repo": "PHPOffice/PHPWord",
-   "stars": 7587,
+   "stars": 7586,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
