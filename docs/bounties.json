@@ -1,7 +1,71 @@
 {
- "updated": "2026-09-13T01:16:41.583529+00:00",
- "new_count": 0,
+ "updated": "2026-09-13T06:14:30.079477+00:00",
+ "new_count": 2,
  "bounties": [
+  {
+   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
+   "title": "Fix typo in README",
+   "repo": "xevrion-v2/agent-playground",
+   "stars": 300,
+   "watched": false,
+   "amount": 50.0,
+   "status": "open",
+   "attempts": 35,
+   "has_pr": false,
+   "labels": [
+    "good first issue",
+    "bounty",
+    "AI agent friendly",
+    "\ud83d\udc8e Bounty",
+    "$50"
+   ],
+   "comments": 109,
+   "created_at": "2026-06-03T05:50:49Z",
+   "updated_at": "2026-09-08T13:42:45Z",
+   "assigned": false,
+   "score": 53,
+   "why": [
+    "-30 35 attempt(s)",
+    "+15 4d since activity",
+    "+12 $50",
+    "-12 109 comments",
+    "+10 300 stars",
+    "+8 beginner-friendly label"
+   ],
+   "first_seen": "2026-09-13T06:14:30.079477+00:00"
+  },
+  {
+   "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
+   "title": "Add JSDoc to userService",
+   "repo": "xevrion-v2/agent-playground",
+   "stars": 300,
+   "watched": false,
+   "amount": 50.0,
+   "status": "open",
+   "attempts": 30,
+   "has_pr": false,
+   "labels": [
+    "good first issue",
+    "bounty",
+    "AI agent friendly",
+    "\ud83d\udc8e Bounty",
+    "$50"
+   ],
+   "comments": 87,
+   "created_at": "2026-06-03T05:50:49Z",
+   "updated_at": "2026-09-09T16:27:04Z",
+   "assigned": false,
+   "score": 53,
+   "why": [
+    "-30 30 attempt(s)",
+    "+15 3d since activity",
+    "+12 $50",
+    "-12 87 comments",
+    "+10 300 stars",
+    "+8 beginner-friendly label"
+   ],
+   "first_seen": "2026-09-13T06:14:30.079477+00:00"
+  },
   {
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
@@ -73,7 +137,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9488,
+   "stars": 9489,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -116,7 +180,7 @@
    "score": 37,
    "why": [
     "-30 17 attempt(s)",
-    "+15 4d since activity",
+    "+15 5d since activity",
     "+4 $25",
     "-12 47 comments",
     "+10 428 stars"
@@ -144,7 +208,7 @@
    "score": 35,
    "why": [
     "-30 92 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $75",
     "-12 158 comments"
    ],
@@ -300,29 +364,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32044,
+   "stars": 32049,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 59,
+   "attempts": 60,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 135,
+   "comments": 136,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-09-12T09:19:37Z",
+   "updated_at": "2026-09-13T01:38:52Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 59 attempt(s)",
+    "-30 60 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 135 comments",
-    "-10 32044 stars"
+    "-12 136 comments",
+    "-10 32049 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
