@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T20:43:23.595128+00:00",
+ "updated": "2026-09-14T23:30:31.914021+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -131,7 +131,7 @@
    "watched": true,
    "amount": 75.0,
    "status": "open",
-   "attempts": 91,
+   "attempts": 90,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
@@ -143,7 +143,7 @@
    "assigned": false,
    "score": 35,
    "why": [
-    "-30 91 attempt(s)",
+    "-30 90 attempt(s)",
     "+15 2d since activity",
     "+12 $75",
     "-12 158 comments"
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 57979,
+   "stars": 57983,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 90d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 57979 stars"
+    "-10 57983 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -261,7 +261,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 37 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+4 $30",
     "-12 73 comments",
     "+10 428 stars"
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 57979,
+   "stars": 57983,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 57979 stars"
+    "-10 57983 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32082,
+   "stars": 32084,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 136 comments",
-    "-10 32082 stars"
+    "-10 32084 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
