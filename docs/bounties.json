@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-16T21:50:33.285754+00:00",
+ "updated": "2026-09-17T00:00:51.535647+00:00",
  "new_count": 0,
  "bounties": [
   {
-   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
-   "title": "Fix typo in README",
+   "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
+   "title": "Add JSDoc to userService",
    "repo": "xevrion-v2/agent-playground",
-   "stars": 300,
+   "stars": 301,
    "watched": false,
    "amount": 50.0,
    "status": "open",
-   "attempts": 36,
+   "attempts": 31,
    "has_pr": false,
    "labels": [
     "good first issue",
@@ -19,30 +19,30 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 111,
+   "comments": 91,
    "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-13T23:26:29Z",
+   "updated_at": "2026-09-16T23:12:16Z",
    "assigned": false,
    "score": 53,
    "why": [
-    "-30 36 attempt(s)",
-    "+15 2d since activity",
+    "-30 31 attempt(s)",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 111 comments",
-    "+10 300 stars",
+    "-12 91 comments",
+    "+10 301 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-15T17:11:43.014021+00:00"
   },
   {
-   "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
-   "title": "Add JSDoc to userService",
+   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
+   "title": "Fix typo in README",
    "repo": "xevrion-v2/agent-playground",
-   "stars": 300,
+   "stars": 301,
    "watched": false,
    "amount": 50.0,
    "status": "open",
-   "attempts": 30,
+   "attempts": 37,
    "has_pr": false,
    "labels": [
     "good first issue",
@@ -51,17 +51,17 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 89,
+   "comments": 115,
    "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-13T23:26:28Z",
+   "updated_at": "2026-09-16T23:14:23Z",
    "assigned": false,
    "score": 53,
    "why": [
-    "-30 30 attempt(s)",
-    "+15 2d since activity",
+    "-30 37 attempt(s)",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 89 comments",
-    "+10 300 stars",
+    "-12 115 comments",
+    "+10 301 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-15T17:11:43.014021+00:00"
@@ -277,7 +277,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58026,
+   "stars": 58028,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -300,7 +300,7 @@
     "-8 92d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58026 stars"
+    "-10 58028 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -325,7 +325,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 37 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+4 $30",
     "-12 73 comments",
     "+10 428 stars"
@@ -336,7 +336,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58026,
+   "stars": 58028,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -357,7 +357,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58026 stars"
+    "-10 58028 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -365,7 +365,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32135,
+   "stars": 32136,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -387,7 +387,7 @@
     "+15 3d since activity",
     "+12 $250",
     "-12 136 comments",
-    "-10 32135 stars"
+    "-10 32136 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
