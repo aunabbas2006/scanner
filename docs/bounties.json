@@ -1,39 +1,7 @@
 {
- "updated": "2026-09-17T21:36:50.253746+00:00",
+ "updated": "2026-09-17T23:42:03.472684+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
-   "title": "Fix typo in README",
-   "repo": "xevrion-v2/agent-playground",
-   "stars": 302,
-   "watched": false,
-   "amount": 50.0,
-   "status": "open",
-   "attempts": 37,
-   "has_pr": false,
-   "labels": [
-    "good first issue",
-    "bounty",
-    "AI agent friendly",
-    "\ud83d\udc8e Bounty",
-    "$50"
-   ],
-   "comments": 115,
-   "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-16T23:14:23Z",
-   "assigned": false,
-   "score": 53,
-   "why": [
-    "-30 37 attempt(s)",
-    "+15 0d since activity",
-    "+12 $50",
-    "-12 115 comments",
-    "+10 302 stars",
-    "+8 beginner-friendly label"
-   ],
-   "first_seen": "2026-09-15T17:11:43.014021+00:00"
-  },
   {
    "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
    "title": "Add JSDoc to userService",
@@ -58,9 +26,41 @@
    "score": 53,
    "why": [
     "-30 31 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $50",
     "-12 91 comments",
+    "+10 302 stars",
+    "+8 beginner-friendly label"
+   ],
+   "first_seen": "2026-09-15T17:11:43.014021+00:00"
+  },
+  {
+   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
+   "title": "Fix typo in README",
+   "repo": "xevrion-v2/agent-playground",
+   "stars": 302,
+   "watched": false,
+   "amount": 50.0,
+   "status": "open",
+   "attempts": 37,
+   "has_pr": false,
+   "labels": [
+    "good first issue",
+    "bounty",
+    "AI agent friendly",
+    "\ud83d\udc8e Bounty",
+    "$50"
+   ],
+   "comments": 115,
+   "created_at": "2026-06-03T05:50:49Z",
+   "updated_at": "2026-09-16T23:14:23Z",
+   "assigned": false,
+   "score": 53,
+   "why": [
+    "-30 37 attempt(s)",
+    "+15 1d since activity",
+    "+12 $50",
+    "-12 115 comments",
     "+10 302 stars",
     "+8 beginner-friendly label"
    ],
@@ -84,17 +84,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 13,
+   "comments": 14,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-09-16T05:47:47Z",
+   "updated_at": "2026-09-17T22:15:28Z",
    "assigned": true,
    "score": 46,
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $100",
-    "+4 13 comments",
+    "+4 14 comments",
     "+10 1012 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -365,7 +365,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32143,
+   "stars": 32147,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -387,7 +387,7 @@
     "+15 4d since activity",
     "+12 $250",
     "-12 136 comments",
-    "-10 32143 stars"
+    "-10 32147 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
