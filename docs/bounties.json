@@ -1,12 +1,44 @@
 {
- "updated": "2026-09-18T15:09:48.206460+00:00",
+ "updated": "2026-09-18T18:27:05.343200+00:00",
  "new_count": 0,
  "bounties": [
+  {
+   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
+   "title": "Fix typo in README",
+   "repo": "xevrion-v2/agent-playground",
+   "stars": 306,
+   "watched": false,
+   "amount": 50.0,
+   "status": "open",
+   "attempts": 39,
+   "has_pr": false,
+   "labels": [
+    "good first issue",
+    "bounty",
+    "AI agent friendly",
+    "\ud83d\udc8e Bounty",
+    "$50"
+   ],
+   "comments": 121,
+   "created_at": "2026-06-03T05:50:49Z",
+   "updated_at": "2026-09-18T18:12:22Z",
+   "assigned": false,
+   "score": 53,
+   "why": [
+    "-30 39 attempt(s)",
+    "+15 0d since activity",
+    "+12 $50",
+    "-12 121 comments",
+    "+10 306 stars",
+    "+8 beginner-friendly label"
+   ],
+   "first_seen": "2026-09-15T17:11:43.014021+00:00"
+  },
   {
    "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
    "title": "Add JSDoc to userService",
    "repo": "xevrion-v2/agent-playground",
-   "stars": 304,
+   "stars": 306,
    "watched": false,
    "amount": 50.0,
    "status": "open",
@@ -19,49 +51,17 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 93,
+   "comments": 94,
    "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-18T07:54:33Z",
+   "updated_at": "2026-09-18T18:12:21Z",
    "assigned": false,
    "score": 53,
    "why": [
     "-30 31 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 93 comments",
-    "+10 304 stars",
-    "+8 beginner-friendly label"
-   ],
-   "first_seen": "2026-09-15T17:11:43.014021+00:00"
-  },
-  {
-   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
-   "title": "Fix typo in README",
-   "repo": "xevrion-v2/agent-playground",
-   "stars": 304,
-   "watched": false,
-   "amount": 50.0,
-   "status": "open",
-   "attempts": 38,
-   "has_pr": false,
-   "labels": [
-    "good first issue",
-    "bounty",
-    "AI agent friendly",
-    "\ud83d\udc8e Bounty",
-    "$50"
-   ],
-   "comments": 118,
-   "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-18T08:12:28Z",
-   "assigned": false,
-   "score": 53,
-   "why": [
-    "-30 38 attempt(s)",
-    "+15 0d since activity",
-    "+12 $50",
-    "-12 118 comments",
-    "+10 304 stars",
+    "-12 94 comments",
+    "+10 306 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-15T17:11:43.014021+00:00"
@@ -164,7 +164,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9511,
+   "stars": 9512,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -181,7 +181,7 @@
    "score": 35,
    "why": [
     "-30 6 attempt(s)",
-    "+8 9d since activity",
+    "+8 10d since activity",
     "+12 $200",
     "-5 35 comments"
    ],
@@ -277,7 +277,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58058,
+   "stars": 58061,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -300,7 +300,7 @@
     "-8 93d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58058 stars"
+    "-10 58061 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -336,7 +336,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58058,
+   "stars": 58061,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -357,7 +357,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58058 stars"
+    "-10 58061 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -365,7 +365,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32154,
+   "stars": 32157,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -387,7 +387,7 @@
     "+15 5d since activity",
     "+12 $250",
     "-12 136 comments",
-    "-10 32154 stars"
+    "-10 32157 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
