@@ -1,7 +1,36 @@
 {
- "updated": "2026-09-18T21:05:26.594076+00:00",
- "new_count": 0,
+ "updated": "2026-09-18T23:18:46.673546+00:00",
+ "new_count": 1,
  "bounties": [
+  {
+   "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
+   "title": "[bounty] \u771f\u673a\u5bf9\u7167\u6d4b\u91cf\uff1a\u88c5\u4e86 MisakaNet \u7684 agent \u662f\u5426\u771f\u7684\u66f4\u5c11\u91cd\u590d\u72af\u9519\uff08\u8981\u539f\u59cb\u65e5\u5fd7\uff09",
+   "repo": "Ikalus1988/MisakaNet",
+   "stars": 493,
+   "watched": false,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 0,
+   "has_pr": false,
+   "labels": [
+    "area:tests",
+    "needs-ac",
+    "bounty",
+    "core-bounty"
+   ],
+   "comments": 4,
+   "created_at": "2026-09-17T18:42:33Z",
+   "updated_at": "2026-09-18T22:15:03Z",
+   "assigned": false,
+   "score": 97,
+   "why": [
+    "+15 0d since activity",
+    "+12 $100",
+    "+10 4 comments",
+    "+10 493 stars"
+   ],
+   "first_seen": "2026-09-18T23:18:46.673546+00:00"
+  },
   {
    "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
    "title": "Fix typo in README",
@@ -70,7 +99,7 @@
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
    "repo": "revertinc/revert",
-   "stars": 1012,
+   "stars": 1013,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -92,10 +121,10 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "+4 14 comments",
-    "+10 1012 stars"
+    "+10 1013 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -103,7 +132,7 @@
    "url": "https://github.com/revertinc/revert/issues/372",
    "title": "[REVER-48] Workday Integration",
    "repo": "revertinc/revert",
-   "stars": 1012,
+   "stars": 1013,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -129,7 +158,7 @@
     "+8 7d since activity",
     "+12 $100",
     "+4 13 comments",
-    "+10 1012 stars"
+    "+10 1013 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -154,7 +183,7 @@
    "score": 35,
    "why": [
     "-30 93 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $75",
     "-12 160 comments"
    ],
@@ -266,7 +295,7 @@
    "why": [
     "-25 someone attempting",
     "-30 38 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $50",
     "-12 73 comments",
     "+10 428 stars"
@@ -277,7 +306,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58064,
+   "stars": 58065,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -300,7 +329,7 @@
     "-8 94d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58064 stars"
+    "-10 58065 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -336,7 +365,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58064,
+   "stars": 58065,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -357,7 +386,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58064 stars"
+    "-10 58065 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -365,7 +394,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32159,
+   "stars": 32161,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -387,7 +416,7 @@
     "+15 5d since activity",
     "+12 $250",
     "-12 136 comments",
-    "-10 32159 stars"
+    "-10 32161 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
