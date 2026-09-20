@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-20T16:02:28.829905+00:00",
+ "updated": "2026-09-20T18:46:56.258528+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
    "title": "[bounty] \u771f\u673a\u5bf9\u7167\u6d4b\u91cf\uff1a\u88c5\u4e86 MisakaNet \u7684 agent \u662f\u5426\u771f\u7684\u66f4\u5c11\u91cd\u590d\u72af\u9519\uff08\u8981\u539f\u59cb\u65e5\u5fd7\uff09",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 494,
+   "stars": 495,
    "watched": false,
    "amount": 100.0,
    "status": "open",
@@ -24,10 +24,10 @@
    "assigned": false,
    "score": 91,
    "why": [
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "+4 5 comments",
-    "+10 494 stars"
+    "+10 495 stars"
    ],
    "first_seen": "2026-09-18T23:18:46.673546+00:00"
   },
@@ -35,7 +35,7 @@
    "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
    "title": "Add JSDoc to userService",
    "repo": "xevrion-v2/agent-playground",
-   "stars": 307,
+   "stars": 306,
    "watched": false,
    "amount": 50.0,
    "status": "open",
@@ -58,7 +58,7 @@
     "+15 1d since activity",
     "+12 $50",
     "-12 96 comments",
-    "+10 307 stars",
+    "+10 306 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-15T17:11:43.014021+00:00"
@@ -67,7 +67,7 @@
    "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
    "title": "Fix typo in README",
    "repo": "xevrion-v2/agent-playground",
-   "stars": 307,
+   "stars": 306,
    "watched": false,
    "amount": 50.0,
    "status": "open",
@@ -87,10 +87,10 @@
    "score": 53,
    "why": [
     "-30 38 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $50",
     "-12 121 comments",
-    "+10 307 stars",
+    "+10 306 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-15T17:11:43.014021+00:00"
@@ -306,7 +306,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58084,
+   "stars": 58086,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -329,7 +329,7 @@
     "-8 95d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58084 stars"
+    "-10 58086 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -365,7 +365,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58084,
+   "stars": 58086,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -386,7 +386,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58084 stars"
+    "-10 58086 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
