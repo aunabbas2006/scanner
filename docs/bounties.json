@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T23:15:03.960472+00:00",
+ "updated": "2026-09-21T01:06:52.116737+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -210,7 +210,7 @@
    "score": 35,
    "why": [
     "-30 96 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $75",
     "-12 164 comments"
    ],
@@ -306,7 +306,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58087,
+   "stars": 58088,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -329,7 +329,7 @@
     "-8 96d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58087 stars"
+    "-10 58088 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -365,7 +365,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58087,
+   "stars": 58088,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -386,7 +386,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58087 stars"
+    "-10 58088 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
