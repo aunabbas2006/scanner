@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-21T13:06:53.606601+00:00",
- "new_count": 1,
+ "updated": "2026-09-21T18:41:11.470938+00:00",
+ "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Mantitup-Org/vista/issues/61",
    "title": "Bounty: hunt bugs across the entire Vista framework",
    "repo": "Mantitup-Org/vista",
-   "stars": 2377,
+   "stars": 2378,
    "watched": false,
    "amount": 50.0,
    "status": "open",
@@ -16,16 +16,16 @@
     "help wanted",
     "bounty"
    ],
-   "comments": 6,
+   "comments": 8,
    "created_at": "2026-09-20T18:51:05Z",
-   "updated_at": "2026-09-21T11:48:48Z",
+   "updated_at": "2026-09-21T16:09:20Z",
    "assigned": false,
    "score": 99,
    "why": [
     "+15 0d since activity",
     "+12 $50",
-    "+4 6 comments",
-    "+10 2377 stars",
+    "+4 8 comments",
+    "+10 2378 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-21T13:06:53.606601+00:00"
@@ -34,7 +34,7 @@
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
    "title": "[bounty] \u771f\u673a\u5bf9\u7167\u6d4b\u91cf\uff1a\u88c5\u4e86 MisakaNet \u7684 agent \u662f\u5426\u771f\u7684\u66f4\u5c11\u91cd\u590d\u72af\u9519\uff08\u8981\u539f\u59cb\u65e5\u5fd7\uff09",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 495,
+   "stars": 496,
    "watched": false,
    "amount": 100.0,
    "status": "open",
@@ -52,82 +52,18 @@
    "assigned": false,
    "score": 91,
    "why": [
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $100",
     "+4 5 comments",
-    "+10 495 stars"
+    "+10 496 stars"
    ],
    "first_seen": "2026-09-18T23:18:46.673546+00:00"
-  },
-  {
-   "url": "https://github.com/xevrion-v2/agent-playground/issues/1",
-   "title": "Add JSDoc to userService",
-   "repo": "xevrion-v2/agent-playground",
-   "stars": 308,
-   "watched": false,
-   "amount": 50.0,
-   "status": "open",
-   "attempts": 31,
-   "has_pr": false,
-   "labels": [
-    "good first issue",
-    "bounty",
-    "AI agent friendly",
-    "\ud83d\udc8e Bounty",
-    "$50"
-   ],
-   "comments": 96,
-   "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-19T01:30:03Z",
-   "assigned": false,
-   "score": 53,
-   "why": [
-    "-30 31 attempt(s)",
-    "+15 2d since activity",
-    "+12 $50",
-    "-12 96 comments",
-    "+10 308 stars",
-    "+8 beginner-friendly label"
-   ],
-   "first_seen": "2026-09-15T17:11:43.014021+00:00"
-  },
-  {
-   "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
-   "title": "Fix typo in README",
-   "repo": "xevrion-v2/agent-playground",
-   "stars": 308,
-   "watched": false,
-   "amount": 50.0,
-   "status": "open",
-   "attempts": 38,
-   "has_pr": false,
-   "labels": [
-    "good first issue",
-    "bounty",
-    "AI agent friendly",
-    "\ud83d\udc8e Bounty",
-    "$50"
-   ],
-   "comments": 119,
-   "created_at": "2026-06-03T05:50:49Z",
-   "updated_at": "2026-09-21T13:03:13Z",
-   "assigned": false,
-   "score": 53,
-   "why": [
-    "-30 38 attempt(s)",
-    "+15 0d since activity",
-    "+12 $50",
-    "-12 119 comments",
-    "+10 308 stars",
-    "+8 beginner-friendly label"
-   ],
-   "first_seen": "2026-09-15T17:11:43.014021+00:00"
   },
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9519,
+   "stars": 9520,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -334,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58099,
+   "stars": 58105,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -357,7 +293,7 @@
     "-8 96d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58099 stars"
+    "-10 58105 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -393,7 +329,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58099,
+   "stars": 58105,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -414,7 +350,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58099 stars"
+    "-10 58105 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -422,7 +358,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32186,
+   "stars": 32191,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -441,10 +377,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 63 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32186 stars"
+    "-10 32191 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
