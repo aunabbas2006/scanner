@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T22:14:33.517737+00:00",
+ "updated": "2026-09-22T00:51:44.867614+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -97,7 +97,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9521,
+   "stars": 9522,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -174,7 +174,7 @@
    "score": 35,
    "why": [
     "-30 96 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $75",
     "-12 164 comments"
    ],
@@ -358,7 +358,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32192,
+   "stars": 32193,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -380,7 +380,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32192 stars"
+    "-10 32193 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
