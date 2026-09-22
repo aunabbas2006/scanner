@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-22T15:06:38.476591+00:00",
+ "updated": "2026-09-22T18:53:11.279386+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Mantitup-Org/vista/issues/61",
    "title": "Bounty: hunt bugs across the entire Vista framework",
    "repo": "Mantitup-Org/vista",
-   "stars": 2380,
+   "stars": 2383,
    "watched": false,
    "amount": 50.0,
    "status": "open",
@@ -25,7 +25,7 @@
     "+15 0d since activity",
     "+12 $50",
     "+4 10 comments",
-    "+10 2380 stars",
+    "+10 2383 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-21T13:06:53.606601+00:00"
@@ -34,7 +34,7 @@
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
    "title": "[bounty] \u771f\u673a\u5bf9\u7167\u6d4b\u91cf\uff1a\u88c5\u4e86 MisakaNet \u7684 agent \u662f\u5426\u771f\u7684\u66f4\u5c11\u91cd\u590d\u72af\u9519\uff08\u8981\u539f\u59cb\u65e5\u5fd7\uff09",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 499,
+   "stars": 501,
    "watched": false,
    "amount": 100.0,
    "status": "open",
@@ -52,10 +52,10 @@
    "assigned": false,
    "score": 91,
    "why": [
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $100",
     "+4 5 comments",
-    "+10 499 stars"
+    "+10 501 stars"
    ],
    "first_seen": "2026-09-18T23:18:46.673546+00:00"
   },
@@ -161,7 +161,7 @@
    "watched": true,
    "amount": 75.0,
    "status": "open",
-   "attempts": 97,
+   "attempts": 98,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
@@ -173,7 +173,7 @@
    "assigned": false,
    "score": 35,
    "why": [
-    "-30 97 attempt(s)",
+    "-30 98 attempt(s)",
     "+15 0d since activity",
     "+12 $75",
     "-12 166 comments"
@@ -270,7 +270,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58113,
+   "stars": 58115,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-8 97d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58113 stars"
+    "-10 58115 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -329,7 +329,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58113,
+   "stars": 58115,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -350,7 +350,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58113 stars"
+    "-10 58115 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -358,11 +358,11 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32201,
+   "stars": 32204,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 63,
+   "attempts": 64,
    "has_pr": true,
    "labels": [
     "enhancement",
@@ -376,11 +376,11 @@
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 63 attempt(s)",
+    "-30 64 attempt(s)",
     "+15 2d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32201 stars"
+    "-10 32204 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
