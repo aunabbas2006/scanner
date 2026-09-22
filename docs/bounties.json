@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-22T18:53:11.279386+00:00",
+ "updated": "2026-09-22T21:45:38.602505+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Mantitup-Org/vista/issues/61",
    "title": "Bounty: hunt bugs across the entire Vista framework",
    "repo": "Mantitup-Org/vista",
-   "stars": 2383,
+   "stars": 2382,
    "watched": false,
    "amount": 50.0,
    "status": "open",
@@ -25,7 +25,7 @@
     "+15 0d since activity",
     "+12 $50",
     "+4 10 comments",
-    "+10 2383 stars",
+    "+10 2382 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-09-21T13:06:53.606601+00:00"
@@ -86,7 +86,7 @@
    "why": [
     "-15 assigned",
     "-30 5 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "+4 14 comments",
     "+10 1013 stars"
@@ -97,7 +97,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9523,
+   "stars": 9525,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -146,7 +146,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $100",
     "-5 16 comments",
     "+10 1013 stars"
@@ -259,7 +259,7 @@
    "why": [
     "-25 someone attempting",
     "-30 38 attempt(s)",
-    "+15 5d since activity",
+    "+15 6d since activity",
     "+12 $50",
     "-12 73 comments",
     "+10 427 stars"
@@ -290,7 +290,7 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 97d since activity",
+    "-8 98d since activity",
     "+12 $100",
     "-12 129 comments",
     "-10 58115 stars"
@@ -358,7 +358,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32204,
+   "stars": 32207,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -380,7 +380,7 @@
     "+15 2d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32204 stars"
+    "-10 32207 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
