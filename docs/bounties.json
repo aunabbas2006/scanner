@@ -1,64 +1,7 @@
 {
- "updated": "2026-09-23T13:23:46.646861+00:00",
+ "updated": "2026-09-23T17:55:29.750950+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/Mantitup-Org/vista/issues/61",
-   "title": "Bounty: hunt bugs across the entire Vista framework",
-   "repo": "Mantitup-Org/vista",
-   "stars": 2384,
-   "watched": false,
-   "amount": 50.0,
-   "status": "open",
-   "attempts": 0,
-   "has_pr": false,
-   "labels": [
-    "help wanted",
-    "bounty"
-   ],
-   "comments": 11,
-   "created_at": "2026-09-20T18:51:05Z",
-   "updated_at": "2026-09-23T11:57:15Z",
-   "assigned": false,
-   "score": 99,
-   "why": [
-    "+15 0d since activity",
-    "+12 $50",
-    "+4 11 comments",
-    "+10 2384 stars",
-    "+8 beginner-friendly label"
-   ],
-   "first_seen": "2026-09-21T13:06:53.606601+00:00"
-  },
-  {
-   "url": "https://github.com/Ikalus1988/MisakaNet/issues/1819",
-   "title": "[bounty] \u771f\u673a\u5bf9\u7167\u6d4b\u91cf\uff1a\u88c5\u4e86 MisakaNet \u7684 agent \u662f\u5426\u771f\u7684\u66f4\u5c11\u91cd\u590d\u72af\u9519\uff08\u8981\u539f\u59cb\u65e5\u5fd7\uff09",
-   "repo": "Ikalus1988/MisakaNet",
-   "stars": 502,
-   "watched": false,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 0,
-   "has_pr": false,
-   "labels": [
-    "area:tests",
-    "needs-ac",
-    "bounty",
-    "core-bounty"
-   ],
-   "comments": 5,
-   "created_at": "2026-09-17T18:42:33Z",
-   "updated_at": "2026-09-19T18:13:16Z",
-   "assigned": false,
-   "score": 91,
-   "why": [
-    "+15 3d since activity",
-    "+12 $100",
-    "+4 5 comments",
-    "+10 502 stars"
-   ],
-   "first_seen": "2026-09-18T23:18:46.673546+00:00"
-  },
   {
    "url": "https://github.com/revertinc/revert/issues/372",
    "title": "[REVER-48] Workday Integration",
@@ -270,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58126,
+   "stars": 58135,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -293,7 +236,7 @@
     "-8 98d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58126 stars"
+    "-10 58135 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -329,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58126,
+   "stars": 58135,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -350,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58126 stars"
+    "-10 58135 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -358,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32221,
+   "stars": 32225,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -377,10 +320,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 64 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32221 stars"
+    "-10 32225 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
