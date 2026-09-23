@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T17:55:29.750950+00:00",
+ "updated": "2026-09-23T20:54:57.114441+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -40,7 +40,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9527,
+   "stars": 9528,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -89,7 +89,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+12 $100",
     "-5 16 comments",
     "+10 1013 stars"
@@ -127,7 +127,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "stars": 428,
    "watched": true,
    "amount": 25.0,
    "status": "open",
@@ -146,7 +146,7 @@
     "+8 15d since activity",
     "+4 $25",
     "-12 47 comments",
-    "+10 427 stars"
+    "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -158,23 +158,23 @@
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
-   "attempts": 14,
+   "attempts": 15,
    "has_pr": false,
    "labels": [
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 43,
+   "comments": 44,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-09-22T08:41:16Z",
+   "updated_at": "2026-09-23T20:12:23Z",
    "assigned": false,
    "score": 28,
    "why": [
     "-25 someone attempting",
-    "-30 14 attempt(s)",
-    "+15 1d since activity",
+    "-30 15 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 43 comments",
+    "-12 44 comments",
     "+10 1578 stars",
     "+8 beginner-friendly label"
    ],
@@ -184,7 +184,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "stars": 428,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -205,7 +205,7 @@
     "+15 6d since activity",
     "+12 $50",
     "-12 73 comments",
-    "+10 427 stars"
+    "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58135,
+   "stars": 58136,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -233,10 +233,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 98d since activity",
+    "-8 99d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58135 stars"
+    "-10 58136 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -244,27 +244,27 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 427,
+   "stars": 428,
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 40,
+   "attempts": 41,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 78,
+   "comments": 79,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-09-22T09:46:04Z",
+   "updated_at": "2026-09-23T19:59:20Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 40 attempt(s)",
-    "+15 1d since activity",
+    "-30 41 attempt(s)",
+    "+15 0d since activity",
     "+4 $30",
-    "-12 78 comments",
-    "+10 427 stars"
+    "-12 79 comments",
+    "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58135,
+   "stars": 58136,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58135 stars"
+    "-10 58136 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
