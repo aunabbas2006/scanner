@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T20:32:04.943327+00:00",
+ "updated": "2026-09-24T23:27:48.154870+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -29,7 +29,7 @@
    "why": [
     "-15 assigned",
     "-30 5 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $100",
     "+4 14 comments",
     "+10 1013 stars"
@@ -40,7 +40,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9530,
+   "stars": 9531,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -144,7 +144,7 @@
    "score": 35,
    "why": [
     "-30 99 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $75",
     "-12 170 comments"
    ],
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58150,
+   "stars": 58153,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 100d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58150 stars"
+    "-10 58153 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58150,
+   "stars": 58153,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58150 stars"
+    "-10 58153 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32237,
+   "stars": 32238,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 4d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32237 stars"
+    "-10 32238 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
