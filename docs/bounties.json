@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T06:46:08.829841+00:00",
+ "updated": "2026-09-24T12:16:27.343589+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -57,7 +57,7 @@
    "score": 42,
    "why": [
     "-30 7 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+12 $200",
     "-5 37 comments"
    ],
@@ -188,23 +188,23 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 39,
+   "attempts": 40,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 74,
+   "comments": 75,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-09-24T06:19:50Z",
+   "updated_at": "2026-09-24T07:53:32Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 39 attempt(s)",
+    "-30 40 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 74 comments",
+    "-12 75 comments",
     "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58143,
+   "stars": 58147,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 99d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58143 stars"
+    "-10 58147 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58143,
+   "stars": 58147,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58143 stars"
+    "-10 58147 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32229,
+   "stars": 32231,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 3d since activity",
     "+12 $250",
     "-12 143 comments",
-    "-10 32229 stars"
+    "-10 32231 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
