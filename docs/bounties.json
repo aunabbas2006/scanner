@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T12:00:13.585412+00:00",
+ "updated": "2026-09-26T16:01:10.873016+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -40,7 +40,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9534,
+   "stars": 9536,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -104,21 +104,21 @@
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 17,
+   "attempts": 18,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 48,
+   "comments": 49,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-09-24T19:54:34Z",
+   "updated_at": "2026-09-26T12:12:32Z",
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 17 attempt(s)",
-    "+15 1d since activity",
+    "-30 18 attempt(s)",
+    "+15 0d since activity",
     "+4 $25",
-    "-12 48 comments",
+    "-12 49 comments",
     "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -172,7 +172,7 @@
    "why": [
     "-25 someone attempting",
     "-30 16 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $250",
     "-12 45 comments",
     "+10 1578 stars",
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58166,
+   "stars": 58170,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 101d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58166 stars"
+    "-10 58170 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58166,
+   "stars": 58170,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58166 stars"
+    "-10 58170 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -335,24 +335,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 6,
+   "attempts": 8,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 27,
+   "comments": 29,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-07-03T22:24:02Z",
+   "updated_at": "2026-09-26T14:31:11Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 6 attempt(s)",
+    "-30 8 attempt(s)",
+    "+15 0d since activity",
     "+4 $40",
-    "-5 27 comments"
+    "-5 29 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
