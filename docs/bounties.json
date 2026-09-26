@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T19:07:25.042441+00:00",
+ "updated": "2026-09-26T21:58:28.274294+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -29,7 +29,7 @@
    "why": [
     "-15 assigned",
     "-30 5 attempt(s)",
-    "+15 4d since activity",
+    "+15 5d since activity",
     "+12 $100",
     "+4 14 comments",
     "+10 1013 stars"
@@ -62,39 +62,6 @@
     "-5 37 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/revertinc/revert/issues/551",
-   "title": "[REVER-51] Workable Integration",
-   "repo": "revertinc/revert",
-   "stars": 1013,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 6,
-   "has_pr": false,
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 16,
-   "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-09-19T19:11:15Z",
-   "assigned": true,
-   "score": 37,
-   "why": [
-    "-15 assigned",
-    "-30 6 attempt(s)",
-    "+15 6d since activity",
-    "+12 $100",
-    "-5 16 comments",
-    "+10 1013 stars"
-   ],
-   "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
@@ -144,11 +111,44 @@
    "score": 35,
    "why": [
     "-30 99 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $75",
     "-12 170 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 1013,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 6,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 16,
+   "created_at": "2024-04-29T11:50:14Z",
+   "updated_at": "2026-09-19T19:11:15Z",
+   "assigned": true,
+   "score": 30,
+   "why": [
+    "-15 assigned",
+    "-30 6 attempt(s)",
+    "+8 7d since activity",
+    "+12 $100",
+    "-5 16 comments",
+    "+10 1013 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
    "url": "https://github.com/getdozer/dozer/issues/1690",
@@ -202,7 +202,7 @@
    "why": [
     "-25 someone attempting",
     "-30 40 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $50",
     "-12 76 comments",
     "+10 428 stars"
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58171,
+   "stars": 58172,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -233,10 +233,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 101d since activity",
+    "-8 102d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58171 stars"
+    "-10 58172 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -261,7 +261,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 42 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+4 $30",
     "-12 81 comments",
     "+10 428 stars"
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58171,
+   "stars": 58172,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58171 stars"
+    "-10 58172 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32257,
+   "stars": 32258,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 145 comments",
-    "-10 32257 stars"
+    "-10 32258 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
