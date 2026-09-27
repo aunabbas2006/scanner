@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T05:15:24.844561+00:00",
+ "updated": "2026-09-27T10:35:57.445724+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -40,7 +40,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9536,
+   "stars": 9539,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -194,9 +194,9 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 77,
+   "comments": 78,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-09-27T01:45:37Z",
+   "updated_at": "2026-09-27T09:58:35Z",
    "assigned": false,
    "score": 20,
    "why": [
@@ -204,7 +204,7 @@
     "-30 40 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 77 comments",
+    "-12 78 comments",
     "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58173,
+   "stars": 58178,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 102d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58173 stars"
+    "-10 58178 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58173,
+   "stars": 58178,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58173 stars"
+    "-10 58178 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -335,25 +335,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 8,
+   "attempts": 9,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 29,
+   "comments": 30,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-09-26T14:31:11Z",
+   "updated_at": "2026-09-27T05:16:33Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 8 attempt(s)",
+    "-30 9 attempt(s)",
     "+15 0d since activity",
     "+4 $40",
-    "-5 29 comments"
+    "-5 30 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
