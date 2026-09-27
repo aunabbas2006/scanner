@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T19:08:22.184305+00:00",
+ "updated": "2026-09-27T22:08:29.650058+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -29,7 +29,7 @@
    "why": [
     "-15 assigned",
     "-30 5 attempt(s)",
-    "+15 5d since activity",
+    "+15 6d since activity",
     "+12 $100",
     "+4 14 comments",
     "+10 1013 stars"
@@ -71,22 +71,22 @@
    "watched": true,
    "amount": 75.0,
    "status": "open",
-   "attempts": 101,
+   "attempts": 102,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$1"
    ],
-   "comments": 172,
+   "comments": 173,
    "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-09-27T18:22:47Z",
+   "updated_at": "2026-09-27T19:24:00Z",
    "assigned": false,
    "score": 35,
    "why": [
-    "-30 101 attempt(s)",
+    "-30 102 attempt(s)",
     "+15 0d since activity",
     "+12 $75",
-    "-12 172 comments"
+    "-12 173 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -143,7 +143,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 7d since activity",
+    "+8 8d since activity",
     "+12 $100",
     "-5 16 comments",
     "+10 1013 stars"
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58184,
+   "stars": 58188,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -233,10 +233,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 102d since activity",
+    "-8 103d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58184 stars"
+    "-10 58188 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58184,
+   "stars": 58188,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58184 stars"
+    "-10 58188 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -312,17 +312,17 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 145,
+   "comments": 146,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-09-25T17:41:00Z",
+   "updated_at": "2026-09-27T21:51:13Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-30 64 attempt(s)",
-    "+15 2d since activity",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 145 comments",
+    "-12 146 comments",
     "-10 32261 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
