@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T12:28:36.769401+00:00",
+ "updated": "2026-09-28T19:48:10.691267+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -84,7 +84,7 @@
    "score": 35,
    "why": [
     "-30 102 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $75",
     "-12 173 comments"
    ],
@@ -94,7 +94,7 @@
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9542,
+   "stars": 9544,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -143,7 +143,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 8d since activity",
+    "+8 9d since activity",
     "+12 $100",
     "-5 16 comments",
     "+10 1013 stars"
@@ -172,7 +172,7 @@
    "why": [
     "-25 someone attempting",
     "-30 16 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+12 $250",
     "-12 45 comments",
     "+10 1578 stars",
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58204,
+   "stars": 58210,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 103d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58204 stars"
+    "-10 58210 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58204,
+   "stars": 58210,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58204 stars"
+    "-10 58210 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32265,
+   "stars": 32271,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 146 comments",
-    "-10 32265 stars"
+    "-10 32271 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -351,7 +351,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 10 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+4 $40",
     "-5 31 comments"
    ],
