@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T17:02:58.457896+00:00",
+ "updated": "2026-09-29T21:25:03.549061+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,24 +10,57 @@
    "watched": true,
    "amount": 200.0,
    "status": "open",
-   "attempts": 8,
+   "attempts": 9,
    "has_pr": false,
    "labels": [
     "enhancement",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 38,
+   "comments": 39,
    "created_at": "2022-02-09T16:07:24Z",
-   "updated_at": "2026-09-29T05:31:31Z",
+   "updated_at": "2026-09-29T21:10:24Z",
    "assigned": false,
    "score": 42,
    "why": [
-    "-30 8 attempt(s)",
+    "-30 9 attempt(s)",
     "+15 0d since activity",
     "+12 $200",
-    "-5 38 comments"
+    "-5 39 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 1013,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 7,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 15,
+   "created_at": "2024-04-29T11:50:14Z",
+   "updated_at": "2026-09-29T19:09:33Z",
+   "assigned": true,
+   "score": 37,
+   "why": [
+    "-15 assigned",
+    "-30 7 attempt(s)",
+    "+15 0d since activity",
+    "+12 $100",
+    "-5 15 comments",
+    "+10 1013 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
    "url": "https://github.com/revertinc/revert/issues/372",
@@ -37,7 +70,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 5,
+   "attempts": 6,
    "has_pr": false,
    "labels": [
     "integration",
@@ -48,17 +81,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 14,
+   "comments": 15,
    "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-09-21T21:25:48Z",
+   "updated_at": "2026-09-29T19:20:18Z",
    "assigned": true,
-   "score": 39,
+   "score": 37,
    "why": [
     "-15 assigned",
-    "-30 5 attempt(s)",
-    "+8 7d since activity",
+    "-30 6 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "+4 14 comments",
+    "-5 15 comments",
     "+10 1013 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -111,44 +144,11 @@
    "score": 35,
    "why": [
     "-30 102 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $75",
     "-12 173 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/revertinc/revert/issues/551",
-   "title": "[REVER-51] Workable Integration",
-   "repo": "revertinc/revert",
-   "stars": 1013,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 6,
-   "has_pr": false,
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 16,
-   "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-09-19T19:11:15Z",
-   "assigned": true,
-   "score": 30,
-   "why": [
-    "-15 assigned",
-    "-30 6 attempt(s)",
-    "+8 9d since activity",
-    "+12 $100",
-    "-5 16 comments",
-    "+10 1013 stars"
-   ],
-   "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
    "url": "https://github.com/getdozer/dozer/issues/1690",
@@ -194,17 +194,17 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 82,
+   "comments": 83,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-09-28T00:42:52Z",
+   "updated_at": "2026-09-29T17:27:14Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
     "-30 42 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 82 comments",
+    "-12 83 comments",
     "+10 428 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58222,
+   "stars": 58228,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -233,10 +233,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 104d since activity",
+    "-8 105d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58222 stars"
+    "-10 58228 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58222,
+   "stars": 58228,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58222 stars"
+    "-10 58228 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32287,
+   "stars": 32289,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 146 comments",
-    "-10 32287 stars"
+    "-10 32289 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
