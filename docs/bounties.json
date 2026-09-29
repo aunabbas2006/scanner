@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-29T05:41:22.843027+00:00",
+ "updated": "2026-09-29T11:36:00.846592+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9546,
+   "stars": 9548,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -213,7 +213,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58213,
+   "stars": 58218,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +236,7 @@
     "-8 104d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58213 stars"
+    "-10 58218 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +272,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58213,
+   "stars": 58218,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +293,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58213 stars"
+    "-10 58218 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +301,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32277,
+   "stars": 32283,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -323,7 +323,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 146 comments",
-    "-10 32277 stars"
+    "-10 32283 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
