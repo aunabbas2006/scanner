@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-30T05:59:19.659132+00:00",
+ "updated": "2026-09-30T12:01:42.448699+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9550,
+   "stars": 9552,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -124,33 +124,6 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
-   "url": "https://github.com/tscircuit/jlcsearch/issues/92",
-   "title": "Add `is_extended_promotional ` column to components (from data source)",
-   "repo": "tscircuit/jlcsearch",
-   "stars": 36,
-   "watched": true,
-   "amount": 75.0,
-   "status": "open",
-   "attempts": 103,
-   "has_pr": false,
-   "labels": [
-    "\ud83d\udc8e Bounty",
-    "$1"
-   ],
-   "comments": 176,
-   "created_at": "2025-10-07T18:30:54Z",
-   "updated_at": "2026-09-30T04:25:37Z",
-   "assigned": false,
-   "score": 35,
-   "why": [
-    "-30 103 attempt(s)",
-    "+15 0d since activity",
-    "+12 $75",
-    "-12 176 comments"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
@@ -213,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58232,
+   "stars": 58234,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,7 +209,7 @@
     "-8 105d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58232 stars"
+    "-10 58234 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -272,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58232,
+   "stars": 58234,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -293,7 +266,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58232 stars"
+    "-10 58234 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -301,7 +274,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32292,
+   "stars": 32294,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -312,18 +285,18 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 146,
+   "comments": 147,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-09-27T21:51:13Z",
+   "updated_at": "2026-09-30T11:37:27Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-30 64 attempt(s)",
-    "+15 2d since activity",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 146 comments",
-    "-10 32292 stars"
+    "-12 147 comments",
+    "-10 32294 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -335,25 +308,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 11,
+   "attempts": 12,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 32,
+   "comments": 33,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-09-30T04:05:13Z",
+   "updated_at": "2026-09-30T08:17:29Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 11 attempt(s)",
+    "-30 12 attempt(s)",
     "+15 0d since activity",
     "+4 $40",
-    "-5 32 comments"
+    "-5 33 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
