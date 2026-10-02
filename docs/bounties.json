@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-02T19:49:38.288279+00:00",
+ "updated": "2026-10-02T23:28:57.565177+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9554,
+   "stars": 9555,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -23,7 +23,7 @@
    "score": 42,
    "why": [
     "-30 9 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $200",
     "-5 39 comments"
    ],
@@ -175,7 +175,7 @@
    "why": [
     "-25 someone attempting",
     "-30 43 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $50",
     "-12 84 comments",
     "+10 428 stars"
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58268,
+   "stars": 58270,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -206,10 +206,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 107d since activity",
+    "-8 108d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58268 stars"
+    "-10 58270 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58268,
+   "stars": 58270,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -266,7 +266,7 @@
     "-30 10 attempt(s)",
     "+6 $300",
     "-12 121 comments",
-    "-10 58268 stars"
+    "-10 58270 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
