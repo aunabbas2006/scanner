@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T23:12:04.845969+00:00",
+ "updated": "2026-10-02T02:14:08.199982+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -274,7 +274,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32304,
+   "stars": 32307,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -296,7 +296,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 147 comments",
-    "-10 32304 stars"
+    "-10 32307 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
