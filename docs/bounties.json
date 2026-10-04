@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-04T08:40:50.634560+00:00",
+ "updated": "2026-10-04T14:23:19.913277+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9561,
+   "stars": 9563,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -127,28 +127,28 @@
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
-   "stars": 1578,
+   "stars": 1577,
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
-   "attempts": 16,
+   "attempts": 17,
    "has_pr": false,
    "labels": [
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 45,
+   "comments": 46,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-09-24T14:38:01Z",
+   "updated_at": "2026-10-04T12:18:27Z",
    "assigned": false,
-   "score": 21,
+   "score": 28,
    "why": [
     "-25 someone attempting",
-    "-30 16 attempt(s)",
-    "+8 9d since activity",
+    "-30 17 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 45 comments",
-    "+10 1578 stars",
+    "-12 46 comments",
+    "+10 1577 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58287,
+   "stars": 58289,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 109d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58287 stars"
+    "-10 58289 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58287,
+   "stars": 58289,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 90d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58287 stars"
+    "-10 58289 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32322,
+   "stars": 32323,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 149 comments",
-    "-10 32322 stars"
+    "-10 32323 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
