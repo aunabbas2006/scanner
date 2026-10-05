@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T00:06:39.269166+00:00",
+ "updated": "2026-10-05T05:34:47.128968+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58296,
+   "stars": 58303,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 110d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58296 stars"
+    "-10 58303 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -226,17 +226,17 @@
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 83,
+   "comments": 84,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-09-28T02:41:01Z",
+   "updated_at": "2026-10-05T02:23:42Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
     "-30 44 attempt(s)",
-    "+15 6d since activity",
+    "+15 0d since activity",
     "+4 $30",
-    "-12 83 comments",
+    "-12 84 comments",
     "+10 429 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58296,
+   "stars": 58303,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 91d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58296 stars"
+    "-10 58303 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32326,
+   "stars": 32327,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 149 comments",
-    "-10 32326 stars"
+    "-10 32327 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
