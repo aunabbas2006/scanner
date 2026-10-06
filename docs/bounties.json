@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T08:01:46.560290+00:00",
+ "updated": "2026-10-06T14:56:34.521202+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -33,7 +33,7 @@
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
    "repo": "revertinc/revert",
-   "stars": 1012,
+   "stars": 1013,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -58,7 +58,7 @@
     "+15 6d since activity",
     "+12 $100",
     "-5 15 comments",
-    "+10 1012 stars"
+    "+10 1013 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -66,7 +66,7 @@
    "url": "https://github.com/revertinc/revert/issues/372",
    "title": "[REVER-48] Workday Integration",
    "repo": "revertinc/revert",
-   "stars": 1012,
+   "stars": 1013,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -92,7 +92,7 @@
     "+15 6d since activity",
     "+12 $100",
     "-5 15 comments",
-    "+10 1012 stars"
+    "+10 1013 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -145,7 +145,7 @@
    "why": [
     "-25 someone attempting",
     "-30 17 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $250",
     "-12 46 comments",
     "+10 1577 stars",
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58322,
+   "stars": 58331,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 111d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58322 stars"
+    "-10 58331 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58322,
+   "stars": 58331,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 92d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58322 stars"
+    "-10 58331 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32331,
+   "stars": 32335,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 2d since activity",
     "+12 $250",
     "-12 149 comments",
-    "-10 32331 stars"
+    "-10 32335 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -325,7 +325,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 12 attempt(s)",
-    "+15 5d since activity",
+    "+15 6d since activity",
     "+4 $40",
     "-5 33 comments"
    ],
