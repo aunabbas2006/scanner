@@ -1,34 +1,7 @@
 {
- "updated": "2026-10-06T19:57:36.980842+00:00",
+ "updated": "2026-10-06T23:30:21.764797+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/150",
-   "title": "Support lensfun database",
-   "repo": "gyroflow/gyroflow",
-   "stars": 9572,
-   "watched": true,
-   "amount": 200.0,
-   "status": "open",
-   "attempts": 9,
-   "has_pr": false,
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 39,
-   "created_at": "2022-02-09T16:07:24Z",
-   "updated_at": "2026-09-29T21:10:24Z",
-   "assigned": false,
-   "score": 42,
-   "why": [
-    "-30 9 attempt(s)",
-    "+15 6d since activity",
-    "+12 $200",
-    "-5 39 comments"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
   {
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
@@ -53,6 +26,33 @@
     "+4 $25",
     "-12 50 comments",
     "+10 429 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/gyroflow/gyroflow/issues/150",
+   "title": "Support lensfun database",
+   "repo": "gyroflow/gyroflow",
+   "stars": 9573,
+   "watched": true,
+   "amount": 200.0,
+   "status": "open",
+   "attempts": 9,
+   "has_pr": false,
+   "labels": [
+    "enhancement",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 39,
+   "created_at": "2022-02-09T16:07:24Z",
+   "updated_at": "2026-09-29T21:10:24Z",
+   "assigned": false,
+   "score": 35,
+   "why": [
+    "-30 9 attempt(s)",
+    "+8 7d since activity",
+    "+12 $200",
+    "-5 39 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -175,7 +175,7 @@
    "why": [
     "-25 someone attempting",
     "-30 43 attempt(s)",
-    "+15 4d since activity",
+    "+15 5d since activity",
     "+12 $50",
     "-12 84 comments",
     "+10 429 stars"
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58337,
+   "stars": 58339,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -206,10 +206,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 111d since activity",
+    "-8 112d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58337 stars"
+    "-10 58339 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58337,
+   "stars": 58339,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 93d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58337 stars"
+    "-10 58339 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32336,
+   "stars": 32337,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -294,10 +294,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 66 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $250",
     "-12 149 comments",
-    "-10 32336 stars"
+    "-10 32337 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
