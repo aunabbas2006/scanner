@@ -1,39 +1,12 @@
 {
- "updated": "2026-10-09T13:48:52.328695+00:00",
+ "updated": "2026-10-09T19:11:38.932975+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 429,
-   "watched": true,
-   "amount": 25.0,
-   "status": "open",
-   "attempts": 19,
-   "has_pr": false,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 50,
-   "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-10-02T16:01:57Z",
-   "assigned": false,
-   "score": 37,
-   "why": [
-    "-30 19 attempt(s)",
-    "+15 6d since activity",
-    "+4 $25",
-    "-12 50 comments",
-    "+10 429 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9577,
+   "stars": 9578,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -82,7 +55,7 @@
    "why": [
     "-15 assigned",
     "-30 7 attempt(s)",
-    "+8 9d since activity",
+    "+8 10d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1014 stars"
@@ -122,6 +95,33 @@
     "+10 1014 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 429,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "attempts": 19,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 50,
+   "created_at": "2023-11-30T10:03:48Z",
+   "updated_at": "2026-10-02T16:01:57Z",
+   "assigned": false,
+   "score": 30,
+   "why": [
+    "-30 19 attempt(s)",
+    "+8 7d since activity",
+    "+4 $25",
+    "-12 50 comments",
+    "+10 429 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
    "url": "https://github.com/getdozer/dozer/issues/1690",
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58383,
+   "stars": 58384,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 114d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58383 stars"
+    "-10 58384 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58383,
+   "stars": 58384,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -264,10 +264,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "-8 95d since activity",
+    "-8 96d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58383 stars"
+    "-10 58384 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
