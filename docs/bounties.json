@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-11T07:10:22.616468+00:00",
+ "updated": "2026-10-11T14:02:12.140163+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9577,
+   "stars": 9578,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -137,17 +137,17 @@
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 47,
+   "comments": 49,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-10-10T06:56:49Z",
+   "updated_at": "2026-10-11T11:24:45Z",
    "assigned": false,
    "score": 28,
    "why": [
     "-25 someone attempting",
     "-30 18 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 47 comments",
+    "-12 49 comments",
     "+10 1578 stars",
     "+8 beginner-friendly label"
    ],
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58425,
+   "stars": 58434,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 116d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58425 stars"
+    "-10 58434 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58425,
+   "stars": 58434,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 97d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58425 stars"
+    "-10 58434 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,29 +275,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32397,
+   "stars": 32404,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 66,
+   "attempts": 67,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 151,
+   "comments": 152,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-10T22:02:13Z",
+   "updated_at": "2026-10-11T09:43:06Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 66 attempt(s)",
+    "-30 67 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 151 comments",
-    "-10 32397 stars"
+    "-12 152 comments",
+    "-10 32404 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -325,7 +325,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 12 attempt(s)",
-    "+8 10d since activity",
+    "+8 11d since activity",
     "+4 $40",
     "-5 33 comments"
    ],
