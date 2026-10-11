@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-11T14:02:12.140163+00:00",
+ "updated": "2026-10-11T18:44:28.958722+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/gyroflow/gyroflow/issues/150",
    "title": "Support lensfun database",
    "repo": "gyroflow/gyroflow",
-   "stars": 9578,
+   "stars": 9579,
    "watched": true,
    "amount": 200.0,
    "status": "open",
@@ -116,7 +116,7 @@
    "score": 30,
    "why": [
     "-30 19 attempt(s)",
-    "+8 8d since activity",
+    "+8 9d since activity",
     "+4 $25",
     "-12 50 comments",
     "+10 429 stars"
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58434,
+   "stars": 58441,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 116d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58434 stars"
+    "-10 58441 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58434,
+   "stars": 58441,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 97d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58434 stars"
+    "-10 58441 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32404,
+   "stars": 32405,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -286,9 +286,9 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 152,
+   "comments": 154,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-11T09:43:06Z",
+   "updated_at": "2026-10-11T16:52:32Z",
    "assigned": false,
    "score": 1,
    "why": [
@@ -296,8 +296,8 @@
     "-30 67 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 152 comments",
-    "-10 32404 stars"
+    "-12 154 comments",
+    "-10 32405 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
