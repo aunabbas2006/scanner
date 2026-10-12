@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T17:27:27.009366+00:00",
+ "updated": "2026-10-12T23:43:42.417145+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -20,9 +20,9 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 18,
+   "comments": 19,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-10-12T12:27:54Z",
+   "updated_at": "2026-10-12T19:46:48Z",
    "assigned": true,
    "score": 37,
    "why": [
@@ -30,37 +30,10 @@
     "-30 9 attempt(s)",
     "+15 0d since activity",
     "+12 $100",
-    "-5 18 comments",
+    "-5 19 comments",
     "+10 1014 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
-  },
-  {
-   "url": "https://github.com/gyroflow/gyroflow/issues/150",
-   "title": "Support lensfun database",
-   "repo": "gyroflow/gyroflow",
-   "stars": 9580,
-   "watched": true,
-   "amount": 200.0,
-   "status": "open",
-   "attempts": 9,
-   "has_pr": false,
-   "labels": [
-    "enhancement",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 39,
-   "created_at": "2022-02-09T16:07:24Z",
-   "updated_at": "2026-09-29T21:10:24Z",
-   "assigned": false,
-   "score": 35,
-   "why": [
-    "-30 9 attempt(s)",
-    "+8 12d since activity",
-    "+12 $200",
-    "-5 39 comments"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
    "url": "https://github.com/revertinc/revert/issues/372",
@@ -89,7 +62,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 12d since activity",
+    "+8 13d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1014 stars"
@@ -206,7 +179,7 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 117d since activity",
+    "-8 118d since activity",
     "+12 $100",
     "-12 129 comments",
     "-10 58455 stars"
@@ -236,7 +209,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "-8 98d since activity",
+    "-8 99d since activity",
     "+6 $300",
     "-12 121 comments",
     "-10 58455 stars"
@@ -247,7 +220,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32418,
+   "stars": 32427,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -258,9 +231,9 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 155,
+   "comments": 156,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-12T12:03:30Z",
+   "updated_at": "2026-10-12T19:46:47Z",
    "assigned": false,
    "score": 1,
    "why": [
@@ -268,8 +241,8 @@
     "-30 68 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 155 comments",
-    "-10 32418 stars"
+    "-12 156 comments",
+    "-10 32427 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
