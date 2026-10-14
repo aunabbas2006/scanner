@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:00:02.966577+00:00",
+ "updated": "2026-10-14T01:39:06.587257+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -48,16 +48,16 @@
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 52,
+   "comments": 53,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-10-13T14:04:26Z",
+   "updated_at": "2026-10-14T01:24:11Z",
    "assigned": false,
    "score": 37,
    "why": [
     "-30 21 attempt(s)",
     "+15 0d since activity",
     "+4 $25",
-    "-12 52 comments",
+    "-12 53 comments",
     "+10 429 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -187,34 +187,6 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
-   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 429,
-   "watched": true,
-   "amount": 30.0,
-   "status": "open",
-   "attempts": 45,
-   "has_pr": true,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 85,
-   "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-10-13T13:27:18Z",
-   "assigned": false,
-   "score": 2,
-   "why": [
-    "-35 PR already submitted",
-    "-30 45 attempt(s)",
-    "+15 0d since activity",
-    "+4 $30",
-    "-12 85 comments",
-    "+10 429 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
@@ -241,36 +213,6 @@
     "+6 $300",
     "-12 121 comments",
     "-10 58476 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
-   "title": "Jira Service Management Connector",
-   "repo": "onyx-dot-app/onyx",
-   "stars": 32441,
-   "watched": true,
-   "amount": 250.0,
-   "status": "open",
-   "attempts": 69,
-   "has_pr": true,
-   "labels": [
-    "enhancement",
-    "maintainer approved",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 159,
-   "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-13T22:46:07Z",
-   "assigned": false,
-   "score": 1,
-   "why": [
-    "-35 PR already submitted",
-    "-30 69 attempt(s)",
-    "+15 0d since activity",
-    "+12 $250",
-    "-12 159 comments",
-    "-10 32441 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
