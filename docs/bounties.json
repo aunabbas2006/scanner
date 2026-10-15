@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:48:33.273656+00:00",
+ "updated": "2026-10-15T12:21:00.301397+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -100,7 +100,7 @@
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
-   "stars": 1578,
+   "stars": 1577,
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
@@ -118,10 +118,10 @@
    "why": [
     "-25 someone attempting",
     "-30 18 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+12 $250",
     "-12 49 comments",
-    "+10 1578 stars",
+    "+10 1577 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58510,
+   "stars": 58519,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 120d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58510 stars"
+    "-10 58519 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -207,7 +207,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 46 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+4 $30",
     "-12 86 comments",
     "+10 429 stars"
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58510,
+   "stars": 58519,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 101d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58510 stars"
+    "-10 58519 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,29 +248,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32465,
+   "stars": 32479,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 69,
+   "attempts": 70,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 159,
+   "comments": 160,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-13T22:46:07Z",
+   "updated_at": "2026-10-15T10:32:06Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 69 attempt(s)",
-    "+15 1d since activity",
+    "-30 70 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 159 comments",
-    "-10 32465 stars"
+    "-12 160 comments",
+    "-10 32479 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
