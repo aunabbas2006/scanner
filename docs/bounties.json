@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:14:57.957384+00:00",
+ "updated": "2026-10-15T20:22:07.470979+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -28,7 +28,7 @@
    "why": [
     "-15 assigned",
     "-30 9 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $100",
     "-5 19 comments",
     "+10 1013 stars"
@@ -89,7 +89,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 15d since activity",
+    "+8 16d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1013 stars"
@@ -140,9 +140,9 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 88,
+   "comments": 89,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-10-15T05:59:07Z",
+   "updated_at": "2026-10-15T20:19:45Z",
    "assigned": false,
    "score": 20,
    "why": [
@@ -150,7 +150,7 @@
     "-30 44 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 88 comments",
+    "-12 89 comments",
     "+10 429 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58517,
+   "stars": 58522,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +179,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 120d since activity",
+    "-8 121d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58517 stars"
+    "-10 58522 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58517,
+   "stars": 58522,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -237,10 +237,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "-8 101d since activity",
+    "-8 102d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58517 stars"
+    "-10 58522 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32490,
+   "stars": 32494,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 160 comments",
-    "-10 32490 stars"
+    "-10 32494 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
