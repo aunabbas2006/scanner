@@ -1,40 +1,7 @@
 {
- "updated": "2026-10-19T19:36:28.721726+00:00",
+ "updated": "2026-10-19T23:06:10.876718+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/revertinc/revert/issues/551",
-   "title": "[REVER-51] Workable Integration",
-   "repo": "revertinc/revert",
-   "stars": 1013,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 9,
-   "has_pr": false,
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 19,
-   "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-10-12T19:46:48Z",
-   "assigned": true,
-   "score": 37,
-   "why": [
-    "-15 assigned",
-    "-30 9 attempt(s)",
-    "+15 6d since activity",
-    "+12 $100",
-    "-5 19 comments",
-    "+10 1013 stars"
-   ],
-   "first_seen": "2026-09-09T18:00:32.627750+00:00"
-  },
   {
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
@@ -61,6 +28,39 @@
     "+10 429 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/551",
+   "title": "[REVER-51] Workable Integration",
+   "repo": "revertinc/revert",
+   "stars": 1013,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 9,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 19,
+   "created_at": "2024-04-29T11:50:14Z",
+   "updated_at": "2026-10-12T19:46:48Z",
+   "assigned": true,
+   "score": 30,
+   "why": [
+    "-15 assigned",
+    "-30 9 attempt(s)",
+    "+8 7d since activity",
+    "+12 $100",
+    "-5 19 comments",
+    "+10 1013 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
    "url": "https://github.com/revertinc/revert/issues/372",
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58570,
+   "stars": 58573,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +179,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 124d since activity",
+    "-8 125d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58570 stars"
+    "-10 58573 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58570,
+   "stars": 58573,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 106d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58570 stars"
+    "-10 58573 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32591,
+   "stars": 32592,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 164 comments",
-    "-10 32591 stars"
+    "-10 32592 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
