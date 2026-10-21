@@ -1,34 +1,7 @@
 {
- "updated": "2026-10-20T23:34:27.693078+00:00",
+ "updated": "2026-10-21T02:01:47.520804+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 429,
-   "watched": true,
-   "amount": 25.0,
-   "status": "open",
-   "attempts": 21,
-   "has_pr": false,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 53,
-   "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-10-14T01:24:11Z",
-   "assigned": false,
-   "score": 37,
-   "why": [
-    "-30 21 attempt(s)",
-    "+15 6d since activity",
-    "+4 $25",
-    "-12 53 comments",
-    "+10 429 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
   {
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
@@ -97,6 +70,33 @@
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 429,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "attempts": 21,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 53,
+   "created_at": "2023-11-30T10:03:48Z",
+   "updated_at": "2026-10-14T01:24:11Z",
+   "assigned": false,
+   "score": 30,
+   "why": [
+    "-30 21 attempt(s)",
+    "+8 7d since activity",
+    "+4 $25",
+    "-12 53 comments",
+    "+10 429 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58590,
+   "stars": 58591,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 126d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58590 stars"
+    "-10 58591 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58590,
+   "stars": 58591,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 107d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58590 stars"
+    "-10 58591 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
