@@ -1,7 +1,34 @@
 {
- "updated": "2026-10-22T18:49:10.586097+00:00",
- "new_count": 0,
+ "updated": "2026-10-22T22:01:41.930695+00:00",
+ "new_count": 1,
  "bounties": [
+  {
+   "url": "https://github.com/Ikalus1988/MisakaNet/issues/3726",
+   "title": "[Bounty] Answer the 3 linked question(s)",
+   "repo": "Ikalus1988/MisakaNet",
+   "stars": 543,
+   "watched": false,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 0,
+   "has_pr": false,
+   "labels": [
+    "ready",
+    "bounty"
+   ],
+   "comments": 4,
+   "created_at": "2026-10-22T12:19:36Z",
+   "updated_at": "2026-10-22T21:06:29Z",
+   "assigned": false,
+   "score": 97,
+   "why": [
+    "+15 0d since activity",
+    "+12 $100",
+    "+10 4 comments",
+    "+10 543 stars"
+   ],
+   "first_seen": "2026-10-22T22:01:41.930695+00:00"
+  },
   {
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
@@ -28,7 +55,7 @@
    "why": [
     "-15 assigned",
     "-30 9 attempt(s)",
-    "+8 9d since activity",
+    "+8 10d since activity",
     "+12 $100",
     "-5 19 comments",
     "+10 1013 stars"
@@ -62,7 +89,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 22d since activity",
+    "+8 23d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1013 stars"
@@ -159,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58635,
+   "stars": 58637,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +206,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 127d since activity",
+    "-8 128d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58635 stars"
+    "-10 58637 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58635,
+   "stars": 58637,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -237,10 +264,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "-8 108d since activity",
+    "-8 109d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58635 stars"
+    "-10 58637 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32849,
+   "stars": 32857,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -267,10 +294,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 72 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+12 $250",
     "-12 164 comments",
-    "-10 32849 stars"
+    "-10 32857 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
