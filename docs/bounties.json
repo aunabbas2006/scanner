@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:11:16.470192+00:00",
+ "updated": "2026-10-23T22:07:28.625550+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -55,7 +55,7 @@
    "why": [
     "-15 assigned",
     "-30 9 attempt(s)",
-    "+8 10d since activity",
+    "+8 11d since activity",
     "+12 $100",
     "-5 19 comments",
     "+10 1012 stars"
@@ -89,7 +89,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 23d since activity",
+    "+8 24d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1012 stars"
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58661,
+   "stars": 58663,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -206,10 +206,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 128d since activity",
+    "-8 129d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58661 stars"
+    "-10 58663 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58661,
+   "stars": 58663,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 110d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58661 stars"
+    "-10 58663 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32921,
+   "stars": 32925,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -286,9 +286,9 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 165,
+   "comments": 166,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-23T16:07:27Z",
+   "updated_at": "2026-10-23T20:21:52Z",
    "assigned": false,
    "score": 1,
    "why": [
@@ -296,8 +296,8 @@
     "-30 73 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 165 comments",
-    "-10 32921 stars"
+    "-12 166 comments",
+    "-10 32925 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
