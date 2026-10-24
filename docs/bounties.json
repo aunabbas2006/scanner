@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:14:50.784171+00:00",
+ "updated": "2026-10-24T21:37:45.706837+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -55,7 +55,7 @@
    "why": [
     "-15 assigned",
     "-30 9 attempt(s)",
-    "+8 11d since activity",
+    "+8 12d since activity",
     "+12 $100",
     "-5 19 comments",
     "+10 1012 stars"
@@ -89,7 +89,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 24d since activity",
+    "+8 25d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1012 stars"
@@ -100,7 +100,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 431,
+   "stars": 432,
    "watched": true,
    "amount": 25.0,
    "status": "open",
@@ -119,7 +119,7 @@
     "+8 10d since activity",
     "+4 $25",
     "-12 53 comments",
-    "+10 431 stars"
+    "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -137,9 +137,9 @@
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 52,
+   "comments": 53,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-10-24T18:23:45Z",
+   "updated_at": "2026-10-24T19:26:24Z",
    "assigned": false,
    "score": 28,
    "why": [
@@ -147,7 +147,7 @@
     "-30 19 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 52 comments",
+    "-12 53 comments",
     "+10 1577 stars",
     "+8 beginner-friendly label"
    ],
@@ -157,7 +157,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 431,
+   "stars": 432,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -178,7 +178,7 @@
     "+15 0d since activity",
     "+12 $50",
     "-12 98 comments",
-    "+10 431 stars"
+    "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58677,
+   "stars": 58678,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -206,10 +206,10 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 129d since activity",
+    "-8 130d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58677 stars"
+    "-10 58678 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -217,7 +217,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 431,
+   "stars": 432,
    "watched": true,
    "amount": 30.0,
    "status": "open",
@@ -237,7 +237,7 @@
     "+15 1d since activity",
     "+4 $30",
     "-12 90 comments",
-    "+10 431 stars"
+    "+10 432 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58677,
+   "stars": 58678,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 111d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58677 stars"
+    "-10 58678 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32946,
+   "stars": 32948,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 167 comments",
-    "-10 32946 stars"
+    "-10 32948 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
