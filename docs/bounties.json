@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T09:31:19.050762+00:00",
+ "updated": "2026-10-24T13:31:59.453107+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/3726",
    "title": "[Bounty] Answer the 3 linked question(s)",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 543,
+   "stars": 544,
    "watched": false,
    "amount": 100.0,
    "status": "open",
@@ -22,10 +22,10 @@
    "assigned": false,
    "score": 97,
    "why": [
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "+10 4 comments",
-    "+10 543 stars"
+    "+10 544 stars"
    ],
    "first_seen": "2026-10-22T22:01:41.930695+00:00"
   },
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58669,
+   "stars": 58671,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 129d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58669 stars"
+    "-10 58671 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58669,
+   "stars": 58671,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 110d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58669 stars"
+    "-10 58671 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32936,
+   "stars": 32937,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 166 comments",
-    "-10 32936 stars"
+    "-10 32937 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -309,25 +309,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 15,
+   "attempts": 16,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 37,
+   "comments": 38,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-10-23T05:55:12Z",
+   "updated_at": "2026-10-24T12:15:04Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 15 attempt(s)",
-    "+15 1d since activity",
+    "-30 16 attempt(s)",
+    "+15 0d since activity",
     "+4 $40",
-    "-5 37 comments"
+    "-5 38 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
