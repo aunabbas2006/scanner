@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:31:59.453107+00:00",
+ "updated": "2026-10-24T16:58:12.840026+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -131,23 +131,23 @@
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
-   "attempts": 18,
+   "attempts": 19,
    "has_pr": false,
    "labels": [
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 50,
+   "comments": 51,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-10-19T15:38:02Z",
+   "updated_at": "2026-10-24T14:30:12Z",
    "assigned": false,
    "score": 28,
    "why": [
     "-25 someone attempting",
-    "-30 18 attempt(s)",
-    "+15 4d since activity",
+    "-30 19 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 50 comments",
+    "-12 51 comments",
     "+10 1577 stars",
     "+8 beginner-friendly label"
    ],
@@ -161,23 +161,23 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 48,
+   "attempts": 49,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 96,
+   "comments": 97,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-10-23T23:40:14Z",
+   "updated_at": "2026-10-24T14:41:03Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 48 attempt(s)",
+    "-30 49 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 96 comments",
+    "-12 97 comments",
     "+10 430 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58671,
+   "stars": 58675,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 129d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58671 stars"
+    "-10 58675 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58671,
+   "stars": 58675,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 110d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58671 stars"
+    "-10 58675 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,29 +275,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32937,
+   "stars": 32944,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 73,
+   "attempts": 74,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 166,
+   "comments": 167,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-23T20:21:52Z",
+   "updated_at": "2026-10-24T14:34:50Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 73 attempt(s)",
+    "-30 74 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 166 comments",
-    "-10 32937 stars"
+    "-12 167 comments",
+    "-10 32944 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
