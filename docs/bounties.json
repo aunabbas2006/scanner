@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:52:00.195458+00:00",
+ "updated": "2026-10-25T12:15:05.241008+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -22,7 +22,7 @@
    "assigned": false,
    "score": 97,
    "why": [
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $100",
     "+10 4 comments",
     "+10 543 stars"
@@ -49,7 +49,7 @@
    ],
    "comments": 20,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-10-25T05:42:34Z",
+   "updated_at": "2026-10-25T07:32:37Z",
    "assigned": true,
    "score": 37,
    "why": [
@@ -61,6 +61,33 @@
     "+10 1012 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 432,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "attempts": 22,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 54,
+   "created_at": "2023-11-30T10:03:48Z",
+   "updated_at": "2026-10-25T09:10:51Z",
+   "assigned": false,
+   "score": 37,
+   "why": [
+    "-30 22 attempt(s)",
+    "+15 0d since activity",
+    "+4 $25",
+    "-12 54 comments",
+    "+10 432 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
    "url": "https://github.com/revertinc/revert/issues/372",
@@ -95,33 +122,6 @@
     "+10 1012 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 432,
-   "watched": true,
-   "amount": 25.0,
-   "status": "open",
-   "attempts": 21,
-   "has_pr": false,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 53,
-   "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-10-14T01:24:11Z",
-   "assigned": false,
-   "score": 30,
-   "why": [
-    "-30 21 attempt(s)",
-    "+8 11d since activity",
-    "+4 $25",
-    "-12 53 comments",
-    "+10 432 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
    "url": "https://github.com/getdozer/dozer/issues/1690",
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58679,
+   "stars": 58680,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -209,7 +209,7 @@
     "-8 130d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58679 stars"
+    "-10 58680 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -221,22 +221,22 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 50,
+   "attempts": 52,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 90,
+   "comments": 92,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-10-23T18:28:10Z",
+   "updated_at": "2026-10-25T09:10:50Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 50 attempt(s)",
-    "+15 1d since activity",
+    "-30 52 attempt(s)",
+    "+15 0d since activity",
     "+4 $30",
-    "-12 90 comments",
+    "-12 92 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58679,
+   "stars": 58680,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "-8 111d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58679 stars"
+    "-10 58680 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32956,
+   "stars": 32971,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -286,9 +286,9 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 167,
+   "comments": 168,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-24T14:34:50Z",
+   "updated_at": "2026-10-25T10:12:22Z",
    "assigned": false,
    "score": 1,
    "why": [
@@ -296,8 +296,8 @@
     "-30 74 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 167 comments",
-    "-10 32956 stars"
+    "-12 168 comments",
+    "-10 32971 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
