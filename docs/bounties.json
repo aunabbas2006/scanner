@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:10:42.382320+00:00",
+ "updated": "2026-10-25T21:45:17.689827+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -116,7 +116,7 @@
    "why": [
     "-15 assigned",
     "-30 6 attempt(s)",
-    "+8 25d since activity",
+    "+8 26d since activity",
     "+12 $100",
     "-5 15 comments",
     "+10 1012 stars"
@@ -127,7 +127,7 @@
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
-   "stars": 1577,
+   "stars": 1578,
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
@@ -145,10 +145,10 @@
    "why": [
     "-25 someone attempting",
     "-30 19 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $250",
     "-12 53 comments",
-    "+10 1577 stars",
+    "+10 1578 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -206,7 +206,7 @@
    "score": 2,
    "why": [
     "-30 4 attempt(s)",
-    "-8 130d since activity",
+    "-8 131d since activity",
     "+12 $100",
     "-12 129 comments",
     "-10 58683 stars"
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 32981,
+   "stars": 32983,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 169 comments",
-    "-10 32981 stars"
+    "-10 32983 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
