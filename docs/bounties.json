@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:55:22.242306+00:00",
+ "updated": "2026-10-27T13:49:59.547287+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 10,
+   "attempts": 11,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,17 +20,51 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 20,
+   "comments": 21,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-10-25T07:32:37Z",
+   "updated_at": "2026-10-27T11:30:22Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 10 attempt(s)",
-    "+15 2d since activity",
+    "-30 11 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 20 comments",
+    "-5 21 comments",
+    "+10 1012 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
+  },
+  {
+   "url": "https://github.com/revertinc/revert/issues/372",
+   "title": "[REVER-48] Workday Integration",
+   "repo": "revertinc/revert",
+   "stars": 1012,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 8,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "none",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 17,
+   "created_at": "2023-11-20T07:09:27Z",
+   "updated_at": "2026-10-27T12:44:59Z",
+   "assigned": true,
+   "score": 37,
+   "why": [
+    "-15 assigned",
+    "-30 8 attempt(s)",
+    "+15 0d since activity",
+    "+12 $100",
+    "-5 17 comments",
     "+10 1012 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -43,58 +77,24 @@
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 22,
+   "attempts": 23,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 54,
+   "comments": 55,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-10-25T09:10:51Z",
+   "updated_at": "2026-10-27T11:38:46Z",
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 22 attempt(s)",
-    "+15 1d since activity",
+    "-30 23 attempt(s)",
+    "+15 0d since activity",
     "+4 $25",
-    "-12 54 comments",
+    "-12 55 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/revertinc/revert/issues/372",
-   "title": "[REVER-48] Workday Integration",
-   "repo": "revertinc/revert",
-   "stars": 1012,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 6,
-   "has_pr": false,
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "none",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 15,
-   "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-09-29T19:20:18Z",
-   "assigned": true,
-   "score": 30,
-   "why": [
-    "-15 assigned",
-    "-30 6 attempt(s)",
-    "+8 27d since activity",
-    "+12 $100",
-    "-5 15 comments",
-    "+10 1012 stars"
-   ],
-   "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
    "url": "https://github.com/getdozer/dozer/issues/1690",
@@ -134,23 +134,23 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 51,
+   "attempts": 54,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 100,
+   "comments": 104,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-10-26T13:40:01Z",
+   "updated_at": "2026-10-27T12:00:29Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 51 attempt(s)",
+    "-30 54 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 100 comments",
+    "-12 104 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58721,
+   "stars": 58727,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 132d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58721 stars"
+    "-10 58727 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -194,22 +194,22 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 54,
+   "attempts": 56,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 95,
+   "comments": 98,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-10-26T23:52:26Z",
+   "updated_at": "2026-10-27T11:38:50Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 54 attempt(s)",
+    "-30 56 attempt(s)",
     "+15 0d since activity",
     "+4 $30",
-    "-12 95 comments",
+    "-12 98 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58721,
+   "stars": 58727,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 113d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58721 stars"
+    "-10 58727 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33017,
+   "stars": 33023,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 170 comments",
-    "-10 33017 stars"
+    "-10 33023 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
