@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:49:59.547287+00:00",
+ "updated": "2026-10-27T19:09:03.998346+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58727,
+   "stars": 58733,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 132d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58727 stars"
+    "-10 58733 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58727,
+   "stars": 58733,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -237,10 +237,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "-8 113d since activity",
+    "-8 114d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58727 stars"
+    "-10 58733 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,29 +248,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33023,
+   "stars": 33027,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 76,
+   "attempts": 77,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 170,
+   "comments": 171,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-26T00:50:23Z",
+   "updated_at": "2026-10-27T13:55:36Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 76 attempt(s)",
-    "+15 1d since activity",
+    "-30 77 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 170 comments",
-    "-10 33023 stars"
+    "-12 171 comments",
+    "-10 33027 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -298,7 +298,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 16 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+4 $40",
     "-5 39 comments"
    ],
