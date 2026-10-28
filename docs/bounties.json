@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:59:46.050930+00:00",
+ "updated": "2026-10-28T07:58:55.904056+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58737,
+   "stars": 58738,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 133d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58737 stars"
+    "-10 58738 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58737,
+   "stars": 58738,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 114d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58737 stars"
+    "-10 58738 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33033,
+   "stars": 33042,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 171 comments",
-    "-10 33033 stars"
+    "-10 33042 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -289,18 +289,18 @@
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 39,
+   "comments": 40,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-10-24T18:31:43Z",
+   "updated_at": "2026-10-28T05:26:20Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 16 attempt(s)",
-    "+15 3d since activity",
+    "+15 0d since activity",
     "+4 $40",
-    "-5 39 comments"
+    "-12 40 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
