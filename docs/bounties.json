@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T03:47:32.275510+00:00",
+ "updated": "2026-10-29T10:38:05.614165+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 11,
+   "attempts": 12,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,17 +20,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 21,
+   "comments": 22,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-10-27T11:30:22Z",
+   "updated_at": "2026-10-29T07:54:45Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 11 attempt(s)",
-    "+15 1d since activity",
+    "-30 12 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 21 comments",
+    "-5 22 comments",
     "+10 1012 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -100,7 +100,7 @@
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
-   "stars": 1578,
+   "stars": 1577,
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
@@ -121,7 +121,7 @@
     "+15 4d since activity",
     "+12 $250",
     "-12 53 comments",
-    "+10 1578 stars",
+    "+10 1577 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58753,
+   "stars": 58760,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 134d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58753 stars"
+    "-10 58760 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -199,9 +199,9 @@
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 99,
+   "comments": 100,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-10-28T11:59:14Z",
+   "updated_at": "2026-10-29T10:15:53Z",
    "assigned": false,
    "score": 2,
    "why": [
@@ -209,7 +209,7 @@
     "-30 57 attempt(s)",
     "+15 0d since activity",
     "+4 $30",
-    "-12 99 comments",
+    "-12 100 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58753,
+   "stars": 58760,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 115d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58753 stars"
+    "-10 58760 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33063,
+   "stars": 33067,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 171 comments",
-    "-10 33063 stars"
+    "-10 33067 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -282,25 +282,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 16,
+   "attempts": 17,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 40,
+   "comments": 41,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-10-28T05:26:20Z",
+   "updated_at": "2026-10-29T09:16:37Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 16 attempt(s)",
+    "-30 17 attempt(s)",
     "+15 0d since activity",
     "+4 $40",
-    "-12 40 comments"
+    "-12 41 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
