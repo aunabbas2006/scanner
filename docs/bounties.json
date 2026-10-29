@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:56:56.610148+00:00",
+ "updated": "2026-10-29T03:47:32.275510+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -140,9 +140,9 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 108,
+   "comments": 109,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-10-28T21:45:50Z",
+   "updated_at": "2026-10-29T01:23:45Z",
    "assigned": false,
    "score": 20,
    "why": [
@@ -150,7 +150,7 @@
     "-30 55 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 108 comments",
+    "-12 109 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58750,
+   "stars": 58753,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 134d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58750 stars"
+    "-10 58753 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58750,
+   "stars": 58753,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "-8 115d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58750 stars"
+    "-10 58753 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33060,
+   "stars": 33063,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 171 comments",
-    "-10 33060 stars"
+    "-10 33063 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
