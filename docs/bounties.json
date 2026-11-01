@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:27:35.989192+00:00",
+ "updated": "2026-11-01T19:03:29.256875+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -28,7 +28,7 @@
    "why": [
     "-15 assigned",
     "-30 14 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "-5 24 comments",
     "+10 1013 stars"
@@ -140,17 +140,17 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 112,
+   "comments": 113,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-10-31T14:08:49Z",
+   "updated_at": "2026-11-01T14:32:20Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
     "-30 57 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 112 comments",
+    "-12 113 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58803,
+   "stars": 58808,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 137d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58803 stars"
+    "-10 58808 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -194,19 +194,19 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 60,
+   "attempts": 61,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
    "comments": 105,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-01T09:32:53Z",
+   "updated_at": "2026-11-01T18:08:59Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 60 attempt(s)",
+    "-30 61 attempt(s)",
     "+15 0d since activity",
     "+4 $30",
     "-12 105 comments",
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58803,
+   "stars": 58808,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -231,16 +231,16 @@
    ],
    "comments": 121,
    "created_at": "2018-09-09T12:57:17Z",
-   "updated_at": "2026-07-05T19:07:00Z",
+   "updated_at": "2026-11-01T15:55:09Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "-8 118d since activity",
+    "+15 0d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58803 stars"
+    "-10 58808 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33141,
+   "stars": 33147,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -261,7 +261,7 @@
    ],
    "comments": 177,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-10-31T18:30:53Z",
+   "updated_at": "2026-11-01T15:00:19Z",
    "assigned": false,
    "score": 1,
    "why": [
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 177 comments",
-    "-10 33141 stars"
+    "-10 33147 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
