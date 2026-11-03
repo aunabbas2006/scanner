@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:43:05.711044+00:00",
+ "updated": "2026-11-03T08:35:48.097301+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -67,7 +67,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 14,
+   "attempts": 15,
    "has_pr": false,
    "labels": [
     "integration",
@@ -77,17 +77,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 24,
+   "comments": 25,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-10-31T16:53:54Z",
+   "updated_at": "2026-11-03T02:07:03Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 14 attempt(s)",
-    "+15 2d since activity",
+    "-30 15 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 24 comments",
+    "-5 25 comments",
     "+10 1014 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -134,21 +134,21 @@
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 28,
+   "attempts": 29,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 63,
+   "comments": 64,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-02T20:16:05Z",
+   "updated_at": "2026-11-03T02:06:52Z",
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 28 attempt(s)",
+    "-30 29 attempt(s)",
     "+15 0d since activity",
     "+4 $25",
-    "-12 63 comments",
+    "-12 64 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -191,23 +191,23 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 57,
+   "attempts": 58,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 113,
+   "comments": 114,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-11-01T14:32:20Z",
+   "updated_at": "2026-11-03T02:06:49Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 57 attempt(s)",
-    "+15 1d since activity",
+    "-30 58 attempt(s)",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 113 comments",
+    "-12 114 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -216,7 +216,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58826,
+   "stars": 58840,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -239,7 +239,7 @@
     "-8 139d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58826 stars"
+    "-10 58840 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58826,
+   "stars": 58840,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 1d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58826 stars"
+    "-10 58840 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -305,7 +305,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33171,
+   "stars": 33176,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -327,7 +327,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 177 comments",
-    "-10 33171 stars"
+    "-10 33176 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
