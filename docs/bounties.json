@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T19:18:47.052485+00:00",
- "new_count": 1,
+ "updated": "2026-11-03T01:43:05.711044+00:00",
+ "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4013",
    "title": "[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 550,
+   "stars": 553,
    "watched": false,
    "amount": 35.0,
    "status": "open",
@@ -27,7 +27,7 @@
     "+15 0d since activity",
     "+4 $35",
     "-5 15 comments",
-    "+10 550 stars",
+    "+10 553 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-11-02T19:18:47.052485+00:00"
@@ -36,7 +36,7 @@
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4133",
    "title": "[Bounty] Answer the 2 linked question(s)",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 550,
+   "stars": 553,
    "watched": false,
    "amount": 35.0,
    "status": "open",
@@ -55,7 +55,7 @@
     "+15 0d since activity",
     "+4 $35",
     "-5 22 comments",
-    "+10 550 stars"
+    "+10 553 stars"
    ],
    "first_seen": "2026-11-02T02:00:33.261356+00:00"
   },
@@ -119,7 +119,7 @@
    "why": [
     "-15 assigned",
     "-30 9 attempt(s)",
-    "+15 5d since activity",
+    "+15 6d since activity",
     "+12 $100",
     "-5 18 comments",
     "+10 1014 stars"
@@ -134,21 +134,21 @@
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 27,
+   "attempts": 28,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 62,
+   "comments": 63,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-01T09:33:48Z",
+   "updated_at": "2026-11-02T20:16:05Z",
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 27 attempt(s)",
-    "+15 1d since activity",
+    "-30 28 attempt(s)",
+    "+15 0d since activity",
     "+4 $25",
-    "-12 62 comments",
+    "-12 63 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -175,7 +175,7 @@
    "why": [
     "-25 someone attempting",
     "-30 19 attempt(s)",
-    "+8 8d since activity",
+    "+8 9d since activity",
     "+12 $250",
     "-12 53 comments",
     "+10 1578 stars",
@@ -216,7 +216,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58825,
+   "stars": 58826,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,10 +236,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 138d since activity",
+    "-8 139d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58825 stars"
+    "-10 58826 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -256,9 +256,9 @@
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 107,
+   "comments": 108,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-02T00:21:12Z",
+   "updated_at": "2026-11-03T00:31:18Z",
    "assigned": false,
    "score": 2,
    "why": [
@@ -266,7 +266,7 @@
     "-30 62 attempt(s)",
     "+15 0d since activity",
     "+4 $30",
-    "-12 107 comments",
+    "-12 108 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -275,7 +275,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58825,
+   "stars": 58826,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 1d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58825 stars"
+    "-10 58826 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -305,7 +305,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33170,
+   "stars": 33171,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -327,7 +327,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 177 comments",
-    "-10 33170 stars"
+    "-10 33171 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
