@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-03T16:32:42.632966+00:00",
+ "updated": "2026-11-03T22:00:56.274364+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4013",
    "title": "[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 553,
+   "stars": 551,
    "watched": false,
    "amount": 35.0,
    "status": "open",
@@ -27,7 +27,7 @@
     "+15 1d since activity",
     "+4 $35",
     "-5 15 comments",
-    "+10 553 stars",
+    "+10 551 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-11-02T19:18:47.052485+00:00"
@@ -36,7 +36,7 @@
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4133",
    "title": "[Bounty] Answer the 2 linked question(s)",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 553,
+   "stars": 551,
    "watched": false,
    "amount": 35.0,
    "status": "open",
@@ -55,7 +55,7 @@
     "+15 1d since activity",
     "+4 $35",
     "-5 22 comments",
-    "+10 553 stars"
+    "+10 551 stars"
    ],
    "first_seen": "2026-11-02T02:00:33.261356+00:00"
   },
@@ -93,40 +93,6 @@
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
-   "url": "https://github.com/revertinc/revert/issues/372",
-   "title": "[REVER-48] Workday Integration",
-   "repo": "revertinc/revert",
-   "stars": 1015,
-   "watched": true,
-   "amount": 100.0,
-   "status": "open",
-   "attempts": 9,
-   "has_pr": false,
-   "labels": [
-    "integration",
-    "feature",
-    "GitHub",
-    "Plane",
-    "none",
-    "ATS",
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 18,
-   "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-10-27T20:08:10Z",
-   "assigned": true,
-   "score": 37,
-   "why": [
-    "-15 assigned",
-    "-30 9 attempt(s)",
-    "+15 6d since activity",
-    "+12 $100",
-    "-5 18 comments",
-    "+10 1015 stars"
-   ],
-   "first_seen": "2026-09-09T18:00:32.627750+00:00"
-  },
-  {
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
@@ -154,10 +120,44 @@
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
+   "url": "https://github.com/revertinc/revert/issues/372",
+   "title": "[REVER-48] Workday Integration",
+   "repo": "revertinc/revert",
+   "stars": 1015,
+   "watched": true,
+   "amount": 100.0,
+   "status": "open",
+   "attempts": 9,
+   "has_pr": false,
+   "labels": [
+    "integration",
+    "feature",
+    "GitHub",
+    "Plane",
+    "none",
+    "ATS",
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 18,
+   "created_at": "2023-11-20T07:09:27Z",
+   "updated_at": "2026-10-27T20:08:10Z",
+   "assigned": true,
+   "score": 30,
+   "why": [
+    "-15 assigned",
+    "-30 9 attempt(s)",
+    "+8 7d since activity",
+    "+12 $100",
+    "-5 18 comments",
+    "+10 1015 stars"
+   ],
+   "first_seen": "2026-09-09T18:00:32.627750+00:00"
+  },
+  {
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
-   "stars": 1578,
+   "stars": 1577,
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
@@ -175,10 +175,10 @@
    "why": [
     "-25 someone attempting",
     "-30 19 attempt(s)",
-    "+8 9d since activity",
+    "+8 10d since activity",
     "+12 $250",
     "-12 53 comments",
-    "+10 1578 stars",
+    "+10 1577 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -216,7 +216,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58849,
+   "stars": 58856,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -236,10 +236,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 139d since activity",
+    "-8 140d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58849 stars"
+    "-10 58856 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58849,
+   "stars": 58856,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 2d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58849 stars"
+    "-10 58856 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -305,7 +305,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33183,
+   "stars": 33190,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -327,7 +327,7 @@
     "+15 2d since activity",
     "+12 $250",
     "-12 177 comments",
-    "-10 33183 stars"
+    "-10 33190 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
