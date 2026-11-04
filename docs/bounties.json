@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T01:59:50.465676+00:00",
+ "updated": "2026-11-04T08:42:47.547376+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4013",
    "title": "[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 551,
+   "stars": 550,
    "watched": false,
    "amount": 35.0,
    "status": "open",
@@ -27,7 +27,7 @@
     "+15 1d since activity",
     "+4 $35",
     "-5 15 comments",
-    "+10 551 stars",
+    "+10 550 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-11-02T19:18:47.052485+00:00"
@@ -36,7 +36,7 @@
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4133",
    "title": "[Bounty] Answer the 2 linked question(s)",
    "repo": "Ikalus1988/MisakaNet",
-   "stars": 551,
+   "stars": 550,
    "watched": false,
    "amount": 35.0,
    "status": "open",
@@ -55,7 +55,7 @@
     "+15 1d since activity",
     "+4 $35",
     "-5 22 comments",
-    "+10 551 stars"
+    "+10 550 stars"
    ],
    "first_seen": "2026-11-02T02:00:33.261356+00:00"
   },
@@ -85,7 +85,7 @@
    "why": [
     "-15 assigned",
     "-30 15 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "-5 25 comments",
     "+10 1015 stars"
@@ -134,21 +134,21 @@
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 29,
+   "attempts": 28,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 64,
+   "comments": 63,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-03T02:06:52Z",
+   "updated_at": "2026-11-04T08:41:53Z",
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 29 attempt(s)",
-    "+15 0d since activity",
+    "-30 28 attempt(s)",
+    "+15 -1d since activity",
     "+4 $25",
-    "-12 64 comments",
+    "-12 63 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -191,23 +191,23 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 58,
+   "attempts": 57,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 114,
+   "comments": 113,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-11-03T02:06:49Z",
+   "updated_at": "2026-11-04T08:41:54Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 58 attempt(s)",
-    "+15 0d since activity",
+    "-30 57 attempt(s)",
+    "+15 -1d since activity",
     "+12 $50",
-    "-12 114 comments",
+    "-12 113 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -216,7 +216,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58860,
+   "stars": 58871,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -239,7 +239,7 @@
     "-8 140d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58860 stars"
+    "-10 58871 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -251,22 +251,22 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 62,
+   "attempts": 61,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 108,
+   "comments": 107,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-03T00:31:18Z",
+   "updated_at": "2026-11-04T08:41:52Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 62 attempt(s)",
-    "+15 1d since activity",
+    "-30 61 attempt(s)",
+    "+15 -1d since activity",
     "+4 $30",
-    "-12 108 comments",
+    "-12 107 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -275,7 +275,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58860,
+   "stars": 58871,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 2d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58860 stars"
+    "-10 58871 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -305,7 +305,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33193,
+   "stars": 33200,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -327,7 +327,7 @@
     "+15 2d since activity",
     "+12 $250",
     "-12 177 comments",
-    "-10 33193 stars"
+    "-10 33200 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
