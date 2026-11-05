@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:41:31.995051+00:00",
+ "updated": "2026-11-05T22:52:25.864506+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -131,23 +131,23 @@
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
-   "attempts": 20,
+   "attempts": 21,
    "has_pr": false,
    "labels": [
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 54,
+   "comments": 55,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-11-05T13:24:16Z",
+   "updated_at": "2026-11-05T20:23:58Z",
    "assigned": false,
    "score": 28,
    "why": [
     "-25 someone attempting",
-    "-30 20 attempt(s)",
+    "-30 21 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 54 comments",
+    "-12 55 comments",
     "+10 1576 stars",
     "+8 beginner-friendly label"
    ],
@@ -186,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58907,
+   "stars": 58914,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -206,10 +206,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 141d since activity",
+    "-8 142d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58907 stars"
+    "-10 58914 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -245,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58907,
+   "stars": 58914,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -267,7 +267,7 @@
     "+15 4d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58907 stars"
+    "-10 58914 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +275,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33234,
+   "stars": 33239,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +297,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 182 comments",
-    "-10 33234 stars"
+    "-10 33239 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
