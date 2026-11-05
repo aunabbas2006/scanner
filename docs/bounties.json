@@ -1,37 +1,7 @@
 {
- "updated": "2026-11-05T09:44:18.901383+00:00",
+ "updated": "2026-11-05T17:41:31.995051+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/Ikalus1988/MisakaNet/issues/4013",
-   "title": "[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced",
-   "repo": "Ikalus1988/MisakaNet",
-   "stars": 554,
-   "watched": false,
-   "amount": 35.0,
-   "status": "open",
-   "attempts": 0,
-   "has_pr": false,
-   "labels": [
-    "good first issue",
-    "needs-ac",
-    "bounty",
-    "zero-bounty"
-   ],
-   "comments": 15,
-   "created_at": "2026-10-28T16:31:50Z",
-   "updated_at": "2026-11-02T13:45:41Z",
-   "assigned": false,
-   "score": 82,
-   "why": [
-    "+15 2d since activity",
-    "+4 $35",
-    "-5 15 comments",
-    "+10 554 stars",
-    "+8 beginner-friendly label"
-   ],
-   "first_seen": "2026-11-02T19:18:47.052485+00:00"
-  },
   {
    "url": "https://github.com/Ikalus1988/MisakaNet/issues/4133",
    "title": "[Bounty] Answer the 2 linked question(s)",
@@ -63,7 +33,7 @@
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
    "repo": "revertinc/revert",
-   "stars": 1015,
+   "stars": 1016,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -79,16 +49,16 @@
    ],
    "comments": 25,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-03T02:07:03Z",
+   "updated_at": "2026-11-05T14:04:57Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
     "-30 15 attempt(s)",
-    "+15 2d since activity",
+    "+15 0d since activity",
     "+12 $100",
     "-5 25 comments",
-    "+10 1015 stars"
+    "+10 1016 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -96,11 +66,11 @@
    "url": "https://github.com/revertinc/revert/issues/372",
    "title": "[REVER-48] Workday Integration",
    "repo": "revertinc/revert",
-   "stars": 1015,
+   "stars": 1016,
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 10,
+   "attempts": 11,
    "has_pr": false,
    "labels": [
     "integration",
@@ -111,18 +81,18 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 19,
+   "comments": 20,
    "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-11-03T23:11:35Z",
+   "updated_at": "2026-11-05T12:14:56Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 10 attempt(s)",
-    "+15 1d since activity",
+    "-30 11 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 19 comments",
-    "+10 1015 stars"
+    "-5 20 comments",
+    "+10 1016 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -130,7 +100,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 433,
+   "stars": 432,
    "watched": true,
    "amount": 25.0,
    "status": "open",
@@ -141,7 +111,7 @@
    ],
    "comments": 68,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-05T08:16:17Z",
+   "updated_at": "2026-11-05T14:04:39Z",
    "assigned": false,
    "score": 37,
    "why": [
@@ -149,7 +119,7 @@
     "+15 0d since activity",
     "+4 $25",
     "-12 68 comments",
-    "+10 433 stars"
+    "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -161,23 +131,23 @@
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
-   "attempts": 19,
+   "attempts": 20,
    "has_pr": false,
    "labels": [
     "documentation",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 53,
+   "comments": 54,
    "created_at": "2023-06-28T14:11:53Z",
-   "updated_at": "2026-10-24T19:26:24Z",
+   "updated_at": "2026-11-05T13:24:16Z",
    "assigned": false,
-   "score": 21,
+   "score": 28,
    "why": [
     "-25 someone attempting",
-    "-30 19 attempt(s)",
-    "+8 11d since activity",
+    "-30 20 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 53 comments",
+    "-12 54 comments",
     "+10 1576 stars",
     "+8 beginner-friendly label"
    ],
@@ -187,7 +157,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 433,
+   "stars": 432,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -199,7 +169,7 @@
    ],
    "comments": 117,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-11-05T07:15:21Z",
+   "updated_at": "2026-11-05T14:04:40Z",
    "assigned": false,
    "score": 20,
    "why": [
@@ -208,7 +178,7 @@
     "+15 0d since activity",
     "+12 $50",
     "-12 117 comments",
-    "+10 433 stars"
+    "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -216,7 +186,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58899,
+   "stars": 58907,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -239,7 +209,7 @@
     "-8 141d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58899 stars"
+    "-10 58907 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -247,7 +217,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 433,
+   "stars": 432,
    "watched": true,
    "amount": 30.0,
    "status": "open",
@@ -258,7 +228,7 @@
    ],
    "comments": 110,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-04T18:09:34Z",
+   "updated_at": "2026-11-05T14:04:37Z",
    "assigned": false,
    "score": 2,
    "why": [
@@ -267,7 +237,7 @@
     "+15 0d since activity",
     "+4 $30",
     "-12 110 comments",
-    "+10 433 stars"
+    "+10 432 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -275,7 +245,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58899,
+   "stars": 58907,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -294,10 +264,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58899 stars"
+    "-10 58907 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -305,29 +275,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33224,
+   "stars": 33234,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 81,
+   "attempts": 83,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 179,
+   "comments": 182,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-11-04T17:34:11Z",
+   "updated_at": "2026-11-05T15:24:08Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 81 attempt(s)",
+    "-30 83 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 179 comments",
-    "-10 33224 stars"
+    "-12 182 comments",
+    "-10 33234 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -339,25 +309,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 22,
+   "attempts": 23,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 46,
+   "comments": 47,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-11-03T12:51:25Z",
+   "updated_at": "2026-11-05T12:24:27Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 22 attempt(s)",
-    "+15 1d since activity",
+    "-30 23 attempt(s)",
+    "+15 0d since activity",
     "+4 $40",
-    "-12 46 comments"
+    "-12 47 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
