@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-09T10:43:11.525312+00:00",
+ "updated": "2026-11-09T21:06:48.049115+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
    "repo": "revertinc/revert",
-   "stars": 1017,
+   "stars": 1018,
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 17,
+   "attempts": 19,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,18 +20,18 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 27,
+   "comments": 29,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-07T19:46:55Z",
+   "updated_at": "2026-11-09T15:31:08Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 17 attempt(s)",
-    "+15 1d since activity",
+    "-30 19 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 27 comments",
-    "+10 1017 stars"
+    "-5 29 comments",
+    "+10 1018 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -39,11 +39,11 @@
    "url": "https://github.com/revertinc/revert/issues/372",
    "title": "[REVER-48] Workday Integration",
    "repo": "revertinc/revert",
-   "stars": 1017,
+   "stars": 1018,
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 14,
+   "attempts": 15,
    "has_pr": false,
    "labels": [
     "integration",
@@ -54,18 +54,18 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 23,
+   "comments": 24,
    "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-11-07T19:46:57Z",
+   "updated_at": "2026-11-09T13:54:12Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 14 attempt(s)",
-    "+15 1d since activity",
+    "-30 15 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 23 comments",
-    "+10 1017 stars"
+    "-5 24 comments",
+    "+10 1018 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -77,21 +77,21 @@
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 32,
+   "attempts": 33,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 72,
+   "comments": 71,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-07T08:17:12Z",
+   "updated_at": "2026-11-09T13:42:09Z",
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 32 attempt(s)",
-    "+15 2d since activity",
+    "-30 33 attempt(s)",
+    "+15 0d since activity",
     "+4 $25",
-    "-12 72 comments",
+    "-12 71 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58978,
+   "stars": 58984,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +179,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 145d since activity",
+    "-8 146d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58978 stars"
+    "-10 58984 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58978,
+   "stars": 58984,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -237,10 +237,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "+8 7d since activity",
+    "+8 8d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58978 stars"
+    "-10 58984 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33295,
+   "stars": 33304,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 185 comments",
-    "-10 33295 stars"
+    "-10 33304 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
