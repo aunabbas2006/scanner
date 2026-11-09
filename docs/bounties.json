@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:26:31.603196+00:00",
+ "updated": "2026-11-09T02:51:43.508233+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -134,23 +134,23 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 63,
+   "attempts": 64,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 124,
+   "comments": 125,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-11-07T15:38:35Z",
+   "updated_at": "2026-11-09T00:07:29Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 63 attempt(s)",
-    "+15 1d since activity",
+    "-30 64 attempt(s)",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 124 comments",
+    "-12 125 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58969,
+   "stars": 58972,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 145d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58969 stars"
+    "-10 58972 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -194,22 +194,22 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 66,
+   "attempts": 67,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 117,
+   "comments": 118,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-07T17:01:13Z",
+   "updated_at": "2026-11-09T00:39:39Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 66 attempt(s)",
-    "+15 1d since activity",
+    "-30 67 attempt(s)",
+    "+15 0d since activity",
     "+4 $30",
-    "-12 117 comments",
+    "-12 118 comments",
     "+10 432 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58969,
+   "stars": 58972,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "+8 7d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58969 stars"
+    "-10 58972 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,29 +248,29 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33284,
+   "stars": 33287,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 85,
+   "attempts": 86,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 184,
+   "comments": 185,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-11-07T19:33:16Z",
+   "updated_at": "2026-11-09T00:08:31Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 85 attempt(s)",
-    "+15 1d since activity",
+    "-30 86 attempt(s)",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 184 comments",
-    "-10 33284 stars"
+    "-12 185 comments",
+    "-10 33287 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -282,25 +282,25 @@
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
-   "attempts": 27,
+   "attempts": 28,
    "has_pr": true,
    "labels": [
     "enhancement",
     "hacktoberfest",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 51,
+   "comments": 52,
    "created_at": "2023-10-02T13:16:21Z",
-   "updated_at": "2026-11-07T18:47:31Z",
+   "updated_at": "2026-11-09T01:25:46Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-25 someone attempting",
-    "-30 27 attempt(s)",
-    "+15 1d since activity",
+    "-30 28 attempt(s)",
+    "+15 0d since activity",
     "+4 $40",
-    "-12 51 comments"
+    "-12 52 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   }
