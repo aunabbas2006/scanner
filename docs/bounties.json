@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:33:15.195076+00:00",
+ "updated": "2026-11-10T11:47:34.275243+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 19,
+   "attempts": 20,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,17 +20,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 29,
+   "comments": 30,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-09T15:31:08Z",
+   "updated_at": "2026-11-10T03:52:49Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 19 attempt(s)",
+    "-30 20 attempt(s)",
     "+15 0d since activity",
     "+12 $100",
-    "-5 29 comments",
+    "-5 30 comments",
     "+10 1018 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -73,7 +73,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 432,
+   "stars": 433,
    "watched": true,
    "amount": 25.0,
    "status": "open",
@@ -92,7 +92,7 @@
     "+15 0d since activity",
     "+4 $25",
     "-12 71 comments",
-    "+10 432 stars"
+    "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -118,7 +118,7 @@
    "why": [
     "-25 someone attempting",
     "-30 23 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $250",
     "-12 60 comments",
     "+10 1575 stars",
@@ -130,7 +130,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 432,
+   "stars": 433,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -140,18 +140,18 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 125,
+   "comments": 127,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-11-09T00:07:29Z",
+   "updated_at": "2026-11-10T04:14:53Z",
    "assigned": false,
    "score": 20,
    "why": [
     "-25 someone attempting",
     "-30 65 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $50",
-    "-12 125 comments",
-    "+10 432 stars"
+    "-12 127 comments",
+    "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 58990,
+   "stars": 59000,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 146d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 58990 stars"
+    "-10 59000 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -190,7 +190,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 432,
+   "stars": 433,
    "watched": true,
    "amount": 30.0,
    "status": "open",
@@ -210,7 +210,7 @@
     "+15 1d since activity",
     "+4 $30",
     "-12 118 comments",
-    "+10 432 stars"
+    "+10 433 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 58990,
+   "stars": 59000,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "+8 8d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 58990 stars"
+    "-10 59000 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33310,
+   "stars": 33321,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 1d since activity",
     "+12 $250",
     "-12 185 comments",
-    "-10 33310 stars"
+    "-10 33321 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
