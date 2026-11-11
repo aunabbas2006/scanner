@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:07:51.481787+00:00",
+ "updated": "2026-11-11T00:01:57.196317+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -20,9 +20,9 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 30,
+   "comments": 31,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-10T03:52:49Z",
+   "updated_at": "2026-11-10T22:56:04Z",
    "assigned": true,
    "score": 37,
    "why": [
@@ -30,7 +30,7 @@
     "-30 20 attempt(s)",
     "+15 0d since activity",
     "+12 $100",
-    "-5 30 comments",
+    "-5 31 comments",
     "+10 1018 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -54,17 +54,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 24,
+   "comments": 25,
    "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-11-09T13:54:12Z",
+   "updated_at": "2026-11-10T23:22:41Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
     "-30 15 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 24 comments",
+    "-5 25 comments",
     "+10 1018 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -82,16 +82,16 @@
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 71,
+   "comments": 73,
    "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-09T13:42:09Z",
+   "updated_at": "2026-11-10T22:44:56Z",
    "assigned": false,
    "score": 37,
    "why": [
     "-30 34 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+4 $25",
-    "-12 71 comments",
+    "-12 73 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -140,9 +140,9 @@
     "\ud83d\udc8e Bounty",
     "$50"
    ],
-   "comments": 127,
+   "comments": 128,
    "created_at": "2023-12-03T09:33:28Z",
-   "updated_at": "2026-11-10T04:14:53Z",
+   "updated_at": "2026-11-10T21:28:45Z",
    "assigned": false,
    "score": 20,
    "why": [
@@ -150,7 +150,7 @@
     "-30 65 attempt(s)",
     "+15 0d since activity",
     "+12 $50",
-    "-12 127 comments",
+    "-12 128 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59008,
+   "stars": 59012,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +179,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 146d since activity",
+    "-8 147d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59008 stars"
+    "-10 59012 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -199,17 +199,17 @@
    "labels": [
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 118,
+   "comments": 120,
    "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-09T00:39:39Z",
+   "updated_at": "2026-11-10T22:46:35Z",
    "assigned": false,
    "score": 2,
    "why": [
     "-35 PR already submitted",
     "-30 68 attempt(s)",
-    "+15 1d since activity",
+    "+15 0d since activity",
     "+4 $30",
-    "-12 118 comments",
+    "-12 120 comments",
     "+10 433 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59008,
+   "stars": 59012,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "+8 9d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59008 stars"
+    "-10 59012 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -259,9 +259,9 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 187,
+   "comments": 188,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-11-10T13:13:51Z",
+   "updated_at": "2026-11-10T21:15:15Z",
    "assigned": false,
    "score": 1,
    "why": [
@@ -269,7 +269,7 @@
     "-30 88 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 187 comments",
+    "-12 188 comments",
     "-10 33327 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
