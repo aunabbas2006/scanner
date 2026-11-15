@@ -1,34 +1,7 @@
 {
- "updated": "2026-11-15T15:39:21.365077+00:00",
+ "updated": "2026-11-15T20:35:16.427048+00:00",
  "new_count": 0,
  "bounties": [
-  {
-   "url": "https://github.com/Ikalus1988/MisakaNet/issues/4801",
-   "title": "[Bounty] Answer the 2 linked question(s)",
-   "repo": "Ikalus1988/MisakaNet",
-   "stars": 561,
-   "watched": false,
-   "amount": 75.0,
-   "status": "open",
-   "attempts": 0,
-   "has_pr": false,
-   "labels": [
-    "ready",
-    "bounty"
-   ],
-   "comments": 6,
-   "created_at": "2026-11-13T14:53:46Z",
-   "updated_at": "2026-11-15T06:26:38Z",
-   "assigned": false,
-   "score": 91,
-   "why": [
-    "+15 0d since activity",
-    "+12 $75",
-    "+4 6 comments",
-    "+10 561 stars"
-   ],
-   "first_seen": "2026-11-15T01:19:52.733519+00:00"
-  },
   {
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
@@ -55,7 +28,7 @@
    "why": [
     "-15 assigned",
     "-30 22 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $100",
     "-5 33 comments",
     "+10 1017 stars"
@@ -145,7 +118,7 @@
    "why": [
     "-25 someone attempting",
     "-30 24 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $250",
     "-12 60 comments",
     "+10 1574 stars",
@@ -175,7 +148,7 @@
    "why": [
     "-25 someone attempting",
     "-30 67 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+12 $50",
     "-12 132 comments",
     "+10 434 stars"
@@ -186,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59101,
+   "stars": 59103,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -206,10 +179,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 151d since activity",
+    "-8 152d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59101 stars"
+    "-10 59103 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -234,7 +207,7 @@
    "why": [
     "-35 PR already submitted",
     "-30 69 attempt(s)",
-    "+15 1d since activity",
+    "+15 2d since activity",
     "+4 $30",
     "-12 122 comments",
     "+10 434 stars"
@@ -245,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59101,
+   "stars": 59103,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -264,10 +237,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "+8 13d since activity",
+    "+8 14d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59101 stars"
+    "-10 59103 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -275,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33407,
+   "stars": 33410,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -297,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 199 comments",
-    "-10 33407 stars"
+    "-10 33410 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
