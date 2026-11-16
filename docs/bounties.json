@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:35:16.427048+00:00",
+ "updated": "2026-11-16T00:23:02.165804+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 22,
+   "attempts": 23,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,17 +20,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 33,
+   "comments": 34,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-13T19:29:43Z",
+   "updated_at": "2026-11-15T21:06:18Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 22 attempt(s)",
-    "+15 2d since activity",
+    "-30 23 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 33 comments",
+    "-5 34 comments",
     "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -43,7 +43,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 15,
+   "attempts": 16,
    "has_pr": false,
    "labels": [
     "integration",
@@ -54,17 +54,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 25,
+   "comments": 26,
    "created_at": "2023-11-20T07:09:27Z",
-   "updated_at": "2026-11-11T20:36:11Z",
+   "updated_at": "2026-11-15T21:58:27Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 15 attempt(s)",
-    "+15 3d since activity",
+    "-30 16 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 25 comments",
+    "-5 26 comments",
     "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -252,24 +252,24 @@
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 95,
+   "attempts": 96,
    "has_pr": true,
    "labels": [
     "enhancement",
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 199,
+   "comments": 201,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-11-15T10:26:11Z",
+   "updated_at": "2026-11-15T21:27:07Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 95 attempt(s)",
+    "-30 96 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
-    "-12 199 comments",
+    "-12 201 comments",
     "-10 33410 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
@@ -298,7 +298,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 28 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+4 $40",
     "-12 52 comments"
    ],
