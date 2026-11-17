@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:43:10.367943+00:00",
+ "updated": "2026-11-17T00:31:32.187861+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -28,7 +28,7 @@
    "why": [
     "-15 assigned",
     "-30 23 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "-5 34 comments",
     "+10 1018 stars"
@@ -62,7 +62,7 @@
    "why": [
     "-15 assigned",
     "-30 16 attempt(s)",
-    "+15 0d since activity",
+    "+15 1d since activity",
     "+12 $100",
     "-5 26 comments",
     "+10 1018 stars"
@@ -73,11 +73,11 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 434,
+   "stars": 435,
    "watched": true,
    "amount": 25.0,
    "status": "open",
-   "attempts": 34,
+   "attempts": 33,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty"
@@ -88,11 +88,11 @@
    "assigned": false,
    "score": 37,
    "why": [
-    "-30 34 attempt(s)",
+    "-30 33 attempt(s)",
     "+15 0d since activity",
     "+4 $25",
     "-12 76 comments",
-    "+10 434 stars"
+    "+10 435 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -118,7 +118,7 @@
    "why": [
     "-25 someone attempting",
     "-30 24 attempt(s)",
-    "+15 2d since activity",
+    "+15 3d since activity",
     "+12 $250",
     "-12 60 comments",
     "+10 1574 stars",
@@ -130,7 +130,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 434,
+   "stars": 435,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -151,7 +151,7 @@
     "+15 0d since activity",
     "+12 $50",
     "-12 133 comments",
-    "+10 434 stars"
+    "+10 435 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59116,
+   "stars": 59119,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +179,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 152d since activity",
+    "-8 153d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59116 stars"
+    "-10 59119 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -190,7 +190,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 434,
+   "stars": 435,
    "watched": true,
    "amount": 30.0,
    "status": "open",
@@ -210,7 +210,7 @@
     "+15 0d since activity",
     "+4 $30",
     "-12 123 comments",
-    "+10 434 stars"
+    "+10 435 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59116,
+   "stars": 59119,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "+8 15d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59116 stars"
+    "-10 59119 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,11 +248,11 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33416,
+   "stars": 33425,
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 97,
+   "attempts": 96,
    "has_pr": true,
    "labels": [
     "enhancement",
@@ -266,11 +266,11 @@
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 97 attempt(s)",
+    "-30 96 attempt(s)",
     "+15 0d since activity",
     "+12 $250",
     "-12 203 comments",
-    "-10 33416 stars"
+    "-10 33425 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -298,7 +298,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 28 attempt(s)",
-    "+15 4d since activity",
+    "+15 5d since activity",
     "+4 $40",
     "-12 52 comments"
    ],
