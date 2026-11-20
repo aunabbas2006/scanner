@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:43:33.424249+00:00",
+ "updated": "2026-11-20T18:02:22.781583+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -89,7 +89,7 @@
    "score": 37,
    "why": [
     "-30 33 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+4 $25",
     "-12 76 comments",
     "+10 434 stars"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59182,
+   "stars": 59191,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 156d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59182 stars"
+    "-10 59191 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59182,
+   "stars": 59191,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -237,10 +237,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "+8 18d since activity",
+    "+8 19d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59182 stars"
+    "-10 59191 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33480,
+   "stars": 33488,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -259,18 +259,18 @@
     "maintainer approved",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 199,
+   "comments": 198,
    "created_at": "2024-08-30T23:46:34Z",
-   "updated_at": "2026-11-17T13:46:38Z",
+   "updated_at": "2026-11-20T09:57:27Z",
    "assigned": false,
    "score": 1,
    "why": [
     "-35 PR already submitted",
     "-30 95 attempt(s)",
-    "+15 2d since activity",
+    "+15 0d since activity",
     "+12 $250",
-    "-12 199 comments",
-    "-10 33480 stars"
+    "-12 198 comments",
+    "-10 33488 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
