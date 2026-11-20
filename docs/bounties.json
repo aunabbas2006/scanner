@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T20:53:18.099205+00:00",
+ "updated": "2026-11-20T01:58:58.730149+00:00",
  "new_count": 0,
  "bounties": [
   {
    "url": "https://github.com/revertinc/revert/issues/551",
    "title": "[REVER-51] Workable Integration",
    "repo": "revertinc/revert",
-   "stars": 1018,
+   "stars": 1017,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -31,7 +31,7 @@
     "+15 0d since activity",
     "+12 $100",
     "-5 35 comments",
-    "+10 1018 stars"
+    "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -39,7 +39,7 @@
    "url": "https://github.com/revertinc/revert/issues/372",
    "title": "[REVER-48] Workday Integration",
    "repo": "revertinc/revert",
-   "stars": 1018,
+   "stars": 1017,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -62,10 +62,10 @@
    "why": [
     "-15 assigned",
     "-30 16 attempt(s)",
-    "+15 3d since activity",
+    "+15 4d since activity",
     "+12 $100",
     "-5 26 comments",
-    "+10 1018 stars"
+    "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
@@ -73,7 +73,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/279",
    "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
    "repo": "arakoodev/EdgeChains",
-   "stars": 435,
+   "stars": 434,
    "watched": true,
    "amount": 25.0,
    "status": "open",
@@ -92,7 +92,7 @@
     "+15 3d since activity",
     "+4 $25",
     "-12 76 comments",
-    "+10 435 stars"
+    "+10 434 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -100,7 +100,7 @@
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
-   "stars": 1574,
+   "stars": 1573,
    "watched": true,
    "amount": 250.0,
    "status": "claimed",
@@ -121,7 +121,7 @@
     "+15 6d since activity",
     "+12 $250",
     "-12 60 comments",
-    "+10 1574 stars",
+    "+10 1573 stars",
     "+8 beginner-friendly label"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
@@ -130,7 +130,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/290",
    "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
    "repo": "arakoodev/EdgeChains",
-   "stars": 435,
+   "stars": 434,
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
@@ -151,7 +151,7 @@
     "+15 3d since activity",
     "+12 $50",
     "-12 133 comments",
-    "+10 435 stars"
+    "+10 434 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59173,
+   "stars": 59175,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 156d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59173 stars"
+    "-10 59175 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -190,7 +190,7 @@
    "url": "https://github.com/arakoodev/EdgeChains/issues/273",
    "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
    "repo": "arakoodev/EdgeChains",
-   "stars": 435,
+   "stars": 434,
    "watched": true,
    "amount": 30.0,
    "status": "open",
@@ -210,7 +210,7 @@
     "+15 2d since activity",
     "+4 $30",
     "-12 123 comments",
-    "+10 435 stars"
+    "+10 434 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59173,
+   "stars": 59175,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "+8 18d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59173 stars"
+    "-10 59175 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33471,
+   "stars": 33469,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 2d since activity",
     "+12 $250",
     "-12 199 comments",
-    "-10 33471 stars"
+    "-10 33469 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
