@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:45:45.146584+00:00",
+ "updated": "2026-11-21T13:45:02.108073+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 24,
+   "attempts": 25,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,17 +20,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 35,
+   "comments": 37,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-19T07:40:12Z",
+   "updated_at": "2026-11-21T11:05:58Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 24 attempt(s)",
-    "+15 1d since activity",
+    "-30 25 attempt(s)",
+    "+15 0d since activity",
     "+12 $100",
-    "-5 35 comments",
+    "-5 37 comments",
     "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33492,
+   "stars": 33496,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 199 comments",
-    "-10 33492 stars"
+    "-10 33496 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
