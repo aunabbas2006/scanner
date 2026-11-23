@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:47:38.368978+00:00",
+ "updated": "2026-11-23T21:51:09.075919+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 25,
+   "attempts": 26,
    "has_pr": false,
    "labels": [
     "integration",
@@ -27,40 +27,13 @@
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 25 attempt(s)",
-    "+15 1d since activity",
+    "-30 26 attempt(s)",
+    "+15 2d since activity",
     "+12 $100",
     "-5 37 comments",
     "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
-   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 434,
-   "watched": true,
-   "amount": 25.0,
-   "status": "open",
-   "attempts": 33,
-   "has_pr": false,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 76,
-   "created_at": "2023-11-30T10:03:48Z",
-   "updated_at": "2026-11-16T16:35:37Z",
-   "assigned": false,
-   "score": 37,
-   "why": [
-    "-30 33 attempt(s)",
-    "+15 6d since activity",
-    "+4 $25",
-    "-12 76 comments",
-    "+10 434 stars"
-   ],
-   "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
   {
    "url": "https://github.com/revertinc/revert/issues/372",
@@ -97,6 +70,33 @@
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
   },
   {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 434,
+   "watched": true,
+   "amount": 25.0,
+   "status": "open",
+   "attempts": 32,
+   "has_pr": false,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 76,
+   "created_at": "2023-11-30T10:03:48Z",
+   "updated_at": "2026-11-16T16:35:37Z",
+   "assigned": false,
+   "score": 30,
+   "why": [
+    "-30 32 attempt(s)",
+    "+8 7d since activity",
+    "+4 $25",
+    "-12 76 comments",
+    "+10 434 stars"
+   ],
+   "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
    "url": "https://github.com/getdozer/dozer/issues/1690",
    "title": "Sample: Dozer + LLM + Vector database + Langchain sample",
    "repo": "getdozer/dozer",
@@ -118,7 +118,7 @@
    "why": [
     "-25 someone attempting",
     "-30 24 attempt(s)",
-    "+8 9d since activity",
+    "+8 10d since activity",
     "+12 $250",
     "-12 60 comments",
     "+10 1573 stars",
@@ -134,7 +134,7 @@
    "watched": true,
    "amount": 50.0,
    "status": "claimed",
-   "attempts": 68,
+   "attempts": 67,
    "has_pr": false,
    "labels": [
     "\ud83d\udc8e Bounty",
@@ -147,7 +147,7 @@
    "score": 20,
    "why": [
     "-25 someone attempting",
-    "-30 68 attempt(s)",
+    "-30 67 attempt(s)",
     "+15 1d since activity",
     "+12 $50",
     "-12 133 comments",
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59221,
+   "stars": 59223,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,10 +179,10 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 159d since activity",
+    "-8 160d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59221 stars"
+    "-10 59223 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -194,7 +194,7 @@
    "watched": true,
    "amount": 30.0,
    "status": "open",
-   "attempts": 69,
+   "attempts": 68,
    "has_pr": true,
    "labels": [
     "\ud83d\udc8e Bounty"
@@ -206,8 +206,8 @@
    "score": 2,
    "why": [
     "-35 PR already submitted",
-    "-30 69 attempt(s)",
-    "+15 5d since activity",
+    "-30 68 attempt(s)",
+    "+15 6d since activity",
     "+4 $30",
     "-12 123 comments",
     "+10 434 stars"
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59221,
+   "stars": 59223,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -237,10 +237,10 @@
    "why": [
     "-35 PR already submitted",
     "-30 10 attempt(s)",
-    "+8 21d since activity",
+    "+8 22d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59221 stars"
+    "-10 59223 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33509,
+   "stars": 33516,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 202 comments",
-    "-10 33509 stars"
+    "-10 33516 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -298,7 +298,7 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 28 attempt(s)",
-    "+8 11d since activity",
+    "+8 12d since activity",
     "+4 $40",
     "-12 52 comments"
    ],
