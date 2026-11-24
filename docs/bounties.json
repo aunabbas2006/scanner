@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:51:09.075919+00:00",
+ "updated": "2026-11-24T05:42:33.892252+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -62,7 +62,7 @@
    "why": [
     "-15 assigned",
     "-30 16 attempt(s)",
-    "+8 7d since activity",
+    "+8 8d since activity",
     "+12 $100",
     "-5 26 comments",
     "+10 1017 stars"
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59223,
+   "stars": 59229,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -182,7 +182,7 @@
     "-8 160d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59223 stars"
+    "-10 59229 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -218,7 +218,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59223,
+   "stars": 59229,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +240,7 @@
     "+8 22d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59223 stars"
+    "-10 59229 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -248,7 +248,7 @@
    "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
    "title": "Jira Service Management Connector",
    "repo": "onyx-dot-app/onyx",
-   "stars": 33516,
+   "stars": 33519,
    "watched": true,
    "amount": 250.0,
    "status": "open",
@@ -270,7 +270,7 @@
     "+15 0d since activity",
     "+12 $250",
     "-12 202 comments",
-    "-10 33516 stars"
+    "-10 33519 stars"
    ],
    "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
@@ -278,7 +278,7 @@
    "url": "https://github.com/tryabby/abby/issues/68",
    "title": "Vue Integration",
    "repo": "tryabby/abby",
-   "stars": 167,
+   "stars": 166,
    "watched": true,
    "amount": 40.0,
    "status": "claimed",
