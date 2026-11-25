@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:27:20.231711+00:00",
+ "updated": "2026-11-25T00:58:47.441451+00:00",
  "new_count": 0,
  "bounties": [
   {
@@ -10,7 +10,7 @@
    "watched": true,
    "amount": 100.0,
    "status": "open",
-   "attempts": 26,
+   "attempts": 27,
    "has_pr": false,
    "labels": [
     "integration",
@@ -20,17 +20,17 @@
     "ATS",
     "\ud83d\udc8e Bounty"
    ],
-   "comments": 38,
+   "comments": 39,
    "created_at": "2024-04-29T11:50:14Z",
-   "updated_at": "2026-11-24T15:22:55Z",
+   "updated_at": "2026-11-24T23:47:39Z",
    "assigned": true,
    "score": 37,
    "why": [
     "-15 assigned",
-    "-30 26 attempt(s)",
+    "-30 27 attempt(s)",
     "+15 0d since activity",
     "+12 $100",
-    "-5 38 comments",
+    "-5 39 comments",
     "+10 1017 stars"
    ],
    "first_seen": "2026-09-09T18:00:32.627750+00:00"
@@ -62,7 +62,7 @@
    "why": [
     "-15 assigned",
     "-30 16 attempt(s)",
-    "+8 8d since activity",
+    "+8 9d since activity",
     "+12 $100",
     "-5 26 comments",
     "+10 1017 stars"
@@ -89,7 +89,7 @@
    "score": 30,
    "why": [
     "-30 32 attempt(s)",
-    "+8 7d since activity",
+    "+8 8d since activity",
     "+4 $25",
     "-12 76 comments",
     "+10 434 stars"
@@ -118,7 +118,7 @@
    "why": [
     "-25 someone attempting",
     "-30 24 attempt(s)",
-    "+8 10d since activity",
+    "+8 11d since activity",
     "+12 $250",
     "-12 60 comments",
     "+10 1573 stars",
@@ -159,7 +159,7 @@
    "url": "https://github.com/go-gitea/gitea/issues/1872",
    "title": "Subgroups in Gitea",
    "repo": "go-gitea/gitea",
-   "stars": 59236,
+   "stars": 59242,
    "watched": true,
    "amount": 100.0,
    "status": "open",
@@ -179,46 +179,18 @@
    "score": 5,
    "why": [
     "-27 3 attempt(s)",
-    "-8 160d since activity",
+    "-8 161d since activity",
     "+12 $100",
     "-12 129 comments",
-    "-10 59236 stars"
+    "-10 59242 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
-  },
-  {
-   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
-   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
-   "repo": "arakoodev/EdgeChains",
-   "stars": 434,
-   "watched": true,
-   "amount": 30.0,
-   "status": "open",
-   "attempts": 68,
-   "has_pr": true,
-   "labels": [
-    "\ud83d\udc8e Bounty"
-   ],
-   "comments": 123,
-   "created_at": "2023-11-26T19:15:36Z",
-   "updated_at": "2026-11-17T19:56:07Z",
-   "assigned": false,
-   "score": 2,
-   "why": [
-    "-35 PR already submitted",
-    "-30 68 attempt(s)",
-    "+15 6d since activity",
-    "+4 $30",
-    "-12 123 comments",
-    "+10 434 stars"
-   ],
-   "first_seen": "2026-10-14T06:44:20.805207+00:00"
   },
   {
    "url": "https://github.com/go-gitea/gitea/issues/4898",
    "title": "Add inline comments on commits",
    "repo": "go-gitea/gitea",
-   "stars": 59236,
+   "stars": 59242,
    "watched": true,
    "amount": 300.0,
    "status": "open",
@@ -240,7 +212,7 @@
     "+8 23d since activity",
     "+6 $300",
     "-12 121 comments",
-    "-10 59236 stars"
+    "-10 59242 stars"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
   },
@@ -252,7 +224,7 @@
    "watched": true,
    "amount": 250.0,
    "status": "open",
-   "attempts": 98,
+   "attempts": 99,
    "has_pr": true,
    "labels": [
     "enhancement",
@@ -266,7 +238,7 @@
    "score": 1,
    "why": [
     "-35 PR already submitted",
-    "-30 98 attempt(s)",
+    "-30 99 attempt(s)",
     "+15 1d since activity",
     "+12 $250",
     "-12 202 comments",
@@ -298,11 +270,39 @@
     "-35 PR already submitted",
     "-25 someone attempting",
     "-30 28 attempt(s)",
-    "+8 12d since activity",
+    "+8 13d since activity",
     "+4 $40",
     "-12 52 comments"
    ],
    "first_seen": "2026-08-31T13:54:38.791784+00:00"
+  },
+  {
+   "url": "https://github.com/arakoodev/EdgeChains/issues/273",
+   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
+   "repo": "arakoodev/EdgeChains",
+   "stars": 434,
+   "watched": true,
+   "amount": 30.0,
+   "status": "open",
+   "attempts": 68,
+   "has_pr": true,
+   "labels": [
+    "\ud83d\udc8e Bounty"
+   ],
+   "comments": 123,
+   "created_at": "2023-11-26T19:15:36Z",
+   "updated_at": "2026-11-17T19:56:07Z",
+   "assigned": false,
+   "score": 1,
+   "why": [
+    "-35 PR already submitted",
+    "-30 68 attempt(s)",
+    "+8 7d since activity",
+    "+4 $30",
+    "-12 123 comments",
+    "+10 434 stars"
+   ],
+   "first_seen": "2026-10-14T06:44:20.805207+00:00"
   }
  ]
 }
